@@ -90,6 +90,8 @@
 
 ## Go 
 
+- [reading-go](https://github.com/developer-learning/reading-go) - Go 每日阅读和 Go 夜读 &gt; Daily Reading Go and Night Reading Go - Go source reading and offline technical or another articles or discussion on every night.
+- [learning-golang](https://github.com/developer-learning/learning-golang) - Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）
 - [golang123](https://github.com/shen100/golang123) - golang123 是使用 vue、nuxt、node.js 和 golang 开发的知识分享系统
 - [decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in go
 - [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
