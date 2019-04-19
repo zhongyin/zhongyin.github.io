@@ -373,6 +373,8 @@
 
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                http://panjiachen.github.io/vue-element-admin
 
+## 2019 golang developer roadmap
+![golang roadmap](https://github.com/Alikhll/golang-developer-roadmap/blob/master/golang-developer-roadmap.png "2019 golang developer roadmap")
 
 ## License
 
@@ -380,5 +382,3 @@
 
 To the extent possible under law, [zhongyin](https://github.com/zhongyin) has waived all copyright and related or neighboring rights to this work.
 
-## 2019 golang developer roadmap
-![golang roadmap](https://github.com/Alikhll/golang-developer-roadmap/blob/master/golang-developer-roadmap.png "2019 golang developer roadmap")
