@@ -90,6 +90,8 @@
 
 ## Go 
 
+- [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
+- [ffjson](https://github.com/pquerna/ffjson) - faster JSON serialization for Go
 - [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource.
 - [reading-go](https://github.com/developer-learning/reading-go) - Go 每日阅读和 Go 夜读 &gt; Daily Reading Go and Night Reading Go - Go source reading and offline technical or another articles or discussion on every night.
 - [learning-golang](https://github.com/developer-learning/learning-golang) - Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）
@@ -125,7 +127,6 @@
 - [telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 - [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
 - [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
-- [rpcx](https://github.com/smallnest/rpcx) - Faster multil-language  bidirectional RPC framework in Go, like alibaba Dubbo, but with more features, Scale easily.
 - [github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
 - [teleport](https://github.com/gravitational/teleport) - Privileged access management for elastic infrastructure.
 - [teleconsole](https://github.com/gravitational/teleconsole) - Command line tool to share your UNIX terminal and forward local TCP ports to people you trust.
@@ -142,11 +143,12 @@
 
 - [http-api-design-ZH_CN](https://github.com/ZhangBohan/http-api-design-ZH_CN) - HTTP API 设计指南(http-api-design-ZH_CN)，翻译自https://github.com/interagent/http-api-design
 - [gopl-zh](https://github.com/golang-china/gopl-zh) - :books: Go语言圣经中文版
+- [rpcx](https://github.com/smallnest/rpcx) - Faster multil-language  bidirectional RPC framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it!
 - [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 - [gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 3 Admin Template
 - [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates for Bootstrap 📊✨
+- [dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
 - [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x
 
 ## Java 
@@ -161,13 +163,13 @@
 - [anthelion](https://github.com/yahoo/anthelion) - Anthelion is a plugin for Apache Nutch to crawl semantic annotations within HTML pages.
 - [bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine
-- [presto](https://github.com/prestodb/presto) - Distributed SQL query engine for big data
+- [presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
 - [fastweixin](https://github.com/sd4324530/fastweixin) - 极其方便的实现微信公众平台服务端开发，2行代码完成服务器绑定，3行代码实现用户消息监听
 
 ## JavaScript 
 
 - [taro-yanxuan](https://github.com/js-newbee/taro-yanxuan) - 首个 Taro 多端统一实例 - 网易严选（小程序 + H5 + React Native） - By 趣店 FED
-- [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools for everything.
+- [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools for everything 👉
 - [egg](https://github.com/eggjs/egg) - 🥚 Born to build better enterprise frameworks and apps with Node.js & Koa
 - [kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
 - [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) - 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
@@ -232,21 +234,23 @@
 - [luastar](https://github.com/luastar/luastar) - 一个基于openresty的http接口和web开发框架
 - [VeryNginx](https://github.com/alexazhou/VeryNginx) - A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
 - [anonymous](https://github.com/aifeiasdf/anonymous) - 基于OpenResty搭建的 API SERVER 框架
-- [kong](https://github.com/Kong/kong) - :gorilla: The Cloud-Native API Gateway & Service Mesh
+- [kong](https://github.com/Kong/kong) - :gorilla: The Cloud-Native API Gateway
 
 ## Others 
 
+- [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2019
+- [git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
 - [Go42](https://github.com/ffhelicopter/Go42) - 写《Go语言四十二章经》，纯粹是因为开发过程中碰到过的一些问题，踩到过的一些坑，感觉在Go语言学习使用过程中，有必要深刻理解这门语言的核心思维、清晰掌握语言的细节规范以及反复琢磨标准包代码设计模式，于是才有了这本书。
 - [Micro8](https://github.com/Micropoor/Micro8) - Gitbook
 - [nginx-quick-reference](https://github.com/trimstray/nginx-quick-reference) - These notes describes how to improve Nginx performance, security and other important things; @ssllabs A+ 100%.
+- [A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) - 专为程序员编写的英语学习指南 v1.2。在线版本请点 -&gt;
 - [http-api-design](https://github.com/interagent/http-api-design) - HTTP API design guide extracted from work on the Heroku Platform API
 - [kindle_free_books](https://github.com/crazyandcoder/kindle_free_books) - 免费的Kindle电子书资源，不定期更新...
 - [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [weekly](https://github.com/ruanyf/weekly) - 技术分享周刊，每周五发布
-- [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [share_ppt](https://github.com/rfyiamcool/share_ppt) - 🚗  我个人曾经做过的技术分享...
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) - 😋  技术面试必备基础知识
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books:  技术面试必备基础知识
 - [awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2019
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
@@ -311,6 +315,7 @@
 - [faceswap](https://github.com/deepfakes/faceswap) - Non official project based on original /r/Deepfakes thread. Many thanks to him!
 - [12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
 - [py12306](https://github.com/pjialin/py12306) - 🚂 12306 购票助手，支持分布式，多账号，多任务购票以及 Web 页面管理
+- [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [Deep-Learning-21-Examples](https://github.com/hzy46/Deep-Learning-21-Examples) - 《21个项目玩转深度学习———基于TensorFlow的实践详解》配套代码
 - [walle-web](https://github.com/meolu/walle-web) - walle - 瓦力 Devops开源项目代码部署平台
 - [certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
@@ -344,9 +349,8 @@
 ## Shell 
 
 - [htrace.sh](https://github.com/trimstray/htrace.sh) - My simple Swiss Army knife for http/https troubleshooting and profiling.
-- [A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) - 专为程序员编写的英语学习指南 v1.2。在线版本请点 -&gt;
 - [acme.sh](https://github.com/Neilpang/acme.sh) - A pure Unix shell script implementing ACME client protocol
-- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 
 ## Swift 
