@@ -94,6 +94,7 @@
 
 ## Go 
 
+- [paysuper-management-api](https://github.com/paysuper/paysuper-management-api) - 
 - [paysuper-billing-server](https://github.com/paysuper/paysuper-billing-server) - Billing service contain all business logic for payment processing
 - [echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [canal-go](https://github.com/withlin/canal-go) - Alibaba mysql database binlog incremental subscription & consumer components Canal's golang client[阿里巴巴mysql数据库binlog的增量订阅&消费组件 Canal 的 go 客户端 ]   https://github.com/alibaba/canal
