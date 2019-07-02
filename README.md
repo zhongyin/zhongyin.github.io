@@ -95,13 +95,15 @@
 
 ## Go 
 
+- [transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
+- [ko](https://github.com/google/ko) - Build and deploy Go applications on Kubernetes
 - [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. 5 less than k8s.
 - [sniper](https://github.com/bilibili/sniper) - 轻量级 go 业务框架。
 - [mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
 - [bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go.
 - [go-flutter](https://github.com/go-flutter-desktop/go-flutter) - Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.
 - [goalert](https://github.com/target/goalert) - Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert
-- [geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go
+- [geziyor](https://github.com/geziyor/geziyor) - Geziyor, a blazing fast web crawling & scraping framework for Go
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [objx](https://github.com/stretchr/objx) - Go package for dealing with maps, slices, JSON and other data.
 - [websocket](https://github.com/gorilla/websocket) - A WebSocket implementation for Go.
@@ -180,6 +182,7 @@
 - [gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 3 Admin Template
 - [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
 - [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x
 
@@ -190,7 +193,7 @@
 ## Java 
 
 - [halo](https://github.com/halo-dev/halo) - ✍ Halo 一款现代化的个人独立博客系统
-- [canal](https://github.com/alibaba/canal) - 阿里巴巴mysql数据库binlog的增量订阅&消费组件 。阿里云DRDS( https://www.aliyun.com/product/drds )、阿里巴巴TDDL 二级索引、小表复制powerd by canal. Aliyun Data Lake Analytics https://www.aliyun.com/product/datalakeanalytics powered by canal
+- [canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&消费组件
 - [mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计
@@ -246,7 +249,6 @@
 - [winjs](https://github.com/winjs/winjs) - A UI toolkit for modern browsers
 - [lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
 - [plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
-- [twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [webogram](https://github.com/zhukov/webogram) - Telegram web application, GPL v3
 - [wekan](https://github.com/wekan/wekan) - The open-source kanban (built with Meteor)
 - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
@@ -277,6 +279,7 @@
 - [VeryNginx](https://github.com/alexazhou/VeryNginx) - A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
 - [anonymous](https://github.com/aifeiasdf/anonymous) - 基于OpenResty搭建的 API SERVER 框架
 - [kong](https://github.com/Kong/kong) - :gorilla: The Cloud-Native API Gateway
+- [openresty-best-practices](https://github.com/moonbingbing/openresty-best-practices) - 
 
 ## Others 
 
@@ -327,7 +330,6 @@
 - [awesome-resty](https://github.com/bungle/awesome-resty) - A List of Quality OpenResty Libraries, and Resources.
 - [open-falcon](https://github.com/XiaoMi/open-falcon) - A Distributed and High-Performance Monitoring System
 - [blog](https://github.com/fouber/blog) - 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
-- [openresty-best-practices](https://github.com/moonbingbing/openresty-best-practices) - 
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
@@ -394,6 +396,7 @@
 
 ## Shell 
 
+- [my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 - [htrace.sh](https://github.com/trimstray/htrace.sh) - My simple Swiss Army knife for http/https troubleshooting and profiling.
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things; @ssllabs A+ 100%, @mozilla A+ 120/100.
 - [acme.sh](https://github.com/Neilpang/acme.sh) - A pure Unix shell script implementing ACME client protocol
