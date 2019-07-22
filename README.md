@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [Assembly](#assembly)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -32,6 +33,10 @@
   - [TypeScript](#typescript)
   - [Vue](#vue)
 
+## Assembly 
+
+- [Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+
 ## C 
 
 - [TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
@@ -57,6 +62,7 @@
 
 ## C++ 
 
+- [folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
 - [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [guetzli](https://github.com/google/guetzli) - Perceptual JPEG encoder
@@ -154,7 +160,7 @@
 - [istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [argo](https://github.com/argoproj/argo) - Argo Workflows: Get stuff done with Kubernetes.
 - [pipe](https://github.com/b3log/pipe) - 🎷 一款小而美的博客平台，专为程序员设计。https://hacpai.com/tag/pipe
-- [iris](https://github.com/kataras/iris) - 我愛中國 | Iris is the fastest community-driven web framework on (THIS) Earth. HTTP/2, MVC and more. Unbeatable free support for everyone. Can your old-fashioned web framework do that? 👉 http://bit.ly/iriscandothat1 or even http://bit.ly/iriscandothat2
+- [iris](https://github.com/kataras/iris) - 我愛中國 | Iris is the fastest community-driven web framework on (THIS) Earth. Automatic Public Domain, HTTP/2, MVC and more 👉 https://bit.ly/iriscandothat1, https://bit.ly/iriscandothat3
 - [naftis](https://github.com/XiaoMi/naftis) - An awesome dashboard for Istio built with love.
 - [skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
@@ -294,6 +300,7 @@
 
 ## Others 
 
+- [regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box) - 定投改变命运 —— 让时间陪你慢慢变富
 - [go-best-practice](https://github.com/llitfkitfk/go-best-practice) - Go语言实战:  编写可维护Go语言代码建议
 - [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 - [from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) - 2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
