@@ -94,6 +94,7 @@
 
 ## Dart 
 
+- [Flutter-Notebook](https://github.com/OpenFlutter/Flutter-Notebook) - 日更的FlutterDemo合集，今天你fu了吗
 - [flutter_web](https://github.com/flutter/flutter_web) - Bring your Flutter code to web browsers
 - [FlutterDouBan](https://github.com/kaina404/FlutterDouBan) - 🔥🔥🔥Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端。首页、书影音、小组、市集及个人中心，一个不拉。（ https://img.xuvip.top/douyademo.mp4）
 - [flutter-go](https://github.com/alibaba/flutter-go) - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
@@ -160,7 +161,7 @@
 - [istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [argo](https://github.com/argoproj/argo) - Argo Workflows: Get stuff done with Kubernetes.
 - [pipe](https://github.com/b3log/pipe) - 🎷 一款小而美的博客平台，专为程序员设计。https://hacpai.com/tag/pipe
-- [iris](https://github.com/kataras/iris) - 我愛中國 | Iris is the fastest community-driven web framework on (THIS) Earth. Automatic Public Domain, HTTP/2, MVC and more 👉 https://bit.ly/iriscandothat1, https://bit.ly/iriscandothat3
+- [iris](https://github.com/kataras/iris) - 我爱中国人民 | The community-driven web framework for Go. Automatic HTTPS and Public Address, MVC and more. https://bit.ly/iriscandothat1 https://bit.ly/iriscandothat3 |
 - [naftis](https://github.com/XiaoMi/naftis) - An awesome dashboard for Istio built with love.
 - [skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
@@ -414,6 +415,7 @@
 
 ## Shell 
 
+- [TabNine](https://github.com/zxqfl/TabNine) - The all-language autocompleter: https://tabnine.com/
 - [my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 - [htrace.sh](https://github.com/trimstray/htrace.sh) - My simple Swiss Army knife for http/https troubleshooting and profiling.
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things; @ssllabs A+ 100%, @mozilla A+ 120/100.
