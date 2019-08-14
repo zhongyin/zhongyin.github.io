@@ -104,6 +104,12 @@
 
 ## Go 
 
+- [testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
+- [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
+- [toml](https://github.com/BurntSushi/toml) - TOML parser for Golang with reflection.
+- [gonrails](https://github.com/gonrails/gonrails) - Rails like mvc backend application with golang .
+- [errors](https://github.com/pkg/errors) - Simple error handling primitives
+- [twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
 - [octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
@@ -162,7 +168,7 @@
 - [istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [argo](https://github.com/argoproj/argo) - Argo Workflows: Get stuff done with Kubernetes.
 - [pipe](https://github.com/b3log/pipe) - 🎷 一款小而美的博客平台，专为程序员设计。
-- [iris](https://github.com/kataras/iris) - 我爱中国人民 | The community-driven web framework for Go. Automatic HTTPS and Public Address, MVC and more. https://bit.ly/iriscandothat1 https://bit.ly/iriscandothat3 |
+- [iris](https://github.com/kataras/iris) - 我愛中國人 https://bit.ly/謝謝 | The community-driven web framework for Go. Automatic HTTPS and Public Address, MVC and more. https://bit.ly/iriscandothat1 https://bit.ly/iriscandothat3 |
 - [naftis](https://github.com/XiaoMi/naftis) - An awesome dashboard for Istio built with love.
 - [skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
@@ -233,7 +239,7 @@
 
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 - [Web](https://github.com/qianguyihao/Web) - 前端入门和进阶学习笔记，超详细的Web前端学习图文教程。从零开始学前端，做一个Web全栈工程师。持续更新...
-- [taro-yanxuan](https://github.com/js-newbee/taro-yanxuan) - 首个 Taro 多端统一实例 - 网易严选（小程序 + H5 + React Native） - By 趣店 FED
+- [taro-yanxuan](https://github.com/qit-team/taro-yanxuan) - 首个 Taro 多端统一实例 - 网易严选（小程序 + H5 + React Native） - By 趣店 FED
 - [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools for everything 👉
 - [egg](https://github.com/eggjs/egg) - 🥚 Born to build better enterprise frameworks and apps with Node.js & Koa
 - [kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
@@ -270,7 +276,7 @@
 - [lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
 - [plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [webogram](https://github.com/zhukov/webogram) - Telegram web application, GPL v3
-- [wekan](https://github.com/wekan/wekan) - The open-source kanban (built with Meteor). NOTE: All Pull Requests should be done to master branch. Keep variable/table/field names camelCase. Old devel branch will be removed in near future. For translations, only add PR changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
+- [wekan](https://github.com/wekan/wekan) - The open-source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add PR changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
 - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [chromeos-apk](https://github.com/vladikoff/chromeos-apk) - ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
@@ -287,6 +293,7 @@
 
 ## Lua 
 
+- [apisix](https://github.com/iresty/apisix) - Cloud-Native Microservices API Gateway
 - [lsofgraph](https://github.com/zevv/lsofgraph) - lsof to graphviz
 - [lua-resty-master](https://github.com/openresty-fan/lua-resty-master) - 
 - [ledge](https://github.com/ledgetech/ledge) - An RFC compliant and ESI capable HTTP cache for Nginx / OpenResty, backed by Redis
@@ -377,7 +384,6 @@
 
 ## Perl 
 
-- [apisix](https://github.com/iresty/apisix) - APISIX is a Cloud-Native Microservices API Gateway
 - [ABTestingGateway](https://github.com/CNSRE/ABTestingGateway) - 
 
 ## Python 
@@ -418,6 +424,7 @@
 
 ## Shell 
 
+- [kubeasz](https://github.com/easzlab/kubeasz) - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
 - [TabNine](https://github.com/zxqfl/TabNine) - The all-language autocompleter: https://tabnine.com/
 - [my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 - [htrace.sh](https://github.com/trimstray/htrace.sh) - My simple Swiss Army knife for http/https troubleshooting and profiling.
