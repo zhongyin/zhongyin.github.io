@@ -40,6 +40,7 @@
 
 ## C 
 
+- [wt](https://github.com/emweb/wt) - Wt, C++ Web Toolkit
 - [hindsight](https://github.com/mozilla-services/hindsight) - Hindsight - light weight data processing skeleton
 - [TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features
