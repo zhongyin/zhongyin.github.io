@@ -40,6 +40,7 @@
 
 ## C 
 
+- [TencentOS-tiny](https://github.com/Tencent/TencentOS-tiny) - 腾讯物联网终端操作系统
 - [wt](https://github.com/emweb/wt) - Wt, C++ Web Toolkit
 - [hindsight](https://github.com/mozilla-services/hindsight) - Hindsight - light weight data processing skeleton
 - [TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
@@ -107,6 +108,9 @@
 
 ## Go 
 
+- [machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing.
+- [gnet](https://github.com/panjf2000/gnet) - ⚡️A high-performance, lightweight, nonblocking and event-loop networking library written in pure Go.🔥
+- [go-patterns](https://github.com/sevenelevenlee/go-patterns) - Golang 设计模式
 - [realclouds_go](https://github.com/shibingli/realclouds_go) - 
 - [quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
 - [kuma](https://github.com/Kong/kuma) - 🐻 The Universal Service Mesh
