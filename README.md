@@ -110,6 +110,11 @@
 
 ## Go 
 
+- [modern-go-application](https://github.com/sagikazarmark/modern-go-application) - Modern Go Application example
+- [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
+- [brook](https://github.com/txthinking/brook) - Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software
+- [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
+- [helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [protobuf](https://github.com/gogo/protobuf) - Protocol Buffers for Go with Gadgets
 - [kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
 - [short](https://github.com/byliuyang/short) - URL shortening service written in Go and React
