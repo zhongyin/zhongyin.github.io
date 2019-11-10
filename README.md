@@ -479,7 +479,6 @@
 - [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [pyauto](https://github.com/yorkoliu/pyauto) - 《python自动化运维：技术与最佳实践》书中示例及案例源码
-- [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [http-prompt](https://github.com/eliangcs/http-prompt) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
 - [kinto](https://github.com/Kinto/kinto) - A generic JSON document store with sharing and synchronisation capabilities.
