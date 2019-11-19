@@ -379,6 +379,7 @@
 
 ## Others 
 
+- [lantern](https://github.com/getlantern/lantern) - 蓝灯Windows下载 https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe 蓝灯安卓下载 https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk
 - [free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
 - [guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [go-spring-doc](https://github.com/didi/go-spring-doc) - 🐦 代码在 https://github.com/go-spring 仓库
