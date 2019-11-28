@@ -110,6 +110,10 @@
 
 ## Go 
 
+- [pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
+- [chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
+- [gorm](https://github.com/jinzhu/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
+- [go-admin](https://github.com/GoAdminGroup/go-admin) - A dataviz framework help gopher to build a admin panel in ten minutes
 - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
 - [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
@@ -248,7 +252,6 @@
 - [lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [gorm](https://github.com/jinzhu/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [gvisor](https://github.com/google/gvisor) - Container Runtime Sandbox
 - [web](https://github.com/hoisie/web) - The easiest way to create web applications with Go
 - [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
