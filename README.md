@@ -45,7 +45,6 @@
 - [hindsight](https://github.com/mozilla-services/hindsight) - Hindsight - light weight data processing skeleton
 - [TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features
-- [openpilot](https://github.com/commaai/openpilot) - open source driving agent
 - [nuster](https://github.com/jiangwenyuan/nuster) - A high performance HTTP proxy cache server and RESTful NoSQL cache server based on HAProxy
 - [redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 - [twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
@@ -68,6 +67,7 @@
 
 - [googletest](https://github.com/google/googletest) - Googletest - Google Testing and Mocking Framework
 - [folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
+- [openpilot](https://github.com/commaai/openpilot) - open source driving agent
 - [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [guetzli](https://github.com/google/guetzli) - Perceptual JPEG encoder
@@ -82,6 +82,7 @@
 - [rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
 - [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [scylla](https://github.com/scylladb/scylla) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
+- [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server.
 - [webscalesql-5.6](https://github.com/facebookarchive/webscalesql-5.6) - WebScaleSQL, Version 5.6, based upon the MySQL-5.6 community releases.
@@ -109,12 +110,20 @@
 
 ## Go 
 
+- [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.
+- [autocertdelegate](https://github.com/bradfitz/autocertdelegate) - Get LetsEncrypt TLS certs for internal-only TLS servers via a delegated golang.org/x/crypto/acme/autocert server.
+- [gendry](https://github.com/didi/gendry) - a golang library for sql builder
+- [gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet, LinkedHashSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap, LinkedHashMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON
+- [Burrow](https://github.com/linkedin/Burrow) - Kafka Consumer Lag Checking
+- [req](https://github.com/imroc/req) - a golang http request library for humans
+- [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
+- [kube-router](https://github.com/cloudnativelabs/kube-router) - Kube-router, a turnkey solution for Kubernetes networking.
 - [kplcloud](https://github.com/kplcloud/kplcloud) - 基于Kubernetes的应用管理平台
 - [flux](https://github.com/fluxcd/flux) - The GitOps Kubernetes operator
 - [pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
 - [chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [gorm](https://github.com/jinzhu/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
-- [go-admin](https://github.com/GoAdminGroup/go-admin) - A dataviz framework help gopher to build a admin panel in ten minutes
+- [go-admin](https://github.com/GoAdminGroup/go-admin) - A golang framework helps gopher to build a data visualization and admin panel in ten minutes
 - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
 - [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
@@ -158,7 +167,7 @@
 - [opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
 - [go-micro](https://github.com/micro/go-micro) - A Go microservices development framework
 - [machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing.
-- [gnet](https://github.com/panjf2000/gnet) - 🦋 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的基于事件驱动的 Go 网络框架。
+- [gnet](https://github.com/panjf2000/gnet) - 🦋 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
 - [go-patterns](https://github.com/sevenelevenlee/go-patterns) - Golang 设计模式
 - [realclouds_go](https://github.com/shibingli/realclouds_go) - 
 - [quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
@@ -212,8 +221,8 @@
 - [xuperunion](https://github.com/xuperchain/xuperunion) - A highly flexible blockchain architecture with great transaction performance.
 - [dive-to-gosync-workshop](https://github.com/smallnest/dive-to-gosync-workshop) - 深入Go并发编程研讨课
 - [Gaea](https://github.com/XiaoMi/Gaea) - Gaea is a mysql proxy, it's developed by xiaomi b2c-dev team.
-- [paysuper-management-api](https://github.com/paysuper/paysuper-management-api) - REST API server for payment form and dashboards.
-- [paysuper-billing-server](https://github.com/paysuper/paysuper-billing-server) - The core microservice with all payment processing business logic in PaySuper.
+- [paysuper-management-api](https://github.com/paysuper/paysuper-management-api) - The REST API server for the merchant`s dashboard.
+- [paysuper-billing-server](https://github.com/paysuper/paysuper-billing-server) - A core monolith-like service with all payment processing business logic in PaySuper.
 - [echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [canal-go](https://github.com/withlin/canal-go) - Alibaba mysql database binlog incremental subscription & consumer components Canal's golang client[阿里巴巴mysql数据库binlog的增量订阅&消费组件 Canal 的 go 客户端 ]   https://github.com/alibaba/canal
 - [groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
@@ -260,7 +269,7 @@
 - [telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 - [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
 - [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
-- [rpcx](https://github.com/smallnest/rpcx) - A zero cost, faster multil-language  bidirectional microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it!
+- [rpcx](https://github.com/smallnest/rpcx) - A zero cost, faster multil-language  bidirectional microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱!
 - [github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
 - [teleport](https://github.com/gravitational/teleport) - Privileged access management for elastic infrastructure.
 - [teleconsole](https://github.com/gravitational/teleconsole) - Command line tool to share your UNIX terminal and forward local TCP ports to people you trust.
@@ -280,7 +289,6 @@
 - [gopl-zh](https://github.com/golang-china/gopl-zh) - :books: Go语言圣经中文版
 - [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 - [gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
-- [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
@@ -296,7 +304,7 @@
 - [miaosha](https://github.com/qiurunze123/miaosha) - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
 - [halo](https://github.com/halo-dev/halo) - ✍ Halo 一款现代化的个人独立博客系统
 - [canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&消费组件
-- [mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+- [mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
 - [gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
@@ -388,6 +396,8 @@
 
 ## Others 
 
+- [ppt](https://github.com/singpenguin/ppt) - PPT I collected
+- [project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
 - [free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
 - [guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [go-spring-doc](https://github.com/didi/go-spring-doc) - 🐦 代码在 https://github.com/go-spring 仓库
