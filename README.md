@@ -10,6 +10,7 @@
   - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
+  - [Clojure](#clojure)
   - [Cuda](#cuda)
   - [Dart](#dart)
   - [Go](#go)
@@ -94,6 +95,10 @@
 - [weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 - [Bootstrap-Admin-Theme](https://github.com/VinceG/Bootstrap-Admin-Theme) - A generic admin theme built with Bootstrap free for both personal and commercial use.
 
+## Clojure 
+
+- [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
+
 ## Cuda 
 
 - [warp-ctc](https://github.com/baidu-research/warp-ctc) - Fast parallel CTC.
@@ -155,7 +160,7 @@
 - [helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [protobuf](https://github.com/gogo/protobuf) - Protocol Buffers for Go with Gadgets
 - [kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
-- [short](https://github.com/byliuyang/short) - URL shortening service written in Go and React
+- [short](https://github.com/short-d/short) - URL shortening service written in Go and React
 - [vulcain](https://github.com/dunglas/vulcain) - Use HTTP/2 Server Push to create fast and idiomatic client-driven REST APIs
 - [martian](https://github.com/google/martian) - Martian is a library for building custom HTTP/S proxies
 - [gf](https://github.com/gogf/gf) - GoFrame is a modular, full-featured and production-ready application development framework of golang. Providing a series of core components and dozens of practical modules, such as: cache, logging, containers, timer, resource, validator, database orm, etc. Supporting web server integrated with router, cookie, session, middleware, logger, configure, template, https, hooks, rewrites and many more features.
