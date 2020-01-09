@@ -115,6 +115,10 @@
 
 ## Go 
 
+- [mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
+- [gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin framework
+- [kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
+- [Go-Questions](https://github.com/qcrao/Go-Questions) - 从问题切入，串连  Go 语言相关的所有知识，融会贯通。
 - [lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
 - [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.
 - [autocertdelegate](https://github.com/bradfitz/autocertdelegate) - Get LetsEncrypt TLS certs for internal-only TLS servers via a delegated golang.org/x/crypto/acme/autocert server.
@@ -159,7 +163,6 @@
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [protobuf](https://github.com/gogo/protobuf) - Protocol Buffers for Go with Gadgets
-- [kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
 - [short](https://github.com/short-d/short) - URL shortening service written in Go and React
 - [vulcain](https://github.com/dunglas/vulcain) - Use HTTP/2 Server Push to create fast and idiomatic client-driven REST APIs
 - [martian](https://github.com/google/martian) - Martian is a library for building custom HTTP/S proxies
@@ -178,7 +181,7 @@
 - [realclouds_go](https://github.com/shibingli/realclouds_go) - 
 - [quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
 - [kuma](https://github.com/Kong/kuma) - 🐻 The Universal Service Mesh
-- [nps](https://github.com/cnlh/nps) - 一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。
+- [nps](https://github.com/ehang-io/nps) - a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 - [elogrus](https://github.com/sohlich/elogrus) - Logrus Hook for ElasticSearch
 - [goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 - [gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
@@ -472,6 +475,7 @@
 
 ## PHP 
 
+- [monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services
 - [image](https://github.com/Intervention/image) - PHP Image Manipulation
 - [laravel](https://github.com/laravel/laravel) - A PHP framework for web artisans
 - [zanphp](https://github.com/youzan/zanphp) - PHP开发面向C10K+的高并发SOA服务  和RPC服务首选框架
