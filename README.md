@@ -41,6 +41,7 @@
 
 ## C 
 
+- [wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter
 - [TencentOS-tiny](https://github.com/Tencent/TencentOS-tiny) - 腾讯物联网终端操作系统
 - [wt](https://github.com/emweb/wt) - Wt, C++ Web Toolkit
 - [hindsight](https://github.com/mozilla-services/hindsight) - Hindsight - light weight data processing skeleton
@@ -115,6 +116,9 @@
 
 ## Go 
 
+- [redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
+- [go-under-the-hood](https://github.com/changkun/go-under-the-hood) - 📚 Go Under The Hood: A Source Code Study of Go (1.14, WIP)
+- [kubernetes-ingress](https://github.com/nginxinc/kubernetes-ingress) - NGINX and  NGINX Plus Ingress Controllers for Kubernetes
 - [mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 - [gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin framework
 - [kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
@@ -128,7 +132,7 @@
 - [req](https://github.com/imroc/req) - a golang http request library for humans
 - [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 - [kube-router](https://github.com/cloudnativelabs/kube-router) - Kube-router, a turnkey solution for Kubernetes networking.
-- [kplcloud](https://github.com/kplcloud/kplcloud) - 基于Kubernetes的应用管理平台
+- [kplcloud](https://github.com/kplcloud/kplcloud) - 基于Kubernetes的PaaS平台
 - [flux](https://github.com/fluxcd/flux) - The GitOps Kubernetes operator
 - [pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
 - [chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
@@ -181,7 +185,7 @@
 - [realclouds_go](https://github.com/shibingli/realclouds_go) - 
 - [quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
 - [kuma](https://github.com/Kong/kuma) - 🐻 The Universal Service Mesh
-- [nps](https://github.com/ehang-io/nps) - a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
+- [nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 - [elogrus](https://github.com/sohlich/elogrus) - Logrus Hook for ElasticSearch
 - [goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 - [gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
@@ -227,7 +231,7 @@
 - [objx](https://github.com/stretchr/objx) - Go package for dealing with maps, slices, JSON and other data.
 - [websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
 - [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
-- [xuperunion](https://github.com/xuperchain/xuperunion) - A highly flexible blockchain architecture with great transaction performance.
+- [xuperchain](https://github.com/xuperchain/xuperchain) - A highly flexible blockchain architecture with great transaction performance.
 - [dive-to-gosync-workshop](https://github.com/smallnest/dive-to-gosync-workshop) - 深入Go并发编程研讨课
 - [Gaea](https://github.com/XiaoMi/Gaea) - Gaea is a mysql proxy, it's developed by xiaomi b2c-dev team.
 - [paysuper-management-api](https://github.com/paysuper/paysuper-management-api) - The REST API server for the merchant`s dashboard.
@@ -246,7 +250,7 @@
 - [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [ffjson](https://github.com/pquerna/ffjson) - faster JSON serialization for Go
 - [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource.
-- [night-reading-go](https://github.com/developer-learning/night-reading-go) - Night-Reading-Go《Go 夜读》 &gt; Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics.      每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。
+- [night-reading-go](https://github.com/developer-learning/night-reading-go) - 【春节暂停更新】Night-Reading-Go《Go 夜读》 &gt; Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics.      每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。
 - [learning-golang](https://github.com/developer-learning/learning-golang) - Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）
 - [mili](https://github.com/shen100/mili) - golang123 是使用 vue、nuxt、node.js 和 golang 开发的知识分享系统
 - [Go42](https://github.com/ffhelicopter/Go42) - 《Go语言四十二章经》详细讲述Go语言规范与语法细节及开发中常见的误区，通过研读标准库等经典代码设计模式，启发读者深刻理解Go语言的核心思维，进入Go语言开发的更高阶段。
