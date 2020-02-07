@@ -106,7 +106,7 @@
 
 ## Dart 
 
-- [Flutter-Notebook](https://github.com/OpenFlutter/Flutter-Notebook) - 日更的FlutterDemo合集，今天你fu了吗
+- [Flutter-Notebook](https://github.com/OpenFlutter/Flutter-Notebook) - FlutterDemo合集，今天你fu了吗
 - [flutter_web](https://github.com/flutter/flutter_web) - Bring your Flutter code to web browsers
 - [FlutterDouBan](https://github.com/kaina404/FlutterDouBan) - 🔥🔥🔥Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端。首页、书影音、小组、市集及个人中心，一个不拉。（ https://img.xuvip.top/douyademo.mp4）
 - [flutter-go](https://github.com/alibaba/flutter-go) - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
@@ -116,6 +116,11 @@
 
 ## Go 
 
+- [compress](https://github.com/klauspost/compress) - Optimized compression packages
+- [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
+- [fiber](https://github.com/gofiber/fiber) - 🚀 Fiber is an Express.js inspired web framework written in Go 🐿️
+- [atime](https://github.com/djherbis/atime) - Access Times for files #golang
+- [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [go-internals](https://github.com/go-internals-cn/go-internals) - Chinese Translation of https://github.com/teh-cmc/go-internals
 - [golang-notes](https://github.com/cch123/golang-notes) - Go source code analysis(zh-cn)
 - [httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
@@ -255,7 +260,7 @@
 - [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [ffjson](https://github.com/pquerna/ffjson) - faster JSON serialization for Go
 - [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource.
-- [night-reading-go](https://github.com/developer-learning/night-reading-go) - 【春节暂停更新】Night-Reading-Go《Go 夜读》 &gt; Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics.      每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。
+- [night-reading-go](https://github.com/developer-learning/night-reading-go) - Night-Reading-Go《Go 夜读》 &gt; Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics.      每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。
 - [learning-golang](https://github.com/developer-learning/learning-golang) - Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）
 - [mili](https://github.com/shen100/mili) - golang123 是使用 vue、nuxt、node.js 和 golang 开发的知识分享系统
 - [Go42](https://github.com/ffhelicopter/Go42) - 《Go语言四十二章经》详细讲述Go语言规范与语法细节及开发中常见的误区，通过研读标准库等经典代码设计模式，启发读者深刻理解Go语言的核心思维，进入Go语言开发的更高阶段。
@@ -389,6 +394,7 @@
 ## Jupyter Notebook 
 
 - [TensorFlow-2.x-Tutorials](https://github.com/dragen1860/TensorFlow-2.x-Tutorials) - TensorFlow 2.x version's  Tutorials and Examples, including CNN, RNN, GAN, Auto-Encoders, FasterRCNN, GPT, BERT examples, etc. TF 2.0版入门实例代码，实战教程。
+- [regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box) - 定投改变命运 —— 让时间陪你慢慢变富
 - [tensorflow-docs](https://github.com/xitu/tensorflow-docs) - TensorFlow 最新官方文档中文版
 
 ## Kotlin 
@@ -414,17 +420,17 @@
 
 ## Others 
 
+- [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [ppt](https://github.com/singpenguin/ppt) - PPT I collected
 - [project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
 - [free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
 - [guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
-- [go-spring-doc](https://github.com/didi/go-spring-doc) - 🐦 代码在 https://github.com/go-spring 仓库
+- [go-spring](https://github.com/didi/go-spring) - 🐦 代码在 https://github.com/go-spring 仓库
 - [hosts](https://github.com/googlehosts/hosts) - 镜像：https://coding.net/u/scaffrey/p/hosts/git
 - [eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
-- [regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box) - 定投改变命运 —— 让时间陪你慢慢变富
 - [go-best-practice](https://github.com/llitfkitfk/go-best-practice) - Go语言实战:  编写可维护Go语言代码建议
 - [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 - [from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) - 2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
@@ -554,7 +560,7 @@
 - [my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 - [htrace.sh](https://github.com/trimstray/htrace.sh) - My simple Swiss Army knife for http/https troubleshooting and profiling.
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
-- [acme.sh](https://github.com/Neilpang/acme.sh) - A pure Unix shell script implementing ACME client protocol
+- [acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 
