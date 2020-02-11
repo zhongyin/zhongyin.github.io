@@ -67,6 +67,7 @@
 
 ## C++ 
 
+- [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal, and the original Windows console host - all in the same place!
 - [googletest](https://github.com/google/googletest) - Googletest - Google Testing and Mocking Framework
 - [folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
 - [openpilot](https://github.com/commaai/openpilot) - open source driving agent
@@ -116,9 +117,14 @@
 
 ## Go 
 
+- [excelize](https://github.com/360EntSecGroup-Skylar/excelize) - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
+- [opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
+- [lego](https://github.com/go-acme/lego) - Let's Encrypt client and ACME library written in Go
+- [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
+- [werf](https://github.com/flant/werf) - GitOps delivery tool
+- [fiber](https://github.com/gofiber/fiber) - 🚀 Fiber is an Express.js inspired web framework written in Go with 💖
 - [compress](https://github.com/klauspost/compress) - Optimized compression packages
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
-- [fiber](https://github.com/gofiber/fiber) - 🚀 Fiber is an Express.js inspired web framework written in Go 🐿️
 - [atime](https://github.com/djherbis/atime) - Access Times for files #golang
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [go-internals](https://github.com/go-internals-cn/go-internals) - Chinese Translation of https://github.com/teh-cmc/go-internals
@@ -187,7 +193,6 @@
 - [cast](https://github.com/spf13/cast) - safe and easy casting from one type to another in Go
 - [golang-web-dev](https://github.com/GoesToEleven/golang-web-dev) - 
 - [ent](https://github.com/facebookincubator/ent) - An entity framework for Go
-- [opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
 - [go-micro](https://github.com/micro/go-micro) - A Go microservices development framework
 - [machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing.
 - [gnet](https://github.com/panjf2000/gnet) - 🦋 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
@@ -262,7 +267,6 @@
 - [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource.
 - [night-reading-go](https://github.com/developer-learning/night-reading-go) - Night-Reading-Go《Go 夜读》 &gt; Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics.      每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。
 - [learning-golang](https://github.com/developer-learning/learning-golang) - Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）
-- [mili](https://github.com/shen100/mili) - golang123 是使用 vue、nuxt、node.js 和 golang 开发的知识分享系统
 - [Go42](https://github.com/ffhelicopter/Go42) - 《Go语言四十二章经》详细讲述Go语言规范与语法细节及开发中常见的误区，通过研读标准库等经典代码设计模式，启发读者深刻理解Go语言的核心思维，进入Go语言开发的更高阶段。
 - [decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in go
 - [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
@@ -292,7 +296,7 @@
 - [telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 - [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
 - [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
-- [rpcx](https://github.com/smallnest/rpcx) - A zero cost, faster multil-language  bidirectional microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱!
+- [rpcx](https://github.com/smallnest/rpcx) - A zero cost, faster multi-language  bidirectional microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱!
 - [github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
 - [teleport](https://github.com/gravitational/teleport) - Privileged access management for elastic infrastructure.
 - [teleconsole](https://github.com/gravitational/teleconsole) - Command line tool to share your UNIX terminal and forward local TCP ports to people you trust.
@@ -325,7 +329,7 @@
 - [Leaf](https://github.com/Meituan-Dianping/Leaf) - Distributed ID Generate Service
 - [tech-weekly](https://github.com/mercyblitz/tech-weekly) - 「小马哥技术周报」
 - [miaosha](https://github.com/qiurunze123/miaosha) - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
-- [halo](https://github.com/halo-dev/halo) - ✍ Halo 一款现代化的个人独立博客系统
+- [halo](https://github.com/halo-dev/halo) - ✍ An excellent open source blog publishing application. | 一个优秀的开源博客发布应用。
 - [canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&消费组件
 - [mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
@@ -346,6 +350,7 @@
 
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 - [Web](https://github.com/qianguyihao/Web) - 前端入门和进阶学习笔记，超详细的Web前端学习图文教程。从零开始学前端，做一名精致的前端工程师。持续更新...
+- [mili](https://github.com/shen100/mili) - mili 是一个开源的社区系统，界面优雅，功能丰富。
 - [taro-yanxuan](https://github.com/qit-team/taro-yanxuan) - 首个 Taro 多端统一实例 - 网易严选（小程序 + H5 + React Native） - By 趣店 FED
 - [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [egg](https://github.com/eggjs/egg) - 🥚 Born to build better enterprise frameworks and apps with Node.js & Koa
@@ -373,7 +378,7 @@
 - [scrollreveal](https://github.com/scrollreveal/scrollreveal) - Animate elements as they scroll into view.
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [wp-calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people.
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - The https://www.freecodecamp.org open source codebase and curriculum. Learn to code for free together with millions of people.
 - [react-demos](https://github.com/ruanyf/react-demos) - a collection of simple demos of React.js
 - [nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [bootstrap-datetimepicker](https://github.com/Eonasdan/bootstrap-datetimepicker) - Date/time picker widget based on twitter bootstrap
@@ -556,7 +561,7 @@
 - [gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [docker-pg-replication](https://github.com/2hamed/docker-pg-replication) - 
 - [kubeasz](https://github.com/easzlab/kubeasz) - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
-- [TabNine](https://github.com/zxqfl/TabNine) - The all-language autocompleter: https://tabnine.com/
+- [TabNine](https://github.com/codota/TabNine) - The all-language autocompleter: https://tabnine.com/
 - [my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 - [htrace.sh](https://github.com/trimstray/htrace.sh) - My simple Swiss Army knife for http/https troubleshooting and profiling.
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
