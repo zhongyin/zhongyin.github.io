@@ -67,7 +67,7 @@
 
 ## C++ 
 
-- [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal, and the original Windows console host - all in the same place!
+- [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [googletest](https://github.com/google/googletest) - Googletest - Google Testing and Mocking Framework
 - [folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
 - [openpilot](https://github.com/commaai/openpilot) - open source driving agent
@@ -117,12 +117,15 @@
 
 ## Go 
 
+- [db2struct](https://github.com/Shelnutt2/db2struct) - Converts a mysql table into a golang struct
+- [bashhub-server](https://github.com/nicksherron/bashhub-server) - Private cloud shell history. Open source server for bashhub https://github.com/rcaloras/bashhub-client
+- [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [excelize](https://github.com/360EntSecGroup-Skylar/excelize) - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
 - [opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
 - [lego](https://github.com/go-acme/lego) - Let's Encrypt client and ACME library written in Go
 - [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
 - [werf](https://github.com/flant/werf) - GitOps delivery tool
-- [fiber](https://github.com/gofiber/fiber) - 🚀 Fiber is an Express.js inspired web framework written in Go with 💖
+- [fiber](https://github.com/gofiber/fiber) - 🚀 Fiber is an Express inspired web framework written in Go with 💖
 - [compress](https://github.com/klauspost/compress) - Optimized compression packages
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [atime](https://github.com/djherbis/atime) - Access Times for files #golang
@@ -195,7 +198,7 @@
 - [ent](https://github.com/facebookincubator/ent) - An entity framework for Go
 - [go-micro](https://github.com/micro/go-micro) - A Go microservices development framework
 - [machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing.
-- [gnet](https://github.com/panjf2000/gnet) - 🦋 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
+- [gnet](https://github.com/panjf2000/gnet) - 🚀gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
 - [go-patterns](https://github.com/sevenelevenlee/go-patterns) - Golang 设计模式
 - [realclouds_go](https://github.com/shibingli/realclouds_go) - 
 - [quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
@@ -348,6 +351,7 @@
 
 ## JavaScript 
 
+- [kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.17 安装手册，(k8s install) 在线答疑，持续更新。
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 - [Web](https://github.com/qianguyihao/Web) - 前端入门和进阶学习笔记，超详细的Web前端学习图文教程。从零开始学前端，做一名精致的前端工程师。持续更新...
 - [mili](https://github.com/shen100/mili) - mili 是一个开源的社区系统，界面优雅，功能丰富。
