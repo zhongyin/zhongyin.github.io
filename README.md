@@ -566,6 +566,9 @@
 
 ## Rust 
 
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+- [book](https://github.com/rust-lang/book) - The Rust Programming Language
+- [dtool](https://github.com/guoxbin/dtool) - A command-line tool collection to assist development
 - [free](https://github.com/adam-mcdaniel/free) - An esoteric programming language with an unusual compiler backend
 - [code](https://github.com/rust-in-action/code) - Source code for the book Rust in Action
 - [ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
