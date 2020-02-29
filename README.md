@@ -26,6 +26,7 @@
   - [Perl](#perl)
   - [Python](#python)
   - [Ruby](#ruby)
+  - [Rust](#rust)
   - [SQLPL](#sqlpl)
   - [Scala](#scala)
   - [Shell](#shell)
@@ -41,6 +42,7 @@
 
 ## C 
 
+- [GmSSL](https://github.com/guanzhi/GmSSL) - 支持国密SM2/SM3/SM4/SM9/ZUC/SSL的OpenSSL分支
 - [vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
 - [wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter
 - [TencentOS-tiny](https://github.com/Tencent/TencentOS-tiny) - 腾讯物联网终端操作系统
@@ -68,6 +70,7 @@
 
 ## C++ 
 
+- [trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
 - [spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [googletest](https://github.com/google/googletest) - Googletest - Google Testing and Mocking Framework
@@ -119,6 +122,10 @@
 
 ## Go 
 
+- [docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker technologies, with real DevOps practice!
+- [kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
+- [fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
+- [go-memdb](https://github.com/hashicorp/go-memdb) - Golang in-memory database built on immutable radix trees
 - [gopay](https://github.com/iGoogle-ink/gopay) - QQ、微信（WeChat）、支付宝（AliPay）的Go版本SDK。【持续更新，望开发者及时升级】
 - [cli](https://github.com/cli/cli) - The GitHub CLI
 - [db2struct](https://github.com/Shelnutt2/db2struct) - Converts a mysql table into a golang struct
@@ -355,6 +362,7 @@
 
 ## JavaScript 
 
+- [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据 Node.js 爬虫。
 - [kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.17 安装手册，(k8s install) 在线答疑，持续更新。
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 - [Web](https://github.com/qianguyihao/Web) - 前端入门和进阶学习笔记，超详细的Web前端学习图文教程。从零开始学前端，做一名精致的前端工程师。持续更新...
@@ -383,7 +391,7 @@
 - [blur-admin](https://github.com/akveo/blur-admin) - AngularJS Bootstrap Admin Panel Framework
 - [medis](https://github.com/luin/medis) - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
 - [fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
-- [scrollreveal](https://github.com/scrollreveal/scrollreveal) - Animate elements as they scroll into view.
+- [scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [wp-calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - The https://www.freecodecamp.org open source codebase and curriculum. Learn to code for free together with millions of people.
@@ -433,13 +441,15 @@
 
 ## Others 
 
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 手把手撕LeetCode题目，扒各种算法套路的裤子，not only how，but also why. English translation is processing... Star this repo and come back soon:)
+- [31-days-of-API-Security-Tips](https://github.com/smodnix/31-days-of-API-Security-Tips) - This challenge is Inon Shkedy's 31 days API Security Tips.
 - [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [ppt](https://github.com/singpenguin/ppt) - PPT I collected
 - [project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
 - [free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
 - [guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [go-spring](https://github.com/didi/go-spring) - 🐦 代码在 https://github.com/go-spring 仓库
-- [hosts](https://github.com/googlehosts/hosts) - 镜像：https://coding.net/u/scaffrey/p/hosts/git
+- [hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
 - [eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
@@ -544,7 +554,7 @@
 - [http-prompt](https://github.com/eliangcs/http-prompt) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
 - [kinto](https://github.com/Kinto/kinto) - A generic JSON document store with sharing and synchronisation capabilities.
 - [sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
-- [nginx-proxy](https://github.com/jwilder/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
+- [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/  🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
 - [mkcast](https://github.com/tckmn/mkcast) - [OBSOLETE - see readme] A tool for creating GIF screencasts of a terminal, with key presses overlaid.
 
@@ -553,6 +563,12 @@
 - [maximum-awesome](https://github.com/square/maximum-awesome) - Config files for vim and tmux.
 - [https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
 - [jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
+
+## Rust 
+
+- [free](https://github.com/adam-mcdaniel/free) - An esoteric programming language with an unusual compiler backend
+- [code](https://github.com/rust-in-action/code) - Source code for the book Rust in Action
+- [ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
 
 ## SQLPL 
 
@@ -574,7 +590,7 @@
 - [htrace.sh](https://github.com/trimstray/htrace.sh) - My simple Swiss Army knife for http/https troubleshooting and profiling.
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 
 ## Swift 
@@ -588,6 +604,7 @@
 
 ## TypeScript 
 
+- [ant-design](https://github.com/ant-design/ant-design) - 🌈 A UI Design Language and React UI library
 - [code-server](https://github.com/cdr/code-server) - Run VS Code on a remote server.
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 - [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building Microsoft web experiences.
