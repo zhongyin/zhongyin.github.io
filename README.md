@@ -122,6 +122,11 @@
 
 ## Go 
 
+- [harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
+- [httpie-go](https://github.com/nojima/httpie-go) - httpie-like HTTP client written in Go
+- [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Go driver for MongoDB
+- [goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go, Angular/React/Vue, and MongoDB in seconds🚀
 - [docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker technologies, with real DevOps practice!
 - [kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
@@ -216,7 +221,6 @@
 - [kuma](https://github.com/Kong/kuma) - 🐻 The Control Plane for Modern Service Connectivity
 - [nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 - [elogrus](https://github.com/sohlich/elogrus) - Logrus Hook for ElasticSearch
-- [goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 - [gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [toolbox](https://github.com/viant/toolbox) - Toolbox - go utility library
@@ -244,7 +248,7 @@
 - [soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [GolangTraining](https://github.com/GoesToEleven/GolangTraining) - Training for Golang (go language)
-- [caddy](https://github.com/caddyserver/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
+- [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [hydra](https://github.com/ory/hydra) - OAuth2 Server and OpenID Certified™ OpenID Connect Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
@@ -325,6 +329,7 @@
 ## HTML 
 
 - [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
+- [goproxy.cn](https://github.com/goproxy/goproxy.cn) - A trustworthy Go module proxy in China.
 - [book](https://github.com/PaddlePaddle/book) - Deep Learning 101 with PaddlePaddle （『飞桨』深度学习框架入门教程）
 - [http-api-design-ZH_CN](https://github.com/ZhangBohan/http-api-design-ZH_CN) - HTTP API 设计指南(http-api-design-ZH_CN)，翻译自https://github.com/interagent/http-api-design
 - [gopl-zh](https://github.com/golang-china/gopl-zh) - :books: Go语言圣经中文版
@@ -362,7 +367,7 @@
 
 ## JavaScript 
 
-- [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据 Node.js 爬虫。
+- [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
 - [kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.17 安装手册，(k8s install) 在线答疑，持续更新。
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 - [Web](https://github.com/qianguyihao/Web) - 前端入门和进阶学习笔记，超详细的Web前端学习图文教程。从零开始学前端，做一名精致的前端工程师。持续更新...
@@ -394,7 +399,7 @@
 - [scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [wp-calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - The https://www.freecodecamp.org open source codebase and curriculum. Learn to code for free together with millions of people.
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code for free together with millions of people.
 - [react-demos](https://github.com/ruanyf/react-demos) - a collection of simple demos of React.js
 - [nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [bootstrap-datetimepicker](https://github.com/Eonasdan/bootstrap-datetimepicker) - Date/time picker widget based on twitter bootstrap
@@ -441,7 +446,7 @@
 
 ## Others 
 
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 手把手撕LeetCode题目，扒各种算法套路的裤子，not only how，but also why. English translation is processing... Star this repo and come back soon:)
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 手把手撕LeetCode题目，扒各种算法套路的裤子，not only how，but also why. English version supported!
 - [31-days-of-API-Security-Tips](https://github.com/smodnix/31-days-of-API-Security-Tips) - This challenge is Inon Shkedy's 31 days API Security Tips.
 - [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [ppt](https://github.com/singpenguin/ppt) - PPT I collected
@@ -496,7 +501,7 @@
 - [lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
 - [react-howto](https://github.com/petehunt/react-howto) - Your guide to the (sometimes overwhelming!) React ecosystem.
 - [nginx-lua-module-zh-wiki](https://github.com/iresty/nginx-lua-module-zh-wiki) - https://github.com/openresty/lua-nginx-module chinese version
-- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets. PR ☛☛☛
+- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [awesome-minimalist](https://github.com/neiesc/awesome-minimalist) - A curated list of awesome minimalist frameworks (simple and lightweight).
 - [awesome-resty](https://github.com/bungle/awesome-resty) - A List of Quality OpenResty Libraries, and Resources.
 - [open-falcon](https://github.com/XiaoMi/open-falcon) - A Distributed and High-Performance Monitoring System
@@ -531,6 +536,7 @@
 
 ## Python 
 
+- [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材。
 - [pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
@@ -566,6 +572,9 @@
 
 ## Rust 
 
+- [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten
+- [OpenSK](https://github.com/google/OpenSK) - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
+- [tide](https://github.com/http-rs/tide) - Serve the web – HTTP server framework
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [dtool](https://github.com/guoxbin/dtool) - A command-line tool collection to assist development
