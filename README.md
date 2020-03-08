@@ -575,6 +575,7 @@
 
 ## Rust 
 
+- [vector](https://github.com/timberio/vector) - A lightweight and ultra-fast tool for building observability pipelines
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten
 - [OpenSK](https://github.com/google/OpenSK) - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
