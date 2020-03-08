@@ -122,6 +122,9 @@
 
 ## Go 
 
+- [gommon](https://github.com/labstack/gommon) - Common packages for Go
+- [httpcache](https://github.com/sourcegraph/httpcache) - A Transport for http.Client that will cache responses according to the HTTP RFC
+- [proposal](https://github.com/golang/proposal) - Go Project Design Documents
 - [harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 - [httpie-go](https://github.com/nojima/httpie-go) - httpie-like HTTP client written in Go
@@ -329,7 +332,7 @@
 ## HTML 
 
 - [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
-- [goproxy.cn](https://github.com/goproxy/goproxy.cn) - A trustworthy Go module proxy in China.
+- [goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 - [book](https://github.com/PaddlePaddle/book) - Deep Learning 101 with PaddlePaddle （『飞桨』深度学习框架入门教程）
 - [http-api-design-ZH_CN](https://github.com/ZhangBohan/http-api-design-ZH_CN) - HTTP API 设计指南(http-api-design-ZH_CN)，翻译自https://github.com/interagent/http-api-design
 - [gopl-zh](https://github.com/golang-china/gopl-zh) - :books: Go语言圣经中文版
@@ -572,6 +575,7 @@
 
 ## Rust 
 
+- [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten
 - [OpenSK](https://github.com/google/OpenSK) - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
 - [tide](https://github.com/http-rs/tide) - Serve the web – HTTP server framework
