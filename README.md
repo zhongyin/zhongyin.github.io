@@ -123,6 +123,10 @@
 
 ## Go 
 
+- [tutorials](https://github.com/micro-in-cn/tutorials) - Micro 中文示例、教程、资料，源码解读
+- [chat](https://github.com/tinode/chat) - Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots
+- [learning_tools](https://github.com/hwholiday/learning_tools) - Go 学习、Go 进阶、Go 实用工具类、Go-kit 微服务实践
+- [uuid](https://github.com/pborman/uuid) - Automatically exported from code.google.com/p/go-uuid
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go study guide, with heavily documented code and programs analysis, all in 1 place
 - [atreugo](https://github.com/savsgio/atreugo) - High performance and extensible micro web framework. Zero memory allocations in hot paths.
@@ -221,7 +225,7 @@
 - [cast](https://github.com/spf13/cast) - safe and easy casting from one type to another in Go
 - [golang-web-dev](https://github.com/GoesToEleven/golang-web-dev) - 
 - [ent](https://github.com/facebookincubator/ent) - An entity framework for Go
-- [go-micro](https://github.com/micro/go-micro) - A Go microservices development framework
+- [go-micro](https://github.com/micro/go-micro) - A Go Micro services development framework
 - [machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing.
 - [gnet](https://github.com/panjf2000/gnet) - 🚀gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
 - [go-patterns](https://github.com/sevenelevenlee/go-patterns) - Golang 设计模式
@@ -230,6 +234,7 @@
 - [kuma](https://github.com/Kong/kuma) - 🐻 The Control Plane for Modern Service Connectivity
 - [nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 - [elogrus](https://github.com/sohlich/elogrus) - Logrus Hook for ElasticSearch
+- [goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 - [gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [toolbox](https://github.com/viant/toolbox) - Toolbox - go utility library
@@ -324,7 +329,7 @@
 - [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
 - [rpcx](https://github.com/smallnest/rpcx) - A zero cost, faster multi-language  bidirectional microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱!
 - [github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
-- [teleport](https://github.com/gravitational/teleport) - Privileged access management for elastic infrastructure.
+- [teleport](https://github.com/gravitational/teleport) - Privileged access management that doesn’t get in the way.
 - [teleconsole](https://github.com/gravitational/teleconsole) - Command line tool to share your UNIX terminal and forward local TCP ports to people you trust.
 - [rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
@@ -337,7 +342,6 @@
 ## HTML 
 
 - [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
-- [goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 - [book](https://github.com/PaddlePaddle/book) - Deep Learning 101 with PaddlePaddle （『飞桨』深度学习框架入门教程）
 - [http-api-design-ZH_CN](https://github.com/ZhangBohan/http-api-design-ZH_CN) - HTTP API 设计指南(http-api-design-ZH_CN)，翻译自https://github.com/interagent/http-api-design
 - [gopl-zh](https://github.com/golang-china/gopl-zh) - :books: Go语言圣经中文版
@@ -581,6 +585,15 @@
 
 ## Rust 
 
+- [hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
+- [reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
+- [diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
+- [bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
+- [zoxide](https://github.com/ajeetdsouza/zoxide) - A fast cd command that learns your habits
+- [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+- [yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+- [quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+- [Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
 - [wifi-connect](https://github.com/balena-io/wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop
 - [actix-web](https://github.com/actix/actix-web) - Actix web is a small, pragmatic, and extremely fast rust web framework.
 - [mio](https://github.com/tokio-rs/mio) - Metal IO library for Rust
