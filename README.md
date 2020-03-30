@@ -225,7 +225,7 @@
 - [cronsun](https://github.com/shunfei/cronsun) - A Distributed, Fault-Tolerant Cron-Style Job System.
 - [modern-go-application](https://github.com/sagikazarmark/modern-go-application) - Modern Go Application example
 - [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
-- [brook](https://github.com/txthinking/brook) - Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software
+- [brook](https://github.com/txthinking/brook) - Brook is a cross-platform(Linux/BSD/MacOS/Windows/Android/iOS) proxy/vpn software. Zero-Configuration.
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [protobuf](https://github.com/gogo/protobuf) - Protocol Buffers for Go with Gadgets
@@ -305,7 +305,7 @@
 - [sqlflow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
 - [auxpi](https://github.com/aimerforreimu/auxpi) - 🍭 集合多家 API 的新一代图床
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
-- [kratos](https://github.com/bilibili/kratos) - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
+- [kratos](https://github.com/go-kratos/kratos) - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
 - [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [ffjson](https://github.com/pquerna/ffjson) - faster JSON serialization for Go
@@ -446,6 +446,7 @@
 
 ## Jupyter Notebook 
 
+- [tensorflow-handbook](https://github.com/snowkylin/tensorflow-handbook) - 简单粗暴 TensorFlow 2.0 | A Concise Handbook of TensorFlow 2.0
 - [TensorFlow-2.x-Tutorials](https://github.com/dragen1860/TensorFlow-2.x-Tutorials) - TensorFlow 2.x version's  Tutorials and Examples, including CNN, RNN, GAN, Auto-Encoders, FasterRCNN, GPT, BERT examples, etc. TF 2.0版入门实例代码，实战教程。
 - [regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box) - 定投改变命运 —— 让时间陪你慢慢变富
 - [tensorflow-docs](https://github.com/xitu/tensorflow-docs) - TensorFlow 最新官方文档中文版
