@@ -21,6 +21,7 @@
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
+  - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
   - [Perl](#perl)
@@ -124,6 +125,7 @@
 
 ## Go 
 
+- [imagick](https://github.com/gographics/imagick) - Go binding to ImageMagick's MagickWand C API
 - [revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language.
 - [alipay](https://github.com/smartwalle/alipay) - 支付宝 AliPay SDK for Go, 集成简单，功能完善，持续更新，支持公钥证书和普通公钥进行签名和验签。
 - [go-leetcode](https://github.com/austingebauer/go-leetcode) - A collection of 100+ popular LeetCode problems that I've solved in Go.
@@ -414,7 +416,7 @@
 - [anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [RAP](https://github.com/thx/RAP) - Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理。阿里妈妈MUX团队出品！阿里巴巴都在用！1000+公司的选择！RAP2已发布请移步至https://github.com/thx/rap2-delos
-- [js-stack-from-scratch](https://github.com/pd4d10-forks/js-stack-from-scratch) - JavaScript stack from scratch v1
+- [js-stack-from-scratch](https://github.com/xitu/js-stack-from-scratch) - 从零开始构建 JavaScript 技术栈
 - [mountebank](https://github.com/bbyars/mountebank) - Over the wire test doubles
 - [quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 - [52-technologies-in-2016](https://github.com/shekhargulati/52-technologies-in-2016) - Let's learn a new technology every week. A new technology blog every Sunday in 2016.
@@ -475,6 +477,10 @@
 - [anonymous](https://github.com/aifeiasdf/anonymous) - 基于OpenResty搭建的 API SERVER 框架
 - [kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [openresty-best-practices](https://github.com/moonbingbing/openresty-best-practices) - 
+
+## Objective-C 
+
+- [analyze](https://github.com/draveness/analyze) - Draven's Blog
 
 ## Others 
 
@@ -609,6 +615,7 @@
 
 ## Rust 
 
+- [rusoto](https://github.com/rusoto/rusoto) - AWS SDK for Rust
 - [sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [tantivy](https://github.com/tantivy-search/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
