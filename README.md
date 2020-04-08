@@ -141,6 +141,7 @@
 - [hostctl](https://github.com/guumaster/hostctl) - Manage your hosts file like a pro!
 - [vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [pkg](https://github.com/toolkits/pkg) - golang pkg
+- [nightingale](https://github.com/didi/nightingale) - A Distributed and High-Performance Monitoring System
 - [kcp-go](https://github.com/xtaci/kcp-go) - A Crypto-Secure, Production-Grade Reliable-UDP Library for golang with FEC
 - [over-golang](https://github.com/overnote/over-golang) - Golang笔记：[进度80%]Go语法、Go并发思想、Go与web开发、Go微服务设施等
 - [mosn](https://github.com/mosn/mosn) - MOSN is a cloud native proxy for edge or service mesh. https://mosn.io
@@ -582,6 +583,7 @@
 
 ## Python 
 
+- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
 - [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
@@ -691,7 +693,6 @@
 
 ## TypeScript 
 
-- [nightingale](https://github.com/didi/nightingale) - A Distributed and High-Performance Monitoring System
 - [ant-design](https://github.com/ant-design/ant-design) - 🌈 A UI Design Language and React UI library
 - [code-server](https://github.com/cdr/code-server) - Run VS Code on a remote server.
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
