@@ -101,6 +101,7 @@
 
 ## CSS 
 
+- [InternetArchitect](https://github.com/bjmashibing/InternetArchitect) - 年薪百万互联网架构师课程文档及源码(公开部分)
 - [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) - 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone.
 - [material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 4 Material Design Admin
 - [weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
@@ -126,6 +127,7 @@
 
 ## Go 
 
+- [dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
 - [statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [imagick](https://github.com/gographics/imagick) - Go binding to ImageMagick's MagickWand C API
 - [revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language.
@@ -134,7 +136,7 @@
 - [gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
 - [golang-design-pattern](https://github.com/senghoo/golang-design-pattern) - 设计模式 Golang实现－《研磨设计模式》读书笔记
-- [sealos](https://github.com/fanux/sealos) - kubernetes高可用安装（kubernetes install）工具，一条命令，离线安装，包含所有依赖，内核负载不依赖haproxy keepalived,纯golang开发,99年证书,支持v1.16.8 v1.15.11 v1.17.4 v1.18.0!
+- [sealos](https://github.com/fanux/sealos) - 只能用丝滑一词形容的kubernetes高可用安装（kubernetes install）工具，一条命令，离线安装，包含所有依赖，内核负载不依赖haproxy keepalived,纯golang开发,99年证书,支持v1.16.8 v1.15.11 v1.17.4 v1.18.0!
 - [tablewriter](https://github.com/olekukonko/tablewriter) - ASCII table in golang
 - [nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
@@ -240,7 +242,7 @@
 - [short](https://github.com/short-d/short) - URL shortening service written in Go and React
 - [vulcain](https://github.com/dunglas/vulcain) - Use HTTP/2 Server Push to create fast and idiomatic client-driven REST APIs
 - [martian](https://github.com/google/martian) - Martian is a library for building custom HTTP/S proxies
-- [gf](https://github.com/gogf/gf) - GoFrame is a modular, full-featured and production-ready application development framework of golang. Providing a series of core components and dozens of practical modules, such as: cache, logging, containers, timer, resource, validator, database orm, etc. Supporting web server integrated with router, cookie, session, middleware, logger, configure, template, https, hooks, rewrites and many more features.
+- [gf](https://github.com/gogf/gf) - GoFrame is a modular, full-featured and production-ready application development framework of golang.
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
 - [env](https://github.com/caarlos0/env) - Simple lib to parse environment variables to structs
@@ -491,6 +493,7 @@
 
 ## Others 
 
+- [gitattributes](https://github.com/alexkaratarakis/gitattributes) - A collection of useful .gitattributes templates
 - [golangweekly](https://github.com/polaris1119/golangweekly) - Go语言爱好者周刊，每周日发布
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
@@ -664,7 +667,7 @@
 
 ## Scala 
 
-- [scala](https://github.com/scala/scala) - The Scala programming language
+- [scala](https://github.com/scala/scala) - Scala 2 compiler and standard library. For bugs, see scala/bug
 - [linkerd](https://github.com/linkerd/linkerd) - A service mesh for Kubernetes and beyond. Main repo for Linkerd 1.x.
 
 ## Shell 
