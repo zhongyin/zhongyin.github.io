@@ -127,6 +127,7 @@
 
 ## Go 
 
+- [frand](https://github.com/lukechampine/frand) - A fast userspace CSPRNG
 - [x-go](https://github.com/go-board/x-go) - Extend go std library.
 - [mem](https://github.com/go4org/mem) - cheap Go type to hold & operate on either a read-only []byte or string
 - [gentleman](https://github.com/h2non/gentleman) - Full-featured, plugin-driven, extensible HTTP client toolkit for Go
@@ -633,6 +634,7 @@
 
 ## Rust 
 
+- [rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
 - [rusoto](https://github.com/rusoto/rusoto) - AWS SDK for Rust
 - [sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
