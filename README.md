@@ -22,6 +22,7 @@
   - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [Markdown](#markdown)
+  - [Nim](#nim)
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
@@ -72,7 +73,7 @@
 
 ## C++ 
 
-- [interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。
+- [interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.
 - [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
 - [trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
 - [spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
@@ -131,7 +132,7 @@
 - [x-go](https://github.com/go-board/x-go) - Extend go std library.
 - [mem](https://github.com/go4org/mem) - cheap Go type to hold & operate on either a read-only []byte or string
 - [gentleman](https://github.com/h2non/gentleman) - Full-featured, plugin-driven, extensible HTTP client toolkit for Go
-- [livego](https://github.com/gwuhaolin/livego) - 纯 Go 写的直播服务器
+- [livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
 - [dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
 - [statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [imagick](https://github.com/gographics/imagick) - Go binding to ImageMagick's MagickWand C API
@@ -357,7 +358,7 @@
 - [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
 - [rpcx](https://github.com/smallnest/rpcx) - A zero cost, faster multi-language  bidirectional microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱!
 - [github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
-- [teleport](https://github.com/gravitational/teleport) - Privileged access management that doesn’t get in the way.
+- [teleport](https://github.com/gravitational/teleport) - Zero Trust Access to Infrastructure and Applications
 - [teleconsole](https://github.com/gravitational/teleconsole) - Command line tool to share your UNIX terminal and forward local TCP ports to people you trust.
 - [rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
@@ -493,12 +494,17 @@
 
 - [trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（第二版 & 2018 edition）
 
+## Nim 
+
+- [Nim](https://github.com/nim-lang/Nim) - Nim is a compiled, garbage-collected systems programming language with a design that focuses on efficiency, expressiveness, and elegance (in that order of priority).
+
 ## Objective-C 
 
 - [analyze](https://github.com/draveness/analyze) - Draven's Blog
 
 ## Others 
 
+- [Flutter-Course-Resources](https://github.com/londonappbrewery/Flutter-Course-Resources) - Learn to Code While Building Apps - The Complete Flutter Development Bootcamp
 - [gitattributes](https://github.com/alexkaratarakis/gitattributes) - A collection of useful .gitattributes templates
 - [golangweekly](https://github.com/polaris1119/golangweekly) - Go语言爱好者周刊，每周日发布
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
