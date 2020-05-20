@@ -48,7 +48,7 @@
 
 - [GmSSL](https://github.com/guanzhi/GmSSL) - 支持国密SM2/SM3/SM4/SM9/ZUC/SSL的OpenSSL分支
 - [vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
-- [wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter
+- [wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter (and the most universal wasm runtime)
 - [TencentOS-tiny](https://github.com/Tencent/TencentOS-tiny) - 腾讯物联网终端操作系统
 - [wt](https://github.com/emweb/wt) - Wt, C++ Web Toolkit
 - [hindsight](https://github.com/mozilla-services/hindsight) - Hindsight - light weight data processing skeleton
@@ -153,7 +153,7 @@
 - [hostctl](https://github.com/guumaster/hostctl) - Your dev tool to manage /etc/hosts like a pro!
 - [vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [pkg](https://github.com/toolkits/pkg) - golang pkg
-- [nightingale](https://github.com/didi/nightingale) - A Distributed and High-Performance Monitoring System
+- [nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System
 - [kcp-go](https://github.com/xtaci/kcp-go) - A Crypto-Secure, Production-Grade Reliable-UDP Library for golang with FEC
 - [over-golang](https://github.com/overnote/over-golang) - Golang相关：[进度80%]Go语法、Go并发思想、Go与web开发、Go微服务设施等
 - [mosn](https://github.com/mosn/mosn) - MOSN is a cloud native proxy for edge or service mesh. https://mosn.io
@@ -226,7 +226,7 @@
 - [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
 - [resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
-- [bfe](https://github.com/baidu/bfe) - Open-source layer 7 load balancer derived from proprietary Baidu FrontEnd
+- [bfe](https://github.com/baidu/bfe) - A modern layer 7 load balancer from baidu
 - [libpod](https://github.com/containers/libpod) - libpod is a library used to create container pods. Home of Podman.
 - [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT)
 - [cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
@@ -353,7 +353,7 @@
 - [lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [gvisor](https://github.com/google/gvisor) - Container Runtime Sandbox
+- [gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [web](https://github.com/hoisie/web) - The easiest way to create web applications with Go
 - [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 - [pouch](https://github.com/alibaba/pouch) - An Efficient Enterprise-class Container Engine
@@ -392,6 +392,7 @@
 
 ## Java 
 
+- [xxl-job](https://github.com/xuxueli/xxl-job) - A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
 - [flink-learning](https://github.com/zhisheng17/flink-learning) - flink learning blog. http://www.54tianzhisheng.cn  含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》
 - [advanced-java](https://github.com/doocs/advanced-java) - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
 - [InternetArchitect](https://github.com/bjmashibing/InternetArchitect) - 年薪百万互联网架构师课程文档及源码(公开部分)
