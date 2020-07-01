@@ -55,7 +55,7 @@
 - [TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features
 - [nuster](https://github.com/jiangwenyuan/nuster) - A high performance HTTP proxy cache server and RESTful NoSQL cache server based on HAProxy
-- [redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+- [redis](https://github.com/redis-io/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 - [twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
 - [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server
 - [libphenom](https://github.com/facebookarchive/libphenom) - An eventing framework for building high performance and high scalability systems in C.
@@ -81,7 +81,7 @@
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [googletest](https://github.com/google/googletest) - Googletest - Google Testing and Mocking Framework
 - [folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
-- [openpilot](https://github.com/commaai/openpilot) - open source driving agent
+- [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
 - [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [guetzli](https://github.com/google/guetzli) - Perceptual JPEG encoder
@@ -106,6 +106,7 @@
 - [mosn.io](https://github.com/mosn/mosn.io) - Source for mosn.io site
 - [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) - 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone.
 - [material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 4 Material Design Admin
+- [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 - [Bootstrap-Admin-Theme](https://github.com/VinceG/Bootstrap-Admin-Theme) - A generic admin theme built with Bootstrap free for both personal and commercial use.
 
@@ -129,6 +130,17 @@
 
 ## Go 
 
+- [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
+- [gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly (v2 is under public testing...)
+- [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
+- [go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语法树入门——开启自制编程语言和编译器之旅》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/LLVM/LLIR/凹语言)
+- [str](https://github.com/mgutz/str) - Package str is a string library to build more Go awesomeness
+- [sentinel-golang](https://github.com/alibaba/sentinel-golang) - Sentinel Go version (Reliability & Resilience)
+- [hystrix-go](https://github.com/afex/hystrix-go) - Netflix's Hystrix latency and fault tolerance library, for Go
+- [gcache](https://github.com/bluele/gcache) - Cache library for golang. It supports expirable Cache, LFU, LRU and ARC.
+- [go-mysql](https://github.com/siddontang/go-mysql) - a powerful mysql toolset with Go
+- [units](https://github.com/alecthomas/units) - Helpful unit multipliers and functions for Go
+- [sync](https://github.com/golang/sync) - [mirror] concurrency primitives
 - [go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures.
 - [go](https://github.com/golang/go) - The Go programming language
 - [qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
@@ -143,7 +155,7 @@
 - [imagick](https://github.com/gographics/imagick) - Go binding to ImageMagick's MagickWand C API
 - [revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language.
 - [alipay](https://github.com/smartwalle/alipay) - 支付宝 AliPay SDK for Go, 集成简单，功能完善，持续更新，支持公钥证书和普通公钥进行签名和验签。
-- [go-leetcode](https://github.com/austingebauer/go-leetcode) - A collection of 100+ popular LeetCode problems that I've solved in Go.
+- [go-leetcode](https://github.com/austingebauer/go-leetcode) - A collection of 100+ popular LeetCode problems solved in Go.
 - [gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
 - [golang-design-pattern](https://github.com/senghoo/golang-design-pattern) - 设计模式 Golang实现－《研磨设计模式》读书笔记
@@ -162,7 +174,7 @@
 - [go-server](https://github.com/zhongyin/go-server) - 
 - [tutorials](https://github.com/micro-in-cn/tutorials) - Micro/Go-Micro 中文示例、教程、资料，源码解读
 - [chat](https://github.com/tinode/chat) - Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots
-- [learning_tools](https://github.com/hwholiday/learning_tools) - Go 学习、Go 进阶、Go 实用工具类、Go-kit 微服务实践
+- [learning_tools](https://github.com/hwholiday/learning_tools) - Go 学习、Go 进阶、Go 实用工具类、Go-kit ，Go-Micro 微服务实践、Go 推送
 - [uuid](https://github.com/pborman/uuid) - Automatically exported from code.google.com/p/go-uuid
 - [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go study guide
 - [atreugo](https://github.com/savsgio/atreugo) - High performance and extensible micro web framework. Zero memory allocations in hot paths.
@@ -190,7 +202,7 @@
 - [opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
 - [lego](https://github.com/go-acme/lego) - Let's Encrypt client and ACME library written in Go
 - [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
-- [werf](https://github.com/flant/werf) - GitOps delivery tool
+- [werf](https://github.com/werf/werf) - GitOps delivery tool
 - [fiber](https://github.com/gofiber/fiber) - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
 - [compress](https://github.com/klauspost/compress) - Optimized compression packages
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
@@ -200,7 +212,7 @@
 - [golang-notes](https://github.com/cch123/golang-notes) - Go source code analysis(zh-cn)
 - [httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
 - [ingress-nginx](https://github.com/kubernetes/ingress-nginx) - NGINX Ingress Controller for Kubernetes
-- [minio](https://github.com/minio/minio) - MinIO is a high performance object storage server compatible with Amazon S3 APIs
+- [minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
 - [redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
 - [go-under-the-hood](https://github.com/changkun/go-under-the-hood) - 📚 Go Under The Hood: A Source Code Study of Go (1.14, WIP)
 - [kubernetes-ingress](https://github.com/nginxinc/kubernetes-ingress) - NGINX and  NGINX Plus Ingress Controllers for Kubernetes
@@ -221,13 +233,12 @@
 - [flux](https://github.com/fluxcd/flux) - The GitOps Kubernetes operator
 - [pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
 - [chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
-- [gorm](https://github.com/jinzhu/gorm) - The fantastic ORM library for Golang, aims to be developer friendly (v2 is under development, PR based on master branch won't be accepted)
 - [go-admin](https://github.com/GoAdminGroup/go-admin) - A golang framework helps gopher to build a data visualization and admin panel in ten minutes
 - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
 - [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
 - [resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
-- [bfe](https://github.com/baidu/bfe) - A modern layer 7 load balancer from baidu
+- [bfe](https://github.com/bfenetworks/bfe) - A modern layer 7 load balancer from baidu
 - [libpod](https://github.com/containers/libpod) - libpod is a library used to create container pods. Home of Podman.
 - [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT)
 - [cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
@@ -262,7 +273,7 @@
 - [ent](https://github.com/facebookincubator/ent) - An entity framework for Go
 - [go-micro](https://github.com/micro/go-micro) - A distributed systems development framework
 - [machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing.
-- [gnet](https://github.com/panjf2000/gnet) - 🚀gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
+- [gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
 - [go-patterns](https://github.com/sevenelevenlee/go-patterns) - Golang 设计模式
 - [realclouds_go](https://github.com/shibingli/realclouds_go) - 
 - [quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
@@ -274,7 +285,6 @@
 - [toolbox](https://github.com/viant/toolbox) - Toolbox - go utility library
 - [heka](https://github.com/mozilla-services/heka) - DEPRECATED: Data collection and processing made easy.
 - [go-extend](https://github.com/thinkeridea/go-extend) - go语言扩展包，收集一些常用的操作函数，辅助更快的完成开发工作，并减少重复代码
-- [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) - 百度网盘客户端 - Go语言编写
 - [go-gin-example](https://github.com/eddycjy/go-gin-example) - An example of gin
 - [go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
 - [TopList](https://github.com/tophubs/TopList) - 今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://mo.fish
@@ -286,7 +296,6 @@
 - [watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
-- [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [toml](https://github.com/BurntSushi/toml) - TOML parser for Golang with reflection.
 - [gonrails](https://github.com/gonrails/gonrails) - Rails like mvc backend application with golang .
 - [errors](https://github.com/pkg/errors) - Simple error handling primitives
@@ -331,8 +340,8 @@
 - [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [ffjson](https://github.com/pquerna/ffjson) - faster JSON serialization for Go
 - [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource.
-- [night](https://github.com/talk-go/night) - Weekly Go Online Meetup via Zoom and Bilibili｜Go 夜读｜由 SIG 成员维护｜通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
-- [read](https://github.com/talk-go/read) - Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）
+- [night](https://github.com/talkgo/night) - Weekly Go Online Meetup via Zoom and Bilibili｜Go 夜读｜由 SIG 成员维护｜通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
+- [read](https://github.com/talkgo/read) - Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）
 - [Go42](https://github.com/ffhelicopter/Go42) - 《Go语言四十二章经》详细讲述Go语言规范与语法细节及开发中常见的误区，通过研读标准库等经典代码设计模式，启发读者深刻理解Go语言的核心思维，进入Go语言开发的更高阶段。
 - [decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in go
 - [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
@@ -347,7 +356,7 @@
 - [istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [argo](https://github.com/argoproj/argo) - Argo Workflows: Get stuff done with Kubernetes.
 - [pipe](https://github.com/b3log/pipe) - 🎷 一款小而美的博客平台，专为程序员设计。
-- [iris](https://github.com/kataras/iris) - 感谢中国开发者 - https://bit.ly/謝謝 | The fastest community-driven web framework for Go. gRPC, Automatic HTTPS with Public Domain, MVC, Sessions, Caching, Versioning API, Problem API, Websocket, Dependency Injection and more. Fully compatible with the standard library and 3rd-party middleware packages. | https://bit.ly/iriscandothat1 | https://bit.ly/iriscandothat3 |
+- [iris](https://github.com/kataras/iris) - 感谢中国开发者 - https://bit.ly/謝謝 | The fastest community-driven web framework for Go. Socket-Sharding, gRPC, Automatic HTTPS with Public Domain, MVC, Sessions, Caching, Versioning API, Problem API, Websocket, Dependency Injection and more. Fully compatible with the standard library and 3rd-party middleware packages. | https://bit.ly/iriscandothat1 | https://bit.ly/iriscandothat3 |
 - [naftis](https://github.com/XiaoMi/naftis) - An awesome dashboard for Istio built with love.
 - [skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [TarsGo](https://github.com/TarsCloud/TarsGo) - A  high performance microservice  framework  in golang. A linux foundation project.
@@ -363,7 +372,7 @@
 - [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
 - [rpcx](https://github.com/smallnest/rpcx) - A zero cost, faster multi-language  bidirectional microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱!
 - [github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
-- [teleport](https://github.com/gravitational/teleport) - Zero Trust Access to Infrastructure and Applications
+- [teleport](https://github.com/gravitational/teleport) - Secure Access for Developers that doesn't get in the way.
 - [teleconsole](https://github.com/gravitational/teleconsole) - Command line tool to share your UNIX terminal and forward local TCP ports to people you trust.
 - [rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
@@ -399,6 +408,7 @@
 - [InternetArchitect](https://github.com/bjmashibing/InternetArchitect) - 年薪百万互联网架构师课程文档及源码(公开部分)
 - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [Leaf](https://github.com/Meituan-Dianping/Leaf) - Distributed ID Generate Service
+- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
 - [tech-weekly](https://github.com/mercyblitz/tech-weekly) - 「小马哥技术周报」
 - [miaosha](https://github.com/qiurunze123/miaosha) - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
 - [halo](https://github.com/halo-dev/halo) - ✍ An excellent open source blog publishing application. | 一个优秀的开源博客发布应用。
@@ -420,11 +430,12 @@
 
 ## JavaScript 
 
+- [tools](https://github.com/Yimismi/tools) - 常用工具集合
 - [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
 - [kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.18 安装手册，(k8s install) 在线答疑，持续更新。
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
-- [Web](https://github.com/qianguyihao/Web) - 前端入门和进阶学习笔记，超详细的Web前端学习图文教程。从零开始学前端，做一名精致的前端工程师。持续更新...
+- [Web](https://github.com/qianguyihao/Web) - 前端入门到进阶，超详细的Web前端学习图文教程。从零开始学前端，做一名精致优雅的前端工程师。持续更新...
 - [mili](https://github.com/shen100/mili) - mili 是一个开源的社区系统，界面优雅，功能丰富😛
 - [taro-yanxuan](https://github.com/qit-team/taro-yanxuan) - 首个 Taro 多端统一实例 - 网易严选（小程序 + H5 + React Native） - By 趣店 FED
 - [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
@@ -432,7 +443,6 @@
 - [kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
 - [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) - 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
 - [docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -484,7 +494,7 @@
 ## Lua 
 
 - [oresty](https://github.com/bilibili/oresty) - 
-- [incubator-apisix](https://github.com/apache/incubator-apisix) - Cloud-Native Microservices API Gateway
+- [incubator-apisix](https://github.com/apache/incubator-apisix) - The Cloud-Native API Gateway
 - [lsofgraph](https://github.com/zevv/lsofgraph) - lsof to graphviz
 - [lua-resty-master](https://github.com/openresty-fan/lua-resty-master) - 
 - [ledge](https://github.com/ledgetech/ledge) - An RFC compliant and ESI capable HTTP cache for Nginx / OpenResty, backed by Redis
@@ -513,11 +523,13 @@
 
 ## Others 
 
+- [dnsguide](https://github.com/EmilHernvall/dnsguide) - A guide to writing a DNS Server from scratch in Rust
+- [weekly](https://github.com/dt-fe/weekly) - 前端精读周刊
 - [Flutter-Course-Resources](https://github.com/londonappbrewery/Flutter-Course-Resources) - Learn to Code While Building Apps - The Complete Flutter Development Bootcamp
 - [gitattributes](https://github.com/alexkaratarakis/gitattributes) - A collection of useful .gitattributes templates
 - [golangweekly](https://github.com/polaris1119/golangweekly) - Go语言爱好者周刊，每周日发布
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [31-days-of-API-Security-Tips](https://github.com/smodnix/31-days-of-API-Security-Tips) - This challenge is Inon Shkedy's 31 days API Security Tips.
 - [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [ppt](https://github.com/singpenguin/ppt) - PPT I collected
@@ -536,7 +548,7 @@
 - [gsy_flutter_book](https://github.com/CarGuo/gsy_flutter_book) - Flutter 完整开发实战详解系列，提供在线预览和pdf下载，本系列将完整讲述：如何快速从 0 开发一个完整的 Flutter APP，配套高完成度 Flutter 开源项目 GSYGithubAppFlutter ，同时会提供一些Flutter的开发细节技巧，之后深入源码和实战为你全面解析 Flutter 。
 - [go-perfbook](https://github.com/dgryski/go-perfbook) - Thoughts on Go performance optimization
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
-- [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2019
+- [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
 - [git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
 - [Micro8](https://github.com/Micropoor/Micro8) - Gitbook
 - [A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) - 专为程序员编写的英语学习指南 v1.2。在线版本请点 -&gt;
@@ -612,11 +624,10 @@
 - [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
+- [transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材。
 - [pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
-- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（中国加油！世界加油！）
 - [cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [kindle-open-books](https://github.com/ericzhang-cn/kindle-open-books) - This project is created to convert open source materials to kindle supported format
@@ -637,7 +648,7 @@
 - [kinto](https://github.com/Kinto/kinto) - A generic JSON document store with sharing and synchronisation capabilities.
 - [sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
 - [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
-- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/  🥧 Modern command-line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
+- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧  Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
 - [mkcast](https://github.com/tckmn/mkcast) - [OBSOLETE - see readme] A tool for creating GIF screencasts of a terminal, with key presses overlaid.
 
 ## Ruby 
@@ -649,7 +660,10 @@
 
 ## Rust 
 
-- [winrt-rs](https://github.com/microsoft/winrt-rs) - Rust/WinRT is a Rust language projection for the Windows Runtime
+- [sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
+- [crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
+- [rust-blog](https://github.com/pretzelhammer/rust-blog) - Educational blog posts for Rust beginners
+- [winrt-rs](https://github.com/microsoft/winrt-rs) - Rust language projection for the Windows Runtime
 - [rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
 - [rusoto](https://github.com/rusoto/rusoto) - AWS SDK for Rust
 - [sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
@@ -706,7 +720,7 @@
 - [htrace.sh](https://github.com/trimstray/htrace.sh) - My simple Swiss Army knife for http/https troubleshooting and profiling.
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 
 ## Swift 
@@ -721,7 +735,8 @@
 ## TypeScript 
 
 - [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
-- [ant-design](https://github.com/ant-design/ant-design) - 🌈 A UI Design Language and React UI library
+- [incubator-apisix-dashboard](https://github.com/apache/incubator-apisix-dashboard) - Dashboard for Apache APISIX
+- [ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
 - [code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 - [fluentui](https://github.com/microsoft/fluentui) - We've moved! UI Fabric is now Fluent UI - A set of React components for building Microsoft web experiences.
@@ -733,12 +748,11 @@
 
 ## Vue 
 
-- [incubator-apisix-dashboard](https://github.com/apache/incubator-apisix-dashboard) - 
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 
 ## WebAssembly 
 
-- [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten
+- [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 
 
 ## License
