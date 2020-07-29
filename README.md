@@ -434,6 +434,7 @@
 
 ## JavaScript 
 
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🙈🙉🙊 本项目包括：1、我写的三十万字图解算法题典  2、100 张 IT 相关超清思维导图  3、100 篇大厂面经汇总  4、各语言编程电子书 100 本  5、English version supported !!!  🚀🚀 国人项目上榜首不易，右上角助力一波！干就对了，奥利给 ！🚀🚀
 - [tools](https://github.com/Yimismi/tools) - 常用工具集合
 - [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
@@ -528,6 +529,7 @@
 
 ## Others 
 
+- [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
 - [cloud-native-istio](https://github.com/cloudnativebooks/cloud-native-istio) - 华为云原生丛书之《云原生服务网格Istio：原理、实践、架构与源码解析》
 - [dnsguide](https://github.com/EmilHernvall/dnsguide) - A guide to writing a DNS Server from scratch in Rust
 - [weekly](https://github.com/dt-fe/weekly) - 前端精读周刊
@@ -667,6 +669,7 @@
 
 ## Rust 
 
+- [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [learnrust](https://github.com/inancgumus/learnrust) - ❤️ I started learning Rust, if you wanna join me, welcome!
 - [tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [quinn](https://github.com/djc/quinn) - Futures-based QUIC implementation in Rust
@@ -720,6 +723,7 @@
 
 ## Shell 
 
+- [easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [wireguard-docs](https://github.com/pirate/wireguard-docs) - 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients.
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
