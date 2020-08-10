@@ -23,6 +23,7 @@
   - [Lua](#lua)
   - [Markdown](#markdown)
   - [Nim](#nim)
+  - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
@@ -130,6 +131,9 @@
 
 ## Go 
 
+- [jupiter](https://github.com/douyu/jupiter) - Jupiter是斗鱼开源的面向服务治理的Golang微服务框架
+- [qmgo](https://github.com/qiniu/qmgo) - Qmgo - The MongoDB dirver for Go . It‘s based on MongoDB official driver but easier to use like Mgo
+- [osm](https://github.com/openservicemesh/osm) - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.
 - [gomail](https://github.com/go-gomail/gomail) - The best way to send emails in Go.
 - [monstache](https://github.com/rwynn/monstache) - a go daemon that syncs MongoDB to Elasticsearch in realtime
 - [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
@@ -227,7 +231,7 @@
 - [kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
 - [Go-Questions](https://github.com/qcrao/Go-Questions) - 从问题切入，串连  Go 语言相关的所有知识，融会贯通。
 - [lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
-- [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.
+- [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [autocertdelegate](https://github.com/bradfitz/autocertdelegate) - Get LetsEncrypt TLS certs for internal-only TLS servers via a delegated golang.org/x/crypto/acme/autocert server.
 - [gendry](https://github.com/didi/gendry) - a golang library for sql builder
 - [gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet, LinkedHashSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap, LinkedHashMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON
@@ -277,7 +281,7 @@
 - [cast](https://github.com/spf13/cast) - safe and easy casting from one type to another in Go
 - [golang-web-dev](https://github.com/GoesToEleven/golang-web-dev) - 
 - [ent](https://github.com/facebookincubator/ent) - An entity framework for Go
-- [go-micro](https://github.com/micro/go-micro) - A Go library for distributed systems development
+- [go-micro](https://github.com/micro/go-micro) - A Go standard library for microservices
 - [machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing.
 - [gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
 - [go-patterns](https://github.com/sevenelevenlee/go-patterns) - Golang 设计模式
@@ -362,7 +366,7 @@
 - [istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [argo](https://github.com/argoproj/argo) - Argo Workflows: Get stuff done with Kubernetes.
 - [pipe](https://github.com/b3log/pipe) - 🎷 一款小而美的博客平台，专为程序员设计。
-- [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework
+- [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework | 谢谢 https://github.com/kataras/iris/issues/1329 |
 - [naftis](https://github.com/XiaoMi/naftis) - An awesome dashboard for Istio built with love.
 - [skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [TarsGo](https://github.com/TarsCloud/TarsGo) - A  high performance microservice  framework  in golang. A linux foundation project.
@@ -525,6 +529,10 @@
 ## Nim 
 
 - [Nim](https://github.com/nim-lang/Nim) - Nim is a compiled, garbage-collected systems programming language with a design that focuses on efficiency, expressiveness, and elegance (in that order of priority).
+
+## OCaml 
+
+- [pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 
 ## Objective-C 
 
