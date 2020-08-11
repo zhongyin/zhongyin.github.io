@@ -131,6 +131,7 @@
 
 ## Go 
 
+- [clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
 - [qmgo](https://github.com/qiniu/qmgo) - Qmgo - The MongoDB dirver for Go . It‘s based on official MongoDB driver but easier to use like Mgo
 - [jupiter](https://github.com/douyu/jupiter) - Jupiter是斗鱼开源的面向服务治理的Golang微服务框架
