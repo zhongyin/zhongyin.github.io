@@ -133,7 +133,7 @@
 
 - [clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
-- [qmgo](https://github.com/qiniu/qmgo) - Qmgo - The MongoDB dirver for Go . It‘s based on official MongoDB driver but easier to use like Mgo
+- [qmgo](https://github.com/qiniu/qmgo) - Qmgo - The MongoDB driver for Go . It‘s based on official MongoDB driver but easier to use like Mgo
 - [jupiter](https://github.com/douyu/jupiter) - Jupiter是斗鱼开源的面向服务治理的Golang微服务框架
 - [osm](https://github.com/openservicemesh/osm) - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.
 - [gomail](https://github.com/go-gomail/gomail) - The best way to send emails in Go.
@@ -672,7 +672,7 @@
 - [kinto](https://github.com/Kinto/kinto) - A generic JSON document store with sharing and synchronisation capabilities.
 - [sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
 - [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
-- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧  Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
+- [httpie](https://github.com/httpie/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧  Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
 - [mkcast](https://github.com/tckmn/mkcast) - [OBSOLETE - see readme] A tool for creating GIF screencasts of a terminal, with key presses overlaid.
 
 ## Ruby 
