@@ -39,7 +39,6 @@
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
   - [Vue](#vue)
-  - [WebAssembly](#webassembly)
 
 ## Assembly 
 
@@ -719,6 +718,7 @@
 - [nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs
 - [vector](https://github.com/timberio/vector) - A lightweight and ultra-fast router for building observability pipelines
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
+- [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [OpenSK](https://github.com/google/OpenSK) - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
 - [tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
@@ -782,10 +782,6 @@
 
 - [hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🙈🙉🙊 本项目包括：1、我写的三十万字图解算法题典  2、100 张 IT 相关超清思维导图  3、100 篇大厂面经汇总  4、各语言编程电子书 100 本  5、English version supported !!!  🚀🚀 国人项目上榜首不易，右上角助力一波！干就对了，奥利给 ！🚀🚀
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
-
-## WebAssembly 
-
-- [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 
 
 ## License
