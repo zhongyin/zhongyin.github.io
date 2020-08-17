@@ -280,7 +280,7 @@
 - [env](https://github.com/caarlos0/env) - Simple lib to parse environment variables to structs
 - [cast](https://github.com/spf13/cast) - safe and easy casting from one type to another in Go
 - [golang-web-dev](https://github.com/GoesToEleven/golang-web-dev) - 
-- [ent](https://github.com/facebookincubator/ent) - An entity framework for Go
+- [ent](https://github.com/facebook/ent) - An entity framework for Go
 - [go-micro](https://github.com/micro/go-micro) - A Go standard library for microservices
 - [machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing.
 - [gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
