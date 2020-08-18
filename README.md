@@ -415,7 +415,7 @@
 
 - [tinyid](https://github.com/didi/tinyid) - ID Generator id生成器 分布式id生成系统，简单易用、高性能、高可用的id生成系统
 - [vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
-- [hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🙈🙉🙊 东半球最酷的编程学习项目┃包括：1、我写的三十万字图解算法题典 2、百张编程思维导图 和 1000 本超清电子书 3、100 篇各厂面经┃ English version supported !!! 🚀🚀 国人项目上榜不易，右上角助力一波！干就对了，奥利给 ！🚀🚀
+- [hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍🌎🌏 东半球最酷的学习项目┃包括：1、我写的三十万字图解算法题典 2、100 张各语言思维导图 和 1000 本编程电子📚 3、100 篇大厂面经下载┃ English version supported !!!  国人项目上榜不易，右上角助力一波！干就对了，奥利给 ！🚀🚀
 - [xxl-job](https://github.com/xuxueli/xxl-job) - A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
 - [flink-learning](https://github.com/zhisheng17/flink-learning) - flink learning blog. http://www.54tianzhisheng.cn  含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》
 - [advanced-java](https://github.com/doocs/advanced-java) - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
