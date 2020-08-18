@@ -130,6 +130,8 @@
 
 ## Go 
 
+- [redislock](https://github.com/bsm/redislock) - Simplified distributed locking implementation using Redis
+- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
 - [qmgo](https://github.com/qiniu/qmgo) - Qmgo - The MongoDB driver for Go . It‘s based on official mongo-go-driver but easier to use like Mgo.
