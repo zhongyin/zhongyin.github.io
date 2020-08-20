@@ -445,6 +445,7 @@
 
 ## JavaScript 
 
+- [etcdkeeper](https://github.com/evildecay/etcdkeeper) - web ui client for etcd
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [tools](https://github.com/Yimismi/tools) - 常用工具集合
 - [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
