@@ -131,6 +131,7 @@
 
 ## Go 
 
+- [xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
 - [redislock](https://github.com/bsm/redislock) - Simplified distributed locking implementation using Redis
 - [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
