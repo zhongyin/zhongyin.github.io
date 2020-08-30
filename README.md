@@ -142,7 +142,7 @@
 - [gomail](https://github.com/go-gomail/gomail) - The best way to send emails in Go.
 - [monstache](https://github.com/rwynn/monstache) - a go daemon that syncs MongoDB to Elasticsearch in realtime
 - [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
-- [gin-admin](https://github.com/LyricTian/gin-admin) - RBAC scaffolding based on Gin + Gorm/Mongo + Casbin + Wire
+- [gin-admin](https://github.com/LyricTian/gin-admin) - RBAC scaffolding based on Gin + Gorm+ Casbin + Wire
 - [fate](https://github.com/godcong/fate) - Fate is a modern science chinese name create tool.
 - [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
