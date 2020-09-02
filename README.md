@@ -687,6 +687,7 @@
 
 ## Rust 
 
+- [autocxx](https://github.com/google/autocxx) - 
 - [cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
