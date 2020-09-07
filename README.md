@@ -690,6 +690,7 @@
 
 ## Rust 
 
+- [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [autocxx](https://github.com/google/autocxx) - 
 - [cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
