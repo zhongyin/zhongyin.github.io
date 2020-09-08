@@ -131,6 +131,7 @@
 
 ## Go 
 
+- [proxypool](https://github.com/zu1k/proxypool) - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表，每15分钟更新
 - [xxhash](https://github.com/cespare/xxhash) - A Go implementation of the 64-bit xxHash algorithm (XXH64)
 - [freecache](https://github.com/coocood/freecache) - A cache library for Go with zero GC overhead.
 - [ccs-gm](https://github.com/Hyperledger-TWGC/ccs-gm) - 中国网安go语言国密库
