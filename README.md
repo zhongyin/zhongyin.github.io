@@ -632,6 +632,7 @@
 
 ## PHP 
 
+- [uuid](https://github.com/ramsey/uuid) - A PHP library for generating universally unique identifiers (UUIDs).
 - [monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services
 - [image](https://github.com/Intervention/image) - PHP Image Manipulation
 - [laravel](https://github.com/laravel/laravel) - A PHP framework for web artisans
