@@ -691,6 +691,8 @@
 
 ## Rust 
 
+- [zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- [rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [autocxx](https://github.com/google/autocxx) - 
 - [cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
