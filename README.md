@@ -131,7 +131,6 @@
 
 ## Go 
 
-- [proxypool](https://github.com/zu1k/proxypool) - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表，每15分钟更新
 - [xxhash](https://github.com/cespare/xxhash) - A Go implementation of the 64-bit xxHash algorithm (XXH64)
 - [freecache](https://github.com/coocood/freecache) - A cache library for Go with zero GC overhead.
 - [ccs-gm](https://github.com/Hyperledger-TWGC/ccs-gm) - 中国网安go语言国密库
@@ -550,6 +549,7 @@
 
 ## Others 
 
+- [proxypool](https://github.com/zu1k/proxypool) - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表，每15分钟更新(本项目未收取任何费用或赞助，也不支持任何付费指导)
 - [api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
 - [cloud-native-istio](https://github.com/cloudnativebooks/cloud-native-istio) - 华为云原生丛书之《云原生服务网格Istio：原理、实践、架构与源码解析》
