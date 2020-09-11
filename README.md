@@ -131,6 +131,7 @@
 
 ## Go 
 
+- [go-face](https://github.com/Kagami/go-face) - :mag: Face recognition with Go
 - [xxhash](https://github.com/cespare/xxhash) - A Go implementation of the 64-bit xxHash algorithm (XXH64)
 - [freecache](https://github.com/coocood/freecache) - A cache library for Go with zero GC overhead.
 - [ccs-gm](https://github.com/Hyperledger-TWGC/ccs-gm) - 中国网安go语言国密库
@@ -739,7 +740,7 @@
 - [tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [book](https://github.com/rust-lang/book) - The Rust Programming Language
-- [dtool](https://github.com/guoxbin/dtool) - A command-line tool collection to assist development
+- [dtool](https://github.com/guoxbin/dtool) - A command-line tool collection to assist development written in RUST
 - [free](https://github.com/adam-mcdaniel/free) - An esoteric programming language with an unusual compiler backend
 - [code](https://github.com/rust-in-action/code) - Source code for the book Rust in Action
 - [ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
