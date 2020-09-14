@@ -233,7 +233,7 @@
 - [ingress-nginx](https://github.com/kubernetes/ingress-nginx) - NGINX Ingress Controller for Kubernetes
 - [minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
 - [redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
-- [under-the-hood](https://github.com/golang-design/under-the-hood) - 📚 Go: Under The Hood | golang.design/under-the-hood
+- [under-the-hood](https://github.com/golang-design/under-the-hood) - 📚 Go: Under The Hood | https://golang.design/under-the-hood
 - [kubernetes-ingress](https://github.com/nginxinc/kubernetes-ingress) - NGINX and  NGINX Plus Ingress Controllers for Kubernetes
 - [mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 - [gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin framework
