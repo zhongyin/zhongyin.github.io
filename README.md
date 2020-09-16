@@ -136,7 +136,7 @@
 - [xxhash](https://github.com/cespare/xxhash) - A Go implementation of the 64-bit xxHash algorithm (XXH64)
 - [freecache](https://github.com/coocood/freecache) - A cache library for Go with zero GC overhead.
 - [ccs-gm](https://github.com/Hyperledger-TWGC/ccs-gm) - 中国网安go语言国密库
-- [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
+- [traefik](https://github.com/traefik/traefik) - The Cloud Native Edge Router
 - [xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
 - [redislock](https://github.com/bsm/redislock) - Simplified distributed locking implementation using Redis
 - [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
