@@ -649,6 +649,7 @@
 
 ## Perl 
 
+- [FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
 - [lua-resty-mlcache](https://github.com/thibaultcha/lua-resty-mlcache) - Layered caching library for OpenResty
 - [ABTestingGateway](https://github.com/CNSRE/ABTestingGateway) - 
 
