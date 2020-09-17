@@ -517,6 +517,7 @@
 
 ## Lua 
 
+- [lua-performance-demo](https://github.com/iresty/lua-performance-demo) - A demo using WRK and flame graph to locate OpenResty performance issues
 - [oresty](https://github.com/bilibili/oresty) - 
 - [apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 - [lsofgraph](https://github.com/zevv/lsofgraph) - lsof to graphviz
