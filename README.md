@@ -699,6 +699,7 @@
 
 ## Rust 
 
+- [onefuzz](https://github.com/microsoft/onefuzz) - A self-hosted Fuzzing-As-A-Service platform
 - [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
 - [grpc-rs](https://github.com/tikv/grpc-rs) - The gRPC library for Rust built on C Core library and futures
 - [rustracing_jaeger](https://github.com/sile/rustracing_jaeger) - Jaeger tracing library for Rust
