@@ -454,6 +454,7 @@
 
 ## JavaScript 
 
+- [gpgsync](https://github.com/syumai/gpgsync) - The Go Playground with coedit mode.
 - [proxypool_desperated](https://github.com/zu1k/proxypool_desperated) - 
 - [etcdkeeper](https://github.com/evildecay/etcdkeeper) - web ui client for etcd
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
