@@ -132,6 +132,7 @@
 
 ## Go 
 
+- [google-cloud-go](https://github.com/googleapis/google-cloud-go) - Google Cloud Client Libraries for Go.
 - [xlsx](https://github.com/tealeg/xlsx) - Go (golang) library for reading and writing XLSX files.
 - [go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [ratelimit](https://github.com/uber-go/ratelimit) - A Golang blocking leaky-bucket rate limit implementation
