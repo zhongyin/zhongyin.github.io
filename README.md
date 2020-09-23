@@ -455,7 +455,6 @@
 ## JavaScript 
 
 - [gpgsync](https://github.com/syumai/gpgsync) - The Go Playground with coedit mode.
-- [proxypool_desperated](https://github.com/zu1k/proxypool_desperated) - 
 - [etcdkeeper](https://github.com/evildecay/etcdkeeper) - web ui client for etcd
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [tools](https://github.com/Yimismi/tools) - 常用工具集合
@@ -557,6 +556,7 @@
 ## Others 
 
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
+- [proxypool_rm](https://github.com/zu1k/proxypool_rm) - 
 - [api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
 - [cloud-native-istio](https://github.com/cloudnativebooks/cloud-native-istio) - 华为云原生丛书之《云原生服务网格Istio：原理、实践、架构与源码解析》
