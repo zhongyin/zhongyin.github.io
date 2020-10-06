@@ -132,6 +132,7 @@
 
 ## Go 
 
+- [gnomock](https://github.com/orlangure/gnomock) - Test your code without writing mocks with ephemeral Docker containers 📦 Setup popular services with just a couple lines of code ⏱️ No bash, no yaml, only code 💻
 - [google-cloud-go](https://github.com/googleapis/google-cloud-go) - Google Cloud Client Libraries for Go.
 - [xlsx](https://github.com/tealeg/xlsx) - Go (golang) library for reading and writing XLSX files.
 - [go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
@@ -425,6 +426,7 @@
 
 ## Java 
 
+- [seata](https://github.com/seata/seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 - [tinyid](https://github.com/didi/tinyid) - ID Generator id生成器 分布式id生成系统，简单易用、高性能、高可用的id生成系统
 - [vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
 - [hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 东半球最酷的学习项目 | 1、我写的三十万字算法图解 2、千本开源电子书 3、100 张思维导图 4、100 篇大厂面经 5、30 个学习专题  🚀 🚀 🚀 右上角点个 star，加入我们万人学习群！English Supported！
@@ -774,7 +776,7 @@
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [docker-pg-replication](https://github.com/2hamed/docker-pg-replication) - Example Dockerfiles for setting up PostgreSQL HA replication inside of Docker
-- [TabNine](https://github.com/codota/TabNine) - The all-language autocompleter: https://tabnine.com/
+- [TabNine](https://github.com/codota/TabNine) - AI Smart Compose for Your Code
 - [my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 - [htrace.sh](https://github.com/trimstray/htrace.sh) - My simple Swiss Army knife for http/https troubleshooting and profiling.
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
