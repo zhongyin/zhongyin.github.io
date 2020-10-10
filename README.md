@@ -132,6 +132,7 @@
 
 ## Go 
 
+- [server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [gnomock](https://github.com/orlangure/gnomock) - Test your code without writing mocks with ephemeral Docker containers 📦 Setup popular services with just a couple lines of code ⏱️ No bash, no yaml, only code 💻
 - [google-cloud-go](https://github.com/googleapis/google-cloud-go) - Google Cloud Client Libraries for Go.
 - [xlsx](https://github.com/tealeg/xlsx) - Go (golang) library for reading and writing XLSX files.
