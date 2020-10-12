@@ -723,7 +723,7 @@
 - [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [learnrust](https://github.com/inancgumus/learnrust) - ❤️ I started learning Rust, if you wanna join me, welcome!
 - [tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [quinn](https://github.com/djc/quinn) - Futures-based QUIC implementation in Rust
+- [quinn](https://github.com/quinn-rs/quinn) - Futures-based QUIC implementation in Rust
 - [lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated alternative to reddit in rust
 - [sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
