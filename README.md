@@ -736,7 +736,7 @@
 - [sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [tantivy](https://github.com/tantivy-search/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
-- [examples](https://github.com/actix/examples) - Examples of Actix ecosystem usage.
+- [examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
 - [grpc-rust](https://github.com/stepancheg/grpc-rust) - Rust implementation of gRPC
 - [hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
