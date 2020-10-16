@@ -132,6 +132,7 @@
 
 ## Go 
 
+- [debugcharts](https://github.com/mkevac/debugcharts) - Very simple charts with some debug data for Go programs
 - [wechat-sender](https://github.com/n9e/wechat-sender) - 夜莺的微信告警发送器
 - [kcli](https://github.com/cswank/kcli) - A kafka command line browser
 - [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
