@@ -132,6 +132,7 @@
 
 ## Go 
 
+- [kratos](https://github.com/go-kratos/kratos) - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
 - [metrics](https://github.com/VictoriaMetrics/metrics) - Lightweight alternative to github.com/prometheus/client_golang
 - [iouring-go](https://github.com/Iceber/iouring-go) - Provides easy-to-use async IO interface with io_uring
 - [debugcharts](https://github.com/mkevac/debugcharts) - Very simple charts with some debug data for Go programs
@@ -368,7 +369,6 @@
 - [sqlflow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
 - [auxpi](https://github.com/0xDkd/auxpi) - 🍭 集合多家 API 的新一代图床
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
-- [kratos](https://github.com/go-kratos/kratos) - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
 - [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [ffjson](https://github.com/pquerna/ffjson) - faster JSON serialization for Go
