@@ -132,6 +132,7 @@
 
 ## Go 
 
+- [annie](https://github.com/iawia002/annie) - 👾 Fast, simple and clean video downloader
 - [bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
