@@ -578,7 +578,7 @@
 
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
-- [proxypool](https://github.com/zu1k/proxypool) - v0.4.3 增加对vmess的h2网络支持
+- [proxypool](https://github.com/zu1k/proxypool) - 代理抓取
 - [api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
 - [cloud-native-istio](https://github.com/cloudnativebooks/cloud-native-istio) - 华为云原生丛书之《云原生服务网格Istio：原理、实践、架构与源码解析》
