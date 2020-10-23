@@ -578,6 +578,7 @@
 
 ## Others 
 
+- [prometheus-book](https://github.com/yunlzheng/prometheus-book) - Prometheus操作指南
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [proxypool](https://github.com/zu1k/proxypool) - 代理抓取
