@@ -132,6 +132,7 @@
 
 ## Go 
 
+- [golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go
 - [openbilibili-go-common-1](https://github.com/whjstc/openbilibili-go-common-1) - 哔哩哔哩 bilibili 网站后台工程 源码 来自 https://github.com/openbilibili
 - [progress](https://github.com/machinebox/progress) - io.Reader and io.Writer with progress and remaining time estimation
 - [goim](https://github.com/Terry-Mao/goim) - goim
