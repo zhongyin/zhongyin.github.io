@@ -132,6 +132,7 @@
 
 ## Go 
 
+- [progress](https://github.com/machinebox/progress) - io.Reader and io.Writer with progress and remaining time estimation
 - [goim](https://github.com/Terry-Mao/goim) - goim
 - [annie](https://github.com/iawia002/annie) - 👾 Fast, simple and clean video downloader
 - [bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
