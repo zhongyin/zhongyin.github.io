@@ -134,6 +134,7 @@
 
 ## Go 
 
+- [go-zero](https://github.com/tal-tech/go-zero) - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
 - [youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
 - [code2img](https://github.com/golang-design/code2img) - 🖨️ A carbon-now wrapper that supports iOS Shortcut
 - [logr](https://github.com/go-logr/logr) - A simple logging interface for Go
