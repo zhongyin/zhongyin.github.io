@@ -75,6 +75,7 @@
 
 ## C++ 
 
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle （multilingual recognition: English, Chinese, Korean, Japanese, German, French etc. 3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）
 - [lightseq](https://github.com/bytedance/lightseq) - LightSeq: A High Performance Inference Library for Sequence Processing and Generation
 - [watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.
@@ -133,6 +134,8 @@
 
 ## Go 
 
+- [youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
+- [code2img](https://github.com/golang-design/code2img) - 🖨️ A carbon-now wrapper that supports iOS Shortcut
 - [logr](https://github.com/go-logr/logr) - A simple logging interface for Go
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [goim](https://github.com/Terry-Mao/goim) - goim
@@ -584,6 +587,7 @@
 
 ## Others 
 
+- [free](https://github.com/freefq/free) - 免费科学上网,免费翻墙,免费ssr,免费v2ray,免费vmess节点,免费节点,翻墙,蓝灯,谷歌商店
 - [prometheus-book](https://github.com/yunlzheng/prometheus-book) - Prometheus操作指南
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
@@ -689,6 +693,7 @@
 
 ## Python 
 
+- [youtube-dl](https://github.com/l1ving/youtube-dl) - A copyright-respecting fork of youtube-dl
 - [GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart:让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。
 - [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
 - [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
