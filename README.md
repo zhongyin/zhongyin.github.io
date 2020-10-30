@@ -774,7 +774,7 @@
 - [quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
 - [wifi-connect](https://github.com/balena-io/wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop
-- [actix-web](https://github.com/actix/actix-web) - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
+- [actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [mio](https://github.com/tokio-rs/mio) - Metal IO library for Rust
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
 - [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
