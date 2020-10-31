@@ -694,7 +694,7 @@
 
 ## Python 
 
-- [youtube-dl](https://github.com/l1ving/youtube-dl) - A copyright-respecting fork of youtube-dl
+- [youtube-dl](https://github.com/l1ving/youtube-dl) - A fork of youtube-dl, for archival purposes.
 - [GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart:让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。
 - [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
 - [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
