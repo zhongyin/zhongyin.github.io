@@ -134,6 +134,7 @@
 
 ## Go 
 
+- [dingtalk-sender](https://github.com/n9e/dingtalk-sender) - 夜莺的钉钉群告警发送器
 - [sniper](https://github.com/bilibili/sniper) - 轻量级 go 业务框架。
 - [go-zero](https://github.com/tal-tech/go-zero) - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
 - [youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
@@ -810,6 +811,7 @@
 
 ## Shell 
 
+- [GCTT](https://github.com/studygolang/GCTT) - GCTT Go中文网翻译组。
 - [easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [wireguard-docs](https://github.com/pirate/wireguard-docs) - 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients.
