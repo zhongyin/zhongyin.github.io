@@ -443,6 +443,7 @@
 - [gopl-zh](https://github.com/golang-china/gopl-zh) - :books: Go语言圣经中文版
 - [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 - [gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
+- [tempus-dominus](https://github.com/Eonasdan/tempus-dominus) - Date/time picker widget based on twitter bootstrap
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
@@ -525,7 +526,6 @@
 - [wp-calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com
 - [react-demos](https://github.com/ruanyf/react-demos) - a collection of simple demos of React.js
 - [nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
-- [tempus-dominus](https://github.com/Eonasdan/tempus-dominus) - Date/time picker widget based on twitter bootstrap
 - [chartist-js](https://github.com/gionkunz/chartist-js) - Simple responsive charts
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [winjs](https://github.com/winjs/winjs) - A UI toolkit for modern browsers
@@ -785,7 +785,7 @@
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
 - [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
 - [nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs
-- [vector](https://github.com/timberio/vector) - High-performance observability data platform.
+- [vector](https://github.com/timberio/vector) - A high-performance observability data platform.
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [OpenSK](https://github.com/google/OpenSK) - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
