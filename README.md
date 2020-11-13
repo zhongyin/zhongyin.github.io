@@ -488,6 +488,7 @@
 
 ## JavaScript 
 
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
 - [gpgsync](https://github.com/syumai/gpgsync) - The Go Playground with coedit mode.
 - [etcdkeeper](https://github.com/evildecay/etcdkeeper) - web ui client for etcd
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -511,7 +512,6 @@
 - [mountebank](https://github.com/bbyars/mountebank) - Over the wire test doubles
 - [quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 - [52-technologies-in-2016](https://github.com/shekhargulati/52-technologies-in-2016) - Let's learn a new technology every week. A new technology blog every Sunday in 2016.
-- [freecodecamp.cn](https://github.com/huluoyang/freecodecamp.cn) - 随着FCC中文社区的快速发展和更多小伙伴的崛起，此项目已从个人项目升级到团队项目。详情请移步：
 - [Hilo](https://github.com/hiloteam/Hilo) - A Cross-end HTML5 Game development solution developed by Alibaba Group
 - [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [horizon](https://github.com/rethinkdb/horizon) - Horizon is a realtime, open-source backend for JavaScript apps.
@@ -522,10 +522,9 @@
 - [scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [wp-calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
 - [react-demos](https://github.com/ruanyf/react-demos) - a collection of simple demos of React.js
 - [nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
-- [bootstrap-datetimepicker](https://github.com/Eonasdan/bootstrap-datetimepicker) - Date/time picker widget based on twitter bootstrap
+- [tempus-dominus](https://github.com/Eonasdan/tempus-dominus) - Date/time picker widget based on twitter bootstrap
 - [chartist-js](https://github.com/gionkunz/chartist-js) - Simple responsive charts
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [winjs](https://github.com/winjs/winjs) - A UI toolkit for modern browsers
@@ -699,6 +698,7 @@
 
 ## Python 
 
+- [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [youtube-dl](https://github.com/l1ving/youtube-dl) - A fork of youtube-dl, for archival purposes.
 - [GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart:让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。
 - [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
