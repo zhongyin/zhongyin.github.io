@@ -593,6 +593,7 @@
 
 ## Others 
 
+- [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [free](https://github.com/freefq/free) - 免费科学上网,免费翻墙,免费ssr,免费v2ray,免费vmess节点,免费节点,翻墙,蓝灯,谷歌商店
 - [prometheus-book](https://github.com/yunlzheng/prometheus-book) - Prometheus操作指南
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -668,7 +669,6 @@
 - [open-falcon](https://github.com/XiaoMi/open-falcon) - A Distributed and High-Performance Monitoring System
 - [blog](https://github.com/fouber/blog) - 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
 - [android-open-project](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects,  More powerful web version:
 - [open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) - Open-Source Android Apps
