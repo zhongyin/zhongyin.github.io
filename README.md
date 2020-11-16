@@ -742,6 +742,7 @@
 
 ## Rust 
 
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [onefuzz](https://github.com/microsoft/onefuzz) - A self-hosted Fuzzing-As-A-Service platform
 - [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
 - [grpc-rs](https://github.com/tikv/grpc-rs) - The gRPC library for Rust built on C Core library and futures
@@ -790,7 +791,6 @@
 - [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [OpenSK](https://github.com/google/OpenSK) - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
 - [tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [dtool](https://github.com/guoxbin/dtool) - A command-line tool collection to assist development written in RUST
 - [free](https://github.com/adam-mcdaniel/free) - An esoteric programming language with an unusual compiler backend
