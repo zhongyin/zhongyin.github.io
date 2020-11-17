@@ -593,10 +593,10 @@
 
 ## Others 
 
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [free](https://github.com/freefq/free) - 免费科学上网,免费翻墙,免费ssr,免费v2ray,免费vmess节点,免费节点,翻墙,蓝灯,谷歌商店
 - [prometheus-book](https://github.com/yunlzheng/prometheus-book) - Prometheus操作指南
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [proxypool](https://github.com/zu1k/proxypool) - 代理抓取
 - [api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
