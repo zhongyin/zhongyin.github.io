@@ -134,6 +134,7 @@
 
 ## Go 
 
+- [k0s](https://github.com/k0sproject/k0s) - k0s - Zero Friction Kubernetes
 - [Mastering_Go_Second_Edition_Zh_CN](https://github.com/hantmac/Mastering_Go_Second_Edition_Zh_CN) - Mastering Go 第二版中文版来袭！
 - [photoprism](https://github.com/photoprism/photoprism) - Personal Photo Management powered by Go and Google TensorFlow
 - [mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
@@ -700,6 +701,7 @@
 
 ## Python 
 
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [youtube-dl](https://github.com/l1ving/youtube-dl) - A fork of youtube-dl, for archival purposes. | ORIGINAL REPO NOW REINSTATED
 - [GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart:让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。
