@@ -706,7 +706,6 @@
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [youtube-dl](https://github.com/l1ving/youtube-dl) - A fork of youtube-dl, for archival purposes. | ORIGINAL REPO NOW REINSTATED
-- [onefuzz](https://github.com/microsoft/onefuzz) - A self-hosted Fuzzing-As-A-Service platform
 - [GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart:让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。
 - [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
 - [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
@@ -749,6 +748,7 @@
 ## Rust 
 
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+- [onefuzz](https://github.com/microsoft/onefuzz) - A self-hosted Fuzzing-As-A-Service platform
 - [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
 - [grpc-rs](https://github.com/tikv/grpc-rs) - The gRPC library for Rust built on C Core library and futures
 - [rustracing_jaeger](https://github.com/sile/rustracing_jaeger) - Jaeger tracing library for Rust
