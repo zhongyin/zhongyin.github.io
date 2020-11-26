@@ -216,6 +216,7 @@
 - [revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language.
 - [alipay](https://github.com/smartwalle/alipay) - 支付宝 AliPay SDK for Go, 集成简单，功能完善，持续更新，支持公钥证书和普通公钥进行签名和验签。
 - [go-leetcode](https://github.com/austingebauer/go-leetcode) - A collection of 100+ popular LeetCode problems solved in Go.
+- [apisix-dashboard](https://github.com/apache/apisix-dashboard) - Dashboard for Apache APISIX
 - [gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
 - [golang-design-pattern](https://github.com/senghoo/golang-design-pattern) - 设计模式 Golang实现－《研磨设计模式》读书笔记
@@ -846,7 +847,6 @@
 
 - [midway](https://github.com/midwayjs/midway) - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
 - [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
-- [apisix-dashboard](https://github.com/apache/apisix-dashboard) - Dashboard for Apache APISIX
 - [ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
 - [code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
