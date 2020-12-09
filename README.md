@@ -133,6 +133,7 @@
 
 ## Go 
 
+- [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images
 - [go-notify](https://github.com/Harry-027/go-notify) - An email automation solution, written in Golang.
 - [mouthful](https://github.com/vkuznecovas/mouthful) - Mouthful is a self-hosted alternative to Disqus
