@@ -851,6 +851,7 @@
 
 ## TypeScript 
 
+- [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [midway](https://github.com/midwayjs/midway) - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
 - [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
