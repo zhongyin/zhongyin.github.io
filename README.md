@@ -832,7 +832,7 @@
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [docker-pg-replication](https://github.com/2hamed/docker-pg-replication) - Example Dockerfiles for setting up PostgreSQL HA replication inside of Docker
-- [TabNine](https://github.com/codota/TabNine) - AI Smart Compose for Your Code
+- [TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 - [htrace.sh](https://github.com/trimstray/htrace.sh) - My simple Swiss Army knife for http/https troubleshooting and profiling.
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
