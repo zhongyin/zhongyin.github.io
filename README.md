@@ -217,7 +217,6 @@
 - [gentleman](https://github.com/h2non/gentleman) - Full-featured, plugin-driven, extensible HTTP client toolkit for Go
 - [livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
 - [dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
-- [statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [imagick](https://github.com/gographics/imagick) - Go binding to ImageMagick's MagickWand C API
 - [revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language.
 - [alipay](https://github.com/smartwalle/alipay) - 支付宝 AliPay SDK for Go, 集成简单，功能完善，持续更新，支持公钥证书和普通公钥进行签名和验签。
@@ -869,6 +868,7 @@
 ## Vue 
 
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 100k+ developers. https://hoppscotch.io
+- [statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 
 
