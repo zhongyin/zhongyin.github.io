@@ -776,7 +776,7 @@
 - [sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
 - [rust-blog](https://github.com/pretzelhammer/rust-blog) - Educational blog posts for Rust beginners
-- [winrt-rs](https://github.com/microsoft/winrt-rs) - Rust language projection for the Windows Runtime
+- [winrt-rs](https://github.com/microsoft/winrt-rs) - Rust language projection for the Windows API
 - [rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
 - [rusoto](https://github.com/rusoto/rusoto) - AWS SDK for Rust
 - [sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
