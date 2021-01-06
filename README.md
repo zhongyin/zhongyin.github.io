@@ -132,7 +132,7 @@
 
 ## Go 
 
-- [jd_seckill](https://github.com/ztino/jd_seckill) - Hello，MT
+- [helloworld](https://github.com/ztino/helloworld) - Hello，MT
 - [xxl-job-executor-go](https://github.com/xxl-job/xxl-job-executor-go) - xxl-job 执行器（golang 客户端）
 - [kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
