@@ -154,7 +154,7 @@
 - [logr](https://github.com/go-logr/logr) - A simple logging interface for Go
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [goim](https://github.com/Terry-Mao/goim) - goim
-- [kratos](https://github.com/go-kratos/kratos) - Kratos是一套轻量级的Go微服务框架，包含大量微服务相关框架及工具。
+- [kratos](https://github.com/go-kratos/kratos) - A Go framework for microservices.
 - [gout](https://github.com/guonaihong/gout) - gout to become the Swiss Army Knife of the http client @^^@---&gt;  gout 是http client领域的瑞士军刀，小巧，强大，犀利。具体用法可看文档，如使用迷惑或者API用得不爽都可提issues
 - [mergo](https://github.com/imdario/mergo) - Mergo: merging Go structs and maps since 2013.
 - [yiigo](https://github.com/shenghui0779/yiigo) - 🔥 Go 轻量级开发通用库 🚀🚀🚀
@@ -849,7 +849,6 @@
 
 ## TeX 
 
-- [A-Philosophy-of-Software-Design-zh](https://github.com/gdut-yy/A-Philosophy-of-Software-Design-zh) - 《软件设计的哲学》中文翻译 A Philosophy of Software Design
 - [deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) - Deep Learning Book Chinese Translation
 
 ## TypeScript 
