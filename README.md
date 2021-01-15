@@ -695,7 +695,7 @@
 - [laravel](https://github.com/laravel/laravel) - A PHP framework for web artisans
 - [zanphp](https://github.com/youzan/zanphp) - PHP开发面向C10K+的高并发SOA服务  和RPC服务首选框架
 - [laravel-admin](https://github.com/z-song/laravel-admin) - Build a full-featured administrative interface in ten minutes
-- [Requests](https://github.com/rmccue/Requests) - Requests for PHP is a humble HTTP request library. It simplifies how you interact with other sites and takes away all your worries.
+- [Requests](https://github.com/WordPress/Requests) - Requests for PHP is a humble HTTP request library. It simplifies how you interact with other sites and takes away all your worries.
 - [api-framework](https://github.com/lnnujxxy/api-framework) - 基于yaf,openresty实现高效，简洁api框架
 - [parse-php-sdk](https://github.com/parse-community/parse-php-sdk) - The Parse PHP SDK.
 - [wechat-php-sdk](https://github.com/dodgepudding/wechat-php-sdk) - 微信公众平台php开发包, weixin developer SDK.
