@@ -285,7 +285,7 @@
 - [mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 - [gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin framework
 - [kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
-- [Go-Questions](https://github.com/qcrao/Go-Questions) - 从问题切入，串连  Go 语言相关的所有知识，融会贯通。
+- [Go-Questions](https://github.com/golang-design/Go-Questions) - 从问题切入，串连  Go 语言相关的所有知识，融会贯通。
 - [lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
 - [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [autocertdelegate](https://github.com/bradfitz/autocertdelegate) - Get LetsEncrypt TLS certs for internal-only TLS servers via a delegated golang.org/x/crypto/acme/autocert server.
@@ -401,7 +401,7 @@
 - [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [ffjson](https://github.com/pquerna/ffjson) - faster JSON serialization for Go
-- [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource.
+- [pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [night](https://github.com/talkgo/night) - Weekly Go Online Meetup via Bilibili｜Go 夜读｜由 SIG 成员维护｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
 - [read](https://github.com/talkgo/read) - Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）
 - [Go42](https://github.com/ffhelicopter/Go42) - 《Go语言四十二章经》详细讲述Go语言规范与语法细节及开发中常见的误区，通过研读标准库等经典代码设计模式，启发读者深刻理解Go语言的核心思维，进入Go语言开发的更高阶段。
