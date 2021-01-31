@@ -132,6 +132,7 @@
 
 ## Go 
 
+- [berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [xxl-job-executor-go](https://github.com/xxl-job/xxl-job-executor-go) - xxl-job 执行器（golang 客户端）
 - [kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
