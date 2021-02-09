@@ -341,7 +341,7 @@
 - [env](https://github.com/caarlos0/env) - Simple lib to parse environment variables to structs
 - [cast](https://github.com/spf13/cast) - safe and easy casting from one type to another in Go
 - [golang-web-dev](https://github.com/GoesToEleven/golang-web-dev) - 
-- [ent](https://github.com/facebook/ent) - An entity framework for Go
+- [ent](https://github.com/ent/ent) - An entity framework for Go
 - [go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
 - [machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing.
 - [gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
@@ -422,7 +422,7 @@
 - [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
 - [istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
-- [argo](https://github.com/argoproj/argo) - Argo Workflows: Get stuff done with Kubernetes.
+- [argo-workflows](https://github.com/argoproj/argo-workflows) - Argo Workflows: Get stuff done with Kubernetes.
 - [pipe](https://github.com/b3log/pipe) - 🎷 一款小而美的博客平台，专为程序员设计。
 - [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |
 - [naftis](https://github.com/XiaoMi/naftis) - An awesome dashboard for Istio built with love.
@@ -828,7 +828,7 @@
 ## Scala 
 
 - [scala](https://github.com/scala/scala) - Scala 2 compiler and standard library. For bugs, see scala/bug
-- [linkerd](https://github.com/linkerd/linkerd) - A service mesh for Kubernetes and beyond. Main repo for Linkerd 1.x.
+- [linkerd](https://github.com/linkerd/linkerd) - Old repo for Linkerd 1.x. See the linkerd2 repo for Linkerd   2.x.
 
 ## Shell 
 
