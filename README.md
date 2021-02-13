@@ -135,6 +135,8 @@
 
 ## Go 
 
+- [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+- [fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [etcdsync](https://github.com/zieckey/etcdsync) - A distributed lock library in Go using etcd. It easy to use like sync.Mutex.
 - [ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
 - [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
@@ -276,7 +278,6 @@
 - [lego](https://github.com/go-acme/lego) - Let's Encrypt client and ACME library written in Go
 - [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
 - [werf](https://github.com/werf/werf) - GitOps delivery tool
-- [fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [compress](https://github.com/klauspost/compress) - Optimized compression packages
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [atime](https://github.com/djherbis/atime) - Access Times for files #golang
