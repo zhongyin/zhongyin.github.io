@@ -213,7 +213,7 @@
 - [str](https://github.com/mgutz/str) - Package str is a string library to build more Go awesomeness
 - [sentinel-golang](https://github.com/alibaba/sentinel-golang) - Sentinel Go version (Reliability & Resilience)
 - [hystrix-go](https://github.com/afex/hystrix-go) - Netflix's Hystrix latency and fault tolerance library, for Go
-- [gcache](https://github.com/bluele/gcache) - Cache library for golang. It supports expirable Cache, LFU, LRU and ARC.
+- [gcache](https://github.com/bluele/gcache) - An in-memory cache library for golang. It supports multiple eviction policies: LRU, LFU, ARC
 - [go-mysql](https://github.com/siddontang/go-mysql) - a powerful mysql toolset with Go
 - [units](https://github.com/alecthomas/units) - Helpful unit multipliers and functions for Go
 - [sync](https://github.com/golang/sync) - [mirror] concurrency primitives
