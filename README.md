@@ -615,6 +615,7 @@
 - [prometheus-book](https://github.com/yunlzheng/prometheus-book) - Prometheus操作指南
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [proxypool-old](https://github.com/zu1k/proxypool-old) - 自用代理池，支持socks/http/https/ss/ssr/vmess/vless/trojan爬取，自动检测可用性和速度，提供各平台订阅，支持按条件筛选，支持api控制和隧道模式，支持分体结构检测和统计
+- [servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
 - [cloud-native-istio](https://github.com/cloudnativebooks/cloud-native-istio) - 华为云原生丛书之《云原生服务网格Istio：原理、实践、架构与源码解析》
@@ -772,7 +773,6 @@
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [autocxx](https://github.com/google/autocxx) - 
 - [cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
-- [servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [learnrust](https://github.com/inancgumus/learnrust) - ❤️ I started learning Rust, if you wanna join me, welcome!
