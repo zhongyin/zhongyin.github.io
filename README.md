@@ -764,6 +764,7 @@
 
 ## Rust 
 
+- [tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [grpc-rs](https://github.com/tikv/grpc-rs) - The gRPC library for Rust built on C Core library and futures
