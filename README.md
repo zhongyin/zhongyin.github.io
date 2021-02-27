@@ -158,7 +158,7 @@
 - [sniper](https://github.com/go-kiss/sniper) - 轻量级 go 业务框架。
 - [go-zero](https://github.com/tal-tech/go-zero) - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
 - [youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
-- [code2img](https://github.com/golang-design/code2img) - 🖨️ A carbon-now wrapper that supports iOS Shortcut
+- [code2img](https://github.com/golang-design/code2img) - 🖨️ A carbon-now wrapper for Go users and supports for iOS Shortcut
 - [logr](https://github.com/go-logr/logr) - A simple logging interface for Go
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [goim](https://github.com/Terry-Mao/goim) - goim
