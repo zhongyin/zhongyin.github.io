@@ -135,6 +135,7 @@
 
 ## Go 
 
+- [pyroscope](https://github.com/pyroscope-io/pyroscope) - 🔥  Continuous Profiling Platform 🔥 Debug performance issues down to a single line of code
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [etcdsync](https://github.com/zieckey/etcdsync) - A distributed lock library in Go using etcd. It easy to use like sync.Mutex.
