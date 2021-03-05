@@ -395,8 +395,6 @@
 - [xuperchain](https://github.com/xuperchain/xuperchain) - A highly flexible blockchain architecture with great transaction performance.
 - [dive-to-gosync-workshop](https://github.com/smallnest/dive-to-gosync-workshop) - 深入Go并发编程研讨课
 - [Gaea](https://github.com/XiaoMi/Gaea) - Gaea is a mysql proxy, it's developed by xiaomi b2c-dev team.
-- [paysuper-management-api](https://github.com/paysuper/paysuper-management-api) - The REST API server for the merchant`s dashboard.
-- [paysuper-billing-server](https://github.com/paysuper/paysuper-billing-server) - A core monolith-like service with all payment processing business logic in PaySuper.
 - [echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [canal-go](https://github.com/withlin/canal-go) - Alibaba mysql database binlog incremental subscription & consumer components Canal's golang client[阿里巴巴mysql数据库binlog的增量订阅&消费组件 Canal 的 go 客户端 ]   https://github.com/alibaba/canal
 - [groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
