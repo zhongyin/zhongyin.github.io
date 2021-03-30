@@ -335,7 +335,7 @@
 - [cronsun](https://github.com/shunfei/cronsun) - A Distributed, Fault-Tolerant Cron-Style Job System.
 - [modern-go-application](https://github.com/sagikazarmark/modern-go-application) - Modern Go Application example
 - [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
-- [brook](https://github.com/txthinking/brook) - Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration.
+- [brook](https://github.com/txthinking/brook) - Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration. Brook 是一个跨平台的强加密无特征的代理软件. 零配置.
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [protobuf](https://github.com/gogo/protobuf) - Protocol Buffers for Go with Gadgets
