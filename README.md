@@ -619,7 +619,7 @@
 - [free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 - [prometheus-book](https://github.com/yunlzheng/prometheus-book) - Prometheus操作指南
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
-- [proxypool](https://github.com/zu1k/proxypool) - 自用代理池，支持socks/http/https/ss/ssr/vmess/vless/trojan爬取，自动检测可用性和速度，提供各平台订阅，支持按条件筛选和筛选模板，支持api控制和隧道模式，支持分体结构检测和统计[旧代码去fork里找]
+- [proxypool-rm](https://github.com/zu1k/proxypool-rm) - 滥用严重，完全违背了我的初衷，已删库
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
