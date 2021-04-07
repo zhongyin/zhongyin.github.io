@@ -221,7 +221,7 @@
 - [sentinel-golang](https://github.com/alibaba/sentinel-golang) - Sentinel Go version (Reliability & Resilience)
 - [hystrix-go](https://github.com/afex/hystrix-go) - Netflix's Hystrix latency and fault tolerance library, for Go
 - [gcache](https://github.com/bluele/gcache) - An in-memory cache library for golang. It supports multiple eviction policies: LRU, LFU, ARC
-- [go-mysql](https://github.com/siddontang/go-mysql) - a powerful mysql toolset with Go
+- [go-mysql](https://github.com/go-mysql-org/go-mysql) - a powerful mysql toolset with Go
 - [units](https://github.com/alecthomas/units) - Helpful unit multipliers and functions for Go
 - [sync](https://github.com/golang/sync) - [mirror] concurrency primitives
 - [go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures.
