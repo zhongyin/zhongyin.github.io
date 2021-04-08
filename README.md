@@ -285,7 +285,7 @@
 - [lego](https://github.com/go-acme/lego) - Let's Encrypt client and ACME library written in Go
 - [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
 - [werf](https://github.com/werf/werf) - GitOps delivery tool
-- [compress](https://github.com/klauspost/compress) - Optimized compression packages
+- [compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [atime](https://github.com/djherbis/atime) - Access Times for files #golang
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
