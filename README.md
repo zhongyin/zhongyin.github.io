@@ -41,6 +41,7 @@
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
   - [Vue](#vue)
+  - [WebAssembly](#webassembly)
 
 ## Assembly 
 
@@ -817,7 +818,6 @@
 - [nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs
 - [vector](https://github.com/timberio/vector) - A high-performance, high-reliability observability data pipeline.
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-- [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [OpenSK](https://github.com/google/OpenSK) - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
 - [tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
 - [book](https://github.com/rust-lang/book) - The Rust Programming Language
@@ -885,6 +885,10 @@
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
+
+## WebAssembly 
+
+- [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 
 
 ## License
