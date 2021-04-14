@@ -474,6 +474,7 @@
 
 ## Java 
 
+- [pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
 - [TubeMQ](https://github.com/Tencent/TubeMQ) - TubeMQ focuses on high-performance storage and transmission of massive data in big data scenarios
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 - [Sentinel](https://github.com/alibaba/Sentinel) - A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
