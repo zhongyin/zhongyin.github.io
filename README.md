@@ -139,6 +139,7 @@
 
 ## Go 
 
+- [go-retryablehttp](https://github.com/hashicorp/go-retryablehttp) - Retryable HTTP client in Go
 - [httpmock](https://github.com/jarcoal/httpmock) - HTTP mocking for Golang
 - [gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
 - [mouthful](https://github.com/vkuznecovas/mouthful) - Mouthful is a self-hosted alternative to Disqus
