@@ -139,6 +139,7 @@
 
 ## Go 
 
+- [atomic](https://github.com/uber-go/atomic) - Wrapper types for sync/atomic which enforce atomic access
 - [go-retryablehttp](https://github.com/hashicorp/go-retryablehttp) - Retryable HTTP client in Go
 - [httpmock](https://github.com/jarcoal/httpmock) - HTTP mocking for Golang
 - [gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
