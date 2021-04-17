@@ -139,6 +139,7 @@
 
 ## Go 
 
+- [encore](https://github.com/encoredev/encore) - The Go backend framework with superpowers
 - [atomic](https://github.com/uber-go/atomic) - Wrapper types for sync/atomic which enforce atomic access
 - [go-retryablehttp](https://github.com/hashicorp/go-retryablehttp) - Retryable HTTP client in Go
 - [httpmock](https://github.com/jarcoal/httpmock) - HTTP mocking for Golang
