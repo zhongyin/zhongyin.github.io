@@ -85,7 +85,7 @@
 - [trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
 - [spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [googletest](https://github.com/google/googletest) - Googletest - Google Testing and Mocking Framework
+- [googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
 - [TencentOS-tiny](https://github.com/Tencent/TencentOS-tiny) - 腾讯物联网终端操作系统
 - [folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
 - [xuperchain](https://github.com/xuperchain/xuperchain) - A highly flexible blockchain architecture with great transaction performance.
