@@ -73,7 +73,7 @@
 
 ## C# # 
 
-- [wnmp](https://github.com/wnmp/wnmp) - An easy Nginx, MariaDB and PHP environment for Windows.
+- [wnmp](https://github.com/x64architecture/wnmp) - An easy Nginx, MariaDB and PHP environment for Windows.
 
 ## C++ 
 
