@@ -241,7 +241,7 @@
 - [frand](https://github.com/lukechampine/frand) - A fast userspace CSPRNG
 - [x-go](https://github.com/go-board/x-go) - Extend go std library.
 - [mem](https://github.com/go4org/mem) - cheap Go type to hold & operate on either a read-only []byte or string
-- [gentleman](https://github.com/h2non/gentleman) - Full-featured, plugin-driven, extensible HTTP client toolkit for Go
+- [gentleman](https://github.com/h2non/gentleman) - Plugin-driven, extensible HTTP client toolkit for Go
 - [livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
 - [dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
 - [imagick](https://github.com/gographics/imagick) - Go binding to ImageMagick's MagickWand C API
