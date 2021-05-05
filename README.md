@@ -815,7 +815,7 @@
 - [reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 - [diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
 - [bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
-- [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command
+- [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command for your terminal
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
