@@ -141,6 +141,7 @@
 ## Go 
 
 - [kafka](https://github.com/go-kratos/kafka) - Kafka is a distributed event streaming platform.
+- [kratos](https://github.com/go-kratos/kratos) - A Go framework for microservices.
 - [go-json](https://github.com/goccy/go-json) - Fast JSON encoder/decoder compatible with encoding/json for Go
 - [go-gin-api](https://github.com/xinliangnote/go-gin-api) - 基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gRPC 的使用 等等。
 - [keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
@@ -181,7 +182,6 @@
 - [logr](https://github.com/go-logr/logr) - A simple logging interface for Go
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [goim](https://github.com/Terry-Mao/goim) - goim
-- [kratos](https://github.com/go-kratos/kratos) - A Go framework for microservices.
 - [gout](https://github.com/guonaihong/gout) - gout to become the Swiss Army Knife of the http client @^^@---&gt;  gout 是http client领域的瑞士军刀，小巧，强大，犀利。具体用法可看文档，如使用迷惑或者API用得不爽都可提issues
 - [mergo](https://github.com/imdario/mergo) - Mergo: merging Go structs and maps since 2013.
 - [yiigo](https://github.com/shenghui0779/yiigo) - 🔥 Go 轻量级开发通用库 🚀🚀🚀
