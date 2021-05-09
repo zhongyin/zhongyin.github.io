@@ -140,6 +140,7 @@
 
 ## Go 
 
+- [bytebufferpool](https://github.com/valyala/bytebufferpool) - Anti-memory-waste byte buffer pool
 - [sniper](https://github.com/go-kiss/sniper) - 轻量级 go 业务框架。
 - [kafka](https://github.com/go-kratos/kafka) - Kafka is a distributed event streaming platform.
 - [kratos](https://github.com/go-kratos/kratos) - A Go framework for microservices.
