@@ -140,6 +140,7 @@
 
 ## Go 
 
+- [casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
 - [lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [bytebufferpool](https://github.com/valyala/bytebufferpool) - Anti-memory-waste byte buffer pool
 - [sniper](https://github.com/go-kiss/sniper) - 轻量级 go 业务框架。
