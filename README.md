@@ -882,6 +882,7 @@
 
 ## TypeScript 
 
+- [ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [midway](https://github.com/midwayjs/midway) - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
 - [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
