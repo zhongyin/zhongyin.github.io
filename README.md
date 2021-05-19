@@ -632,6 +632,8 @@
 
 ## Others 
 
+- [Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
+- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
@@ -682,7 +684,6 @@
 - [microservices](https://github.com/DocsHome/microservices) - Microservices from Design to Deployment 中文版 《微服务：从设计到部署》
 - [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) - 可能是让你受益匪浅的英语进阶指南
 - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
 - [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) - 成为专业程序员路上用到的各种优秀资料、神器及框架
 - [Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
