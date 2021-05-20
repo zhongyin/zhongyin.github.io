@@ -831,7 +831,7 @@
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
 - [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
 - [nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs
-- [vector](https://github.com/timberio/vector) - A high-performance, highly reliable, observability data pipeline.
+- [vector](https://github.com/timberio/vector) - High-performance observability data pipelines.
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [OpenSK](https://github.com/google/OpenSK) - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
 - [tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
