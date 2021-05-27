@@ -140,6 +140,8 @@
 
 ## Go 
 
+- [micro](https://github.com/micro/micro) - Micro is a distributed OS built for the Cloud
+- [wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [minikube](https://github.com/AliyunContainerService/minikube) - 普大喜奔，官方Minikube提供了完整对国内用户支持，建议参考 https://yq.aliyun.com/articles/221687 或 https://github.com/AliyunContainerService/minikube/wiki 最新支持minikube v1.18.1
 - [rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
