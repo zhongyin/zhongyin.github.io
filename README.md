@@ -790,7 +790,7 @@
 
 ## Rust 
 
-- [rustdesk](https://github.com/rustdesk/rustdesk) - The best open source remote desktop client software
+- [rustdesk](https://github.com/rustdesk/rustdesk) - An open source remote desktop client software
 - [tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
