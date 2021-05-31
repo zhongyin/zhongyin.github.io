@@ -140,6 +140,7 @@
 
 ## Go 
 
+- [proxypool](https://github.com/zu1k/proxypool) - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表
 - [micro](https://github.com/micro/micro) - Micro is a distributed OS built for the Cloud
 - [wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [minikube](https://github.com/AliyunContainerService/minikube) - 普大喜奔，官方Minikube提供了完整对国内用户支持，建议参考 https://yq.aliyun.com/articles/221687 或 https://github.com/AliyunContainerService/minikube/wiki 最新支持minikube v1.18.1
@@ -214,7 +215,6 @@
 - [ratelimit](https://github.com/uber-go/ratelimit) - A Golang blocking leaky-bucket rate limit implementation
 - [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [go-face](https://github.com/Kagami/go-face) - :mag: Face recognition with Go
-- [proxypool](https://github.com/zu1k/proxypool) - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表
 - [xxhash](https://github.com/cespare/xxhash) - A Go implementation of the 64-bit xxHash algorithm (XXH64)
 - [freecache](https://github.com/coocood/freecache) - A cache library for Go with zero GC overhead.
 - [ccs-gm](https://github.com/Hyperledger-TWGC/ccs-gm) - 中国网安go语言国密库
