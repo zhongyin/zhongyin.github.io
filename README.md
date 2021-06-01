@@ -140,6 +140,8 @@
 
 ## Go 
 
+- [quicktemplate](https://github.com/valyala/quicktemplate) - Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template
+- [fasttemplate](https://github.com/valyala/fasttemplate) - Simple and fast template engine for Go
 - [proxypool](https://github.com/zu1k/proxypool) - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表
 - [micro](https://github.com/micro/micro) - Micro is a distributed OS built for the Cloud
 - [wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
