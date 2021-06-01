@@ -530,7 +530,7 @@
 ## JavaScript 
 
 - [cnpmjs.org](https://github.com/cnpm/cnpmjs.org) - Private npm registry and web for Enterprise
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
 - [gpgsync](https://github.com/syumai/gpgsync) - The Go Playground with coedit mode.
 - [etcdkeeper](https://github.com/evildecay/etcdkeeper) - web ui client for etcd
