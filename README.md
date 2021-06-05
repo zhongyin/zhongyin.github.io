@@ -793,6 +793,7 @@
 
 ## Rust 
 
+- [rust-blog](https://github.com/pretzelhammer/rust-blog) - Educational blog posts for Rust beginners
 - [rustdesk](https://github.com/rustdesk/rustdesk) - An open source remote desktop client software
 - [tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
@@ -813,7 +814,6 @@
 - [lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated alternative to reddit in rust
 - [sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
-- [rust-blog](https://github.com/pretzelhammer/rust-blog) - Educational blog posts for Rust beginners
 - [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
