@@ -122,7 +122,7 @@
 
 ## Cuda 
 
-- [lightseq](https://github.com/bytedance/lightseq) - LightSeq: A High-Performance Inference Library for Sequence Processing and Generation
+- [lightseq](https://github.com/bytedance/lightseq) - LightSeq: A High Performance Library for Sequence Processing and Generation
 - [warp-ctc](https://github.com/baidu-research/warp-ctc) - Fast parallel CTC.
 
 ## Dart 
