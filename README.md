@@ -179,7 +179,7 @@
 - [kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
 - [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-- [buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images
+- [buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 - [go-notify](https://github.com/Harry-027/go-notify) - An email automation solution, written in Golang.
 - [k6](https://github.com/k6io/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器，通用工作流等基础功能，五分钟一套CURD前后端代码，目VUE3版本正在重构，欢迎issue和pr~
@@ -339,7 +339,7 @@
 - [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
 - [resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
 - [bfe](https://github.com/bfenetworks/bfe) - A modern layer 7 load balancer from baidu
-- [podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods
+- [podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT)
 - [cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
 - [go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
