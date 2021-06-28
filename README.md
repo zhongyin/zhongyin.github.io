@@ -339,7 +339,7 @@
 - [resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
 - [bfe](https://github.com/bfenetworks/bfe) - A modern layer 7 load balancer from baidu
 - [podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
-- [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT)
+- [jwt-go](https://github.com/dgrijalva/jwt-go) - ARCHIVE - Golang implementation of JSON Web Tokens (JWT). This project is now maintained at:
 - [cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
 - [go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
 - [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
