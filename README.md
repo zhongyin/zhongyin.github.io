@@ -138,6 +138,7 @@
 
 ## Go 
 
+- [kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
 - [dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [quicktemplate](https://github.com/valyala/quicktemplate) - Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template
 - [fasttemplate](https://github.com/valyala/fasttemplate) - Simple and fast template engine for Go
@@ -317,7 +318,6 @@
 - [kubernetes-ingress](https://github.com/nginxinc/kubernetes-ingress) - NGINX and  NGINX Plus Ingress Controllers for Kubernetes
 - [mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 - [gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin framework
-- [kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
 - [Go-Questions](https://github.com/golang-design/Go-Questions) - 📖 从问题切入，串连  Go 语言相关的所有知识，融会贯通。 https://golang.design/go-questions
 - [lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
 - [autocertdelegate](https://github.com/bradfitz/autocertdelegate) - Get LetsEncrypt TLS certs for internal-only TLS servers via a delegated golang.org/x/crypto/acme/autocert server.
