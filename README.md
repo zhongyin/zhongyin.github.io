@@ -384,7 +384,7 @@
 - [go-extend](https://github.com/thinkeridea/go-extend) - go语言扩展包，收集一些常用的操作函数，辅助更快的完成开发工作，并减少重复代码
 - [go-gin-example](https://github.com/eddycjy/go-gin-example) - An example of gin
 - [go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
-- [TopList](https://github.com/tophubs/TopList) - 今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://mo.fish
+- [TopList](https://github.com/timeromantic/TopList) - 今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://mo.fish
 - [1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - handling 1M websockets connections in Go
 - [gin-swagger](https://github.com/swaggo/gin-swagger) - gin middleware to automatically generate RESTful API documentation with Swagger 2.0.
 - [yaag](https://github.com/betacraft/yaag) - Yet Another ApiDoc Generator (for Golang web apps)
