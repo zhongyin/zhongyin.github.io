@@ -138,6 +138,7 @@
 
 ## Go 
 
+- [go-queue](https://github.com/tal-tech/go-queue) - Kafka, Beanstalkd Pub/Sub framework.
 - [wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [gopkg](https://github.com/bytedance/gopkg) - Universal Utilities for Go
 - [kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
