@@ -138,6 +138,7 @@
 
 ## Go 
 
+- [kitex](https://github.com/cloudwego/kitex) - 
 - [tunny](https://github.com/Jeffail/tunny) - A goroutine pool for Go
 - [go-queue](https://github.com/tal-tech/go-queue) - Kafka, Beanstalkd Pub/Sub framework.
 - [wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
