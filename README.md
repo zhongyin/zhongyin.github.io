@@ -49,9 +49,9 @@
 
 ## C 
 
+- [beanstalkd](https://github.com/beanstalkd/beanstalkd) - Beanstalk is a simple, fast work queue.
 - [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 - [ish](https://github.com/ish-app/ish) - Linux shell for iOS
-- [beanstalkd](https://github.com/beanstalkd/beanstalkd) - Beanstalk is a simple, fast work queue.
 - [GmSSL](https://github.com/guanzhi/GmSSL) - 支持国密SM2/SM3/SM4/SM9/ZUC/SSL的OpenSSL分支
 - [vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
 - [wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter, and the most universal runtime
