@@ -138,6 +138,7 @@
 
 ## Go 
 
+- [exp-httpclient](https://github.com/bradfitz/exp-httpclient) - experimental new HTTP client API for #golang (WIP)
 - [kitex](https://github.com/cloudwego/kitex) - 
 - [gorse](https://github.com/zhenghaoz/gorse) - An open source recommender system service written in Go
 - [tunny](https://github.com/Jeffail/tunny) - A goroutine pool for Go
