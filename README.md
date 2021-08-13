@@ -98,7 +98,7 @@
 - [phxsql](https://github.com/Tencent/phxsql) - A high availability MySQL cluster that guarantees data consistency between a master and slaves.
 - [logkafka](https://github.com/Qihoo360/logkafka) - Collect logs and send lines to Apache Kafka
 - [protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
-- [pushpin](https://github.com/fanout/pushpin) - Reverse proxy for realtime web services
+- [pushpin](https://github.com/fanout/pushpin) - Proxy server for adding push to your API
 - [rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
 - [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [scylla](https://github.com/scylladb/scylla) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
