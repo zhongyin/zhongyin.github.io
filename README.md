@@ -548,7 +548,7 @@
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 - [Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶学习笔记。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。
 - [mili](https://github.com/shen100/mili) - mili 是一个开源的社区系统，界面优雅，功能丰富😛
-- [taro-yanxuan](https://github.com/qit-team/taro-yanxuan) - 首个 Taro 多端统一实例 - 网易严选（小程序 + H5 + React Native） - By 趣店 FED
+- [taro-yanxuan](https://github.com/js-newbee/taro-yanxuan) - 首个 Taro 多端统一实例 - 网易严选（小程序 + H5 + React Native） - By 趣店 FED
 - [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [egg](https://github.com/eggjs/egg) - 🥚 Born to build better enterprise frameworks and apps with Node.js & Koa
 - [kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
