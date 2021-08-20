@@ -49,6 +49,7 @@
 
 ## C 
 
+- [delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [beanstalkd](https://github.com/beanstalkd/beanstalkd) - Beanstalk is a simple, fast work queue.
 - [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 - [ish](https://github.com/ish-app/ish) - Linux shell for iOS
