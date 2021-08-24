@@ -144,10 +144,11 @@
 
 ## Go 
 
+- [netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
+- [kitex](https://github.com/cloudwego/kitex) - 
 - [curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
 - [go-metrics](https://github.com/rcrowley/go-metrics) - Go port of Coda Hale's Metrics library
 - [exp-httpclient](https://github.com/bradfitz/exp-httpclient) - experimental new HTTP client API for #golang (WIP)
-- [kitex](https://github.com/cloudwego/kitex) - 
 - [gorse](https://github.com/zhenghaoz/gorse) - An open source recommender system service written in Go
 - [tunny](https://github.com/Jeffail/tunny) - A goroutine pool for Go
 - [go-queue](https://github.com/tal-tech/go-queue) - Kafka, Beanstalkd Pub/Sub framework.
