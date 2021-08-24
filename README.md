@@ -45,6 +45,7 @@
 
 ## Assembly 
 
+- [sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 
 ## C 
@@ -138,6 +139,7 @@
 
 ## Go 
 
+- [go-metrics](https://github.com/rcrowley/go-metrics) - Go port of Coda Hale's Metrics library
 - [exp-httpclient](https://github.com/bradfitz/exp-httpclient) - experimental new HTTP client API for #golang (WIP)
 - [kitex](https://github.com/cloudwego/kitex) - 
 - [gorse](https://github.com/zhenghaoz/gorse) - An open source recommender system service written in Go
