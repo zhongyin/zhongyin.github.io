@@ -13,6 +13,7 @@
   - [Clojure](#clojure)
   - [Cuda](#cuda)
   - [Dart](#dart)
+  - [Dockerfile](#dockerfile)
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
@@ -137,8 +138,13 @@
 - [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
 - [chromedeveditor](https://github.com/googlearchive/chromedeveditor) - Chrome Dev Editor is a developer tool for building apps on the Chrome platform - Chrome Apps and Web Apps, in JavaScript or Dart. (NO LONGER IN ACTIVE DEVELOPMENT)
 
+## Dockerfile 
+
+- [apisix-docker](https://github.com/apache/apisix-docker) - the docker for Apache APISIX
+
 ## Go 
 
+- [curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
 - [go-metrics](https://github.com/rcrowley/go-metrics) - Go port of Coda Hale's Metrics library
 - [exp-httpclient](https://github.com/bradfitz/exp-httpclient) - experimental new HTTP client API for #golang (WIP)
 - [kitex](https://github.com/cloudwego/kitex) - 
