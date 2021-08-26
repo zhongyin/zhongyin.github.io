@@ -597,7 +597,7 @@
 - [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [Ghost](https://github.com/TryGhost/Ghost) - 👻 The #1 headless Node.js CMS for professional publishing
+- [Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business.
 
 ## Jinja 
 
