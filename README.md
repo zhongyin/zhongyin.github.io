@@ -814,7 +814,7 @@
 
 ## Rust 
 
-- [roogle](https://github.com/hkmatsumoto/roogle) - A Rust API search engine
+- [roogle](https://github.com/hkmatsumoto/roogle) - Hoogle for Rust
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [delicate](https://github.com/BinChengZhao/delicate) - A lightweight and distributed task scheduling platform written in rust. （一个轻量的分布式的任务调度平台通过rust编写）
 - [rust-blog](https://github.com/pretzelhammer/rust-blog) - Educational blog posts for Rust beginners
