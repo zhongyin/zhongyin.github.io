@@ -204,7 +204,7 @@
 - [photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management. Powered by Go and Google TensorFlow! 🌈
 - [mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
 - [dingtalk-sender](https://github.com/n9e/dingtalk-sender) - 夜莺的钉钉群告警发送器
-- [go-zero](https://github.com/tal-tech/go-zero) - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
+- [go-zero](https://github.com/zeromicro/go-zero) - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
 - [youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
 - [code2img](https://github.com/golang-design/code2img) - 🖨️ A carbon-now API wrapper and iOS Shortcut
 - [logr](https://github.com/go-logr/logr) - A simple logging interface for Go
