@@ -164,7 +164,7 @@
 - [fasttemplate](https://github.com/valyala/fasttemplate) - Simple and fast template engine for Go
 - [proxypool](https://github.com/zu1k/proxypool) - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表。欢迎star
 - [micro](https://github.com/micro/micro) - Micro is an operating system for the cloud
-- [minikube](https://github.com/AliyunContainerService/minikube) - 普大喜奔，官方Minikube提供了完整对国内用户支持，建议参考 https://yq.aliyun.com/articles/221687 或 https://github.com/AliyunContainerService/minikube/wiki 最新支持minikube v1.20.0
+- [minikube](https://github.com/AliyunContainerService/minikube) - 普大喜奔，官方Minikube提供了完整对国内用户支持，建议参考 https://yq.aliyun.com/articles/221687 或 https://github.com/AliyunContainerService/minikube/wiki 最新支持minikube v1.23.1
 - [rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [bee](https://github.com/ethersphere/bee) - Bee is a Swarm client implemented in Go. It’s the basic building block for the Swarm network: a private; decentralized; and self-sustaining network for permissionless publishing and access to your (application) data.
