@@ -817,6 +817,7 @@
 
 ## Rust 
 
+- [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [roogle](https://github.com/hkmatsumoto/roogle) - A Rust API search engine
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [delicate](https://github.com/BinChengZhao/delicate) - A lightweight and distributed task scheduling platform written in rust. （一个轻量的分布式的任务调度平台通过rust编写）
@@ -844,7 +845,6 @@
 - [rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
 - [rusoto](https://github.com/rusoto/rusoto) - AWS SDK for Rust
 - [sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
-- [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [tantivy](https://github.com/tantivy-search/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
