@@ -144,6 +144,7 @@
 
 ## Go 
 
+- [sealos](https://github.com/fanux/sealos) - 一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，生产环境稳如老狗
 - [authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [goutil](https://github.com/gookit/goutil) - 💪 Helper Utils For The Go: string, array/slice, map, format, cli, env, filesystem, test and more. Go 的一些工具函数，格式化，特殊处理，常用信息获取等等
 - [glog](https://github.com/golang/glog) - Leveled execution logs for Go
@@ -280,7 +281,6 @@
 - [apisix-dashboard](https://github.com/apache/apisix-dashboard) - Dashboard for Apache APISIX
 - [gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
-- [sealos](https://github.com/fanux/sealos) - 一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，生产环境稳如老狗
 - [tablewriter](https://github.com/olekukonko/tablewriter) - ASCII table in golang
 - [nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
@@ -817,6 +817,7 @@
 
 ## Rust 
 
+- [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [roogle](https://github.com/hkmatsumoto/roogle) - A Rust API search engine
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -864,7 +865,6 @@
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
 - [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
 - [nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs
-- [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [OpenSK](https://github.com/google/OpenSK) - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
