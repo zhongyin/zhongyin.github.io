@@ -840,7 +840,7 @@
 - [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [learnrust](https://github.com/inancgumus/learnrust) - ❤️ I started learning Rust, if you wanna join me, welcome!
 - [quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
-- [lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated alternative to reddit in rust
+- [lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated link aggregator in rust
 - [sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
 - [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
