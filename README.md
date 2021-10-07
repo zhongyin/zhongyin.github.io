@@ -740,7 +740,7 @@
 - [awesome-resty](https://github.com/bungle/awesome-resty) - A List of Quality OpenResty Libraries, and Resources.
 - [open-falcon](https://github.com/XiaoMi/open-falcon) - A Distributed and High-Performance Monitoring System
 - [blog](https://github.com/fouber/blog) - 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
-- [awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
+- [awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
 - [android-open-project](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects,  More powerful web version:
 - [open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) - Open-Source Android Apps
 - [frontend-stuff](https://github.com/moklick/frontend-stuff) - 📝 A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly JavaScript.
