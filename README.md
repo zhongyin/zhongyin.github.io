@@ -206,7 +206,7 @@
 - [k0s](https://github.com/k0sproject/k0s) - k0s - Zero Friction Kubernetes
 - [Mastering_Go_Second_Edition_Zh_CN](https://github.com/hantmac/Mastering_Go_Second_Edition_Zh_CN) - Mastering Go 第二版中文版来袭！
 - [photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management powered by Go and Google TensorFlow 🌈
-- [mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
+- [mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [dingtalk-sender](https://github.com/n9e/dingtalk-sender) - 夜莺的钉钉群告警发送器
 - [go-zero](https://github.com/zeromicro/go-zero) - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
 - [youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
