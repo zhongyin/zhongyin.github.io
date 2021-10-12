@@ -157,7 +157,7 @@
 - [exp-httpclient](https://github.com/bradfitz/exp-httpclient) - experimental new HTTP client API for #golang (WIP)
 - [gorse](https://github.com/zhenghaoz/gorse) - An open source recommender system service written in Go
 - [tunny](https://github.com/Jeffail/tunny) - A goroutine pool for Go
-- [go-queue](https://github.com/tal-tech/go-queue) - Kafka, Beanstalkd Pub/Sub framework.
+- [go-queue](https://github.com/zeromicro/go-queue) - Kafka, Beanstalkd Pub/Sub framework.
 - [wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [gopkg](https://github.com/bytedance/gopkg) - Universal Utilities for Go
 - [kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
