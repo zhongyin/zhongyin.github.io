@@ -143,6 +143,7 @@
 
 ## Go 
 
+- [gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for engineering, STEM education, and data science
 - [kite](https://github.com/koding/kite) - Micro-service framework in Go
 - [gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times
 - [sealos](https://github.com/fanux/sealos) - 一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，生产环境稳如老狗
