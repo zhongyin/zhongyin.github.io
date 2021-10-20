@@ -143,6 +143,7 @@
 
 ## Go 
 
+- [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [sealos](https://github.com/fanux/sealos) - 一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，生产环境稳如老狗
 - [gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for engineering, STEM education, and data science
 - [kite](https://github.com/koding/kite) - Micro-service framework in Go
@@ -445,7 +446,6 @@
 - [groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 - [BookStack](https://github.com/TruthHun/BookStack) - BookStack，基于MinDoc，使用Beego开发的在线文档管理系统，功能类似Gitbook和看云。
 - [go-tsz](https://github.com/dgryski/go-tsz) - Time series compression algorithm from Facebook's Gorilla paper
-- [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [sqlflow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
 - [auxpi](https://github.com/0xDkd/auxpi) - 🍭 集合多家 API 的新一代图床
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
