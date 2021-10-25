@@ -824,7 +824,7 @@
 - [axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [roogle](https://github.com/hkmatsumoto/roogle) - CURRENTLY UNDER MAINTAINANCE TO USE DOCKER.
+- [roogle](https://github.com/hkmatsumoto/roogle) - A Rust API search engine
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [delicate](https://github.com/BinChengZhao/delicate) - A lightweight and distributed task scheduling platform written in rust. （一个轻量的分布式的任务调度平台通过rust编写）
 - [rust-blog](https://github.com/pretzelhammer/rust-blog) - Educational blog posts for Rust beginners
