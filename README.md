@@ -846,7 +846,7 @@
 - [lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated link aggregator in rust
 - [sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
-- [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
+- [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [windows-rs](https://github.com/microsoft/windows-rs) - Windows SDK for Rust
 - [rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
 - [rusoto](https://github.com/rusoto/rusoto) - AWS SDK for Rust
