@@ -143,6 +143,7 @@
 
 ## Go 
 
+- [go-tagexpr](https://github.com/bytedance/go-tagexpr) - An interesting go struct tag expression syntax for field validation, etc.
 - [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [sealos](https://github.com/fanux/sealos) - 一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，生产环境稳如老狗
 - [gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for engineering, STEM education, and data science
