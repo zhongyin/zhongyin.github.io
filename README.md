@@ -657,7 +657,7 @@
 
 ## Objective-C 
 
-- [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - The official Tunnelbick website is at https://tunnelblick.net; the official Tunnelblick GitHub repository is at https://github.com/Tunnelblick
+- [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - The official Tunnelblick website is at https://tunnelblick.net; the official Tunnelblick GitHub repository is at https://github.com/Tunnelblick
 - [echo](https://github.com/didi/echo) - Echo是一款桌面端调试工具，旨在提高客户端的研发调试效率
 - [analyze](https://github.com/draveness/analyze) - Draven's Blog
 
@@ -847,7 +847,7 @@
 - [sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-- [windows-rs](https://github.com/microsoft/windows-rs) - Windows SDK for Rust
+- [windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
 - [rusoto](https://github.com/rusoto/rusoto) - AWS SDK for Rust
 - [sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
