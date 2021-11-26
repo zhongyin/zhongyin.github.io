@@ -775,7 +775,6 @@
 - [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
-- [superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
@@ -923,6 +922,7 @@
 ## TypeScript 
 
 - [ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
+- [superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [midway](https://github.com/midwayjs/midway) - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
 - [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
