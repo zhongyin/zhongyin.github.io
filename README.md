@@ -820,7 +820,7 @@
 ## Rust 
 
 - [axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
-- [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
+- [vector](https://github.com/vectordotdev/vector) - A reliable, high-performance tool for building observability data pipelines.
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [roogle](https://github.com/roogle-rs/roogle) - A Rust API search engine
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
