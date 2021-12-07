@@ -51,7 +51,6 @@
 
 ## C 
 
-- [delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [beanstalkd](https://github.com/beanstalkd/beanstalkd) - Beanstalk is a simple, fast work queue.
 - [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 - [ish](https://github.com/ish-app/ish) - Linux shell for iOS
@@ -157,6 +156,7 @@
 - [netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
 - [kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.
 - [go-metrics](https://github.com/rcrowley/go-metrics) - Go port of Coda Hale's Metrics library
+- [delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [exp-httpclient](https://github.com/bradfitz/exp-httpclient) - experimental new HTTP client API for #golang (WIP)
 - [gorse](https://github.com/zhenghaoz/gorse) - An open source recommender system service written in Go
 - [tunny](https://github.com/Jeffail/tunny) - A goroutine pool for Go
