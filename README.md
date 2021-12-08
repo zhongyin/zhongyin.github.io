@@ -22,7 +22,6 @@
   - [Jinja](#jinja)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
-  - [Less](#less)
   - [Lua](#lua)
   - [Markdown](#markdown)
   - [Nim](#nim)
@@ -504,6 +503,7 @@
 - [gopl-zh](https://github.com/golang-china/gopl-zh) - :books: Go语言圣经中文版
 - [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 - [gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
+- [weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 - [tempus-dominus](https://github.com/Eonasdan/tempus-dominus) - A powerful Date/time picker widget.
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
@@ -621,10 +621,6 @@
 ## Kotlin 
 
 - [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - 
-
-## Less 
-
-- [weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 
 ## Lua 
 
