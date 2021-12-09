@@ -327,7 +327,7 @@
 - [opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
 - [lego](https://github.com/go-acme/lego) - Let's Encrypt client and ACME library written in Go
 - [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
-- [werf](https://github.com/werf/werf) - The CLI tool glueing Git, Docker, Helm and Kubernetes with any CI system to implement CI/CD and Giterminism
+- [werf](https://github.com/werf/werf) - The CLI tool gluing Git, Docker, Helm, and Kubernetes with any CI system to implement CI/CD and Giterminism
 - [compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [atime](https://github.com/djherbis/atime) - Access Times for files #golang
