@@ -333,7 +333,6 @@
 - [atime](https://github.com/djherbis/atime) - Access Times for files #golang
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [go-internals](https://github.com/go-internals-cn/go-internals) - Chinese Translation of https://github.com/teh-cmc/go-internals
-- [golang-notes](https://github.com/cch123/golang-notes) - Go source code analysis(zh-cn)
 - [httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
 - [ingress-nginx](https://github.com/kubernetes/ingress-nginx) - NGINX Ingress Controller for Kubernetes
 - [minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
@@ -497,6 +496,7 @@
 
 - [golang101](https://github.com/golang101/golang101) - Go语言101 : 一本侧重于Go语言语法和语义的编程解释和指导书
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
+- [golang-notes](https://github.com/cch123/golang-notes) - Go source code analysis(zh-cn)
 - [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 - [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
