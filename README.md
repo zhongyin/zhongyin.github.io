@@ -141,6 +141,7 @@
 
 ## Go 
 
+- [casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
 - [knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [go-tagexpr](https://github.com/bytedance/go-tagexpr) - An interesting go struct tag expression syntax for field validation, etc.
 - [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
@@ -173,7 +174,6 @@
 - [rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [bee](https://github.com/ethersphere/bee) - Bee is a Swarm client implemented in Go. It’s the basic building block for the Swarm network: a private; decentralized; and self-sustaining network for permissionless publishing and access to your (application) data.
-- [casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
 - [lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [bytebufferpool](https://github.com/valyala/bytebufferpool) - Anti-memory-waste byte buffer pool
 - [sniper](https://github.com/go-kiss/sniper) - 轻量级 go 业务框架。
