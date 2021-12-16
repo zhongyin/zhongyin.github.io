@@ -924,7 +924,7 @@
 - [lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [midway](https://github.com/midwayjs/midway) - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
 - [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
-- [code-server](https://github.com/coder/code-server) - VS Code in the browser
+- [code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
