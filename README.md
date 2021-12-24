@@ -917,7 +917,7 @@
 
 ## TypeScript 
 
-- [tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus)
+- [tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2021
 - [superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
