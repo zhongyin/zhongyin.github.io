@@ -145,7 +145,7 @@
 - [knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [go-tagexpr](https://github.com/bytedance/go-tagexpr) - An interesting go struct tag expression syntax for field validation, etc.
 - [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
-- [sealos](https://github.com/fanux/sealos) - 一条命令离线安装高可用kubernetes，3min装完，500M，100年证书，版本不要太全，生产环境稳如老狗
+- [sealos](https://github.com/fanux/sealos) - 一条命令离线安装高可用 Kubernetes，3min 装完，500M，100年证书，版本不要太全，生产环境稳如老狗🔥 ⎈ 🐳
 - [gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for engineering, STEM education, and data science
 - [kite](https://github.com/koding/kite) - Micro-service framework in Go
 - [gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times
