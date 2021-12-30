@@ -386,7 +386,7 @@
 - [martian](https://github.com/google/martian) - Martian is a library for building custom HTTP/S proxies
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
-- [env](https://github.com/caarlos0/env) - Simple lib to parse environment variables to structs
+- [env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs.
 - [cast](https://github.com/spf13/cast) - safe and easy casting from one type to another in Go
 - [golang-web-dev](https://github.com/GoesToEleven/golang-web-dev) - 
 - [ent](https://github.com/ent/ent) - An entity framework for Go
