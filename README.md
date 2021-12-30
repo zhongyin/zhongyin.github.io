@@ -45,7 +45,6 @@
 
 ## Assembly 
 
-- [sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 
 ## C 
@@ -156,6 +155,7 @@
 - [curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
 - [netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
 - [kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.
+- [sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [go-metrics](https://github.com/rcrowley/go-metrics) - Go port of Coda Hale's Metrics library
 - [delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [exp-httpclient](https://github.com/bradfitz/exp-httpclient) - experimental new HTTP client API for #golang (WIP)
@@ -219,7 +219,7 @@
 - [goim](https://github.com/Terry-Mao/goim) - goim
 - [gout](https://github.com/guonaihong/gout) - gout to become the Swiss Army Knife of the http client @^^@---&gt;  gout 是http client领域的瑞士军刀，小巧，强大，犀利。具体用法可看文档，如使用迷惑或者API用得不爽都可提issues
 - [mergo](https://github.com/imdario/mergo) - Mergo: merging Go structs and maps since 2013.
-- [yiigo](https://github.com/shenghui0779/yiigo) - 🔥 一个好用的 Go 轻量级开发通用库 🚀🚀🚀
+- [yiigo](https://github.com/shenghui0779/yiigo) - 🔥 一个好用的轻量级 Go 开发通用库 🚀🚀🚀
 - [golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go
 - [progress](https://github.com/machinebox/progress) - io.Reader and io.Writer with progress and remaining time estimation
 - [annie](https://github.com/iawia002/annie) - 👾 Fast and simple video download library and CLI tool written in Go
