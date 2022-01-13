@@ -221,7 +221,7 @@
 - [yiigo](https://github.com/shenghui0779/yiigo) - 🔥 一个好用的轻量级 Go 开发通用库 🚀🚀🚀
 - [golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go
 - [progress](https://github.com/machinebox/progress) - io.Reader and io.Writer with progress and remaining time estimation
-- [annie](https://github.com/iawia002/annie) - 👾 Fast and simple video download library and CLI tool written in Go
+- [lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
