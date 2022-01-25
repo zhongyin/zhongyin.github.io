@@ -346,7 +346,7 @@
 - [gendry](https://github.com/didi/gendry) - a golang library for sql builder
 - [gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet, LinkedHashSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap, LinkedHashMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON
 - [Burrow](https://github.com/linkedin/Burrow) - Kafka Consumer Lag Checking
-- [req](https://github.com/imroc/req) - a simple golang http client library with magic, less code and more efficiency
+- [req](https://github.com/imroc/req) - Simplified golang http client library with magic, happy sending requests, less code and more efficiency.
 - [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 - [kube-router](https://github.com/cloudnativelabs/kube-router) - Kube-router, a turnkey solution for Kubernetes networking.
 - [kplcloud](https://github.com/kplcloud/kplcloud) - 基于Kubernetes的PaaS平台
