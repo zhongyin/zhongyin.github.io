@@ -846,7 +846,7 @@
 - [rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
 - [rusoto](https://github.com/rusoto/rusoto) - AWS SDK for Rust
 - [sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
-- [tantivy](https://github.com/quickwit-inc/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+- [tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [grpc-rust](https://github.com/stepancheg/grpc-rust) - Rust implementation of gRPC
