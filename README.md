@@ -325,7 +325,7 @@
 - [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [excelize](https://github.com/qax-os/excelize) - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
 - [opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
-- [lego](https://github.com/go-acme/lego) - Let's Encrypt client and ACME library written in Go
+- [lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
 - [werf](https://github.com/werf/werf) - The CLI tool gluing Git, Docker, Helm, and Kubernetes with any CI system to implement CI/CD and Giterminism
 - [compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages
