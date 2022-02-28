@@ -141,6 +141,7 @@
 
 ## Go 
 
+- [naza](https://github.com/q191201771/naza) - 🔥 Go basic library. || Go语言基础库
 - [casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
 - [knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [go-tagexpr](https://github.com/bytedance/go-tagexpr) - An interesting go struct tag expression syntax for field validation, etc.
