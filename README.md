@@ -634,7 +634,7 @@
 - [strawberry](https://github.com/nicholaskh/strawberry) - An openresty web framework consists of MVC and ORM
 - [nginx-lua-static-merger](https://github.com/grasses/nginx-lua-static-merger) - Static files merger base on openresty
 - [lua-resty-s3](https://github.com/jie123108/lua-resty-s3) - a aws s3 client for ngx_lua
-- [luastar](https://github.com/luastar/luastar) - 一个基于openresty的http接口和web开发框架
+- [luastar](https://github.com/luastar/luastar) - 一个基于openresty的http接口开发框架或网关
 - [VeryNginx](https://github.com/alexazhou/VeryNginx) - A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
 - [anonymous](https://github.com/aifeiasdf/anonymous) - 基于OpenResty搭建的 API SERVER 框架
 - [kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
