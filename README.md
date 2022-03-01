@@ -170,7 +170,7 @@
 - [quicktemplate](https://github.com/valyala/quicktemplate) - Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template
 - [fasttemplate](https://github.com/valyala/fasttemplate) - Simple and fast template engine for Go
 - [proxypool](https://github.com/zu1k/proxypool) - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表
-- [micro](https://github.com/micro/micro) - A distributed cloud operating system
+- [micro](https://github.com/micro/micro) - A distributed cloud platform
 - [minikube](https://github.com/AliyunContainerService/minikube) - 普大喜奔，官方Minikube提供了完整对国内用户支持，完美支持Addon组件。 建议参考 https://yq.aliyun.com/articles/221687 或 https://github.com/AliyunContainerService/minikube/wiki 最新支持minikube v1.24.0
 - [rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
@@ -391,7 +391,7 @@
 - [cast](https://github.com/spf13/cast) - safe and easy casting from one type to another in Go
 - [golang-web-dev](https://github.com/GoesToEleven/golang-web-dev) - 
 - [ent](https://github.com/ent/ent) - An entity framework for Go
-- [go-micro](https://github.com/asim/go-micro) - A framework for distributed systems development
+- [go-micro](https://github.com/asim/go-micro) - A distributed systems framework
 - [machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing.
 - [gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
 - [go-patterns](https://github.com/sevenelevenlee/go-patterns) - Golang 设计模式
