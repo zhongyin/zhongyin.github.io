@@ -817,7 +817,7 @@
 
 ## Rust 
 
-- [rust-by-practice](https://github.com/sunface/rust-by-practice) - Practice Rust with typical examples, challenging exercises and small practical projects to narrow the gap between learning and skilled use.
+- [rust-by-practice](https://github.com/sunface/rust-by-practice) - Practice Rust with challenging examples, exercises and projects to narrow the gap between beginner and skilled-dev.
 - [tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
