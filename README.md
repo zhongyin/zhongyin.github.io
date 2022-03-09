@@ -140,6 +140,7 @@
 
 ## Go 
 
+- [kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
 - [naza](https://github.com/q191201771/naza) - 🔥 Go basic library. || Go语言基础库
 - [casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
 - [knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
@@ -164,7 +165,6 @@
 - [go-queue](https://github.com/zeromicro/go-queue) - Kafka, Beanstalkd Pub/Sub framework.
 - [wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [gopkg](https://github.com/bytedance/gopkg) - Universal Utilities for Go
-- [kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
 - [dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [quicktemplate](https://github.com/valyala/quicktemplate) - Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template
 - [fasttemplate](https://github.com/valyala/fasttemplate) - Simple and fast template engine for Go
