@@ -141,6 +141,7 @@
 
 ## Go 
 
+- [go-stash](https://github.com/kevwan/go-stash) - go-stash is a high performance, free and open source server-side data processing pipeline that ingests data from Kafka, processes it, and then sends it to ElasticSearch.
 - [kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
 - [naza](https://github.com/q191201771/naza) - 🔥 Go basic library. || Go语言基础库
 - [casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
