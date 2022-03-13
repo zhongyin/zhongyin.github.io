@@ -324,7 +324,7 @@
 - [db2struct](https://github.com/Shelnutt2/db2struct) - Converts a mysql table into a golang struct
 - [bashhub-server](https://github.com/nicksherron/bashhub-server) - Private cloud shell history. Open source server for bashhub https://github.com/rcaloras/bashhub-client
 - [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [excelize](https://github.com/qax-os/excelize) - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
+- [excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLSX) files.
 - [opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
 - [lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
