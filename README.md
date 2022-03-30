@@ -162,7 +162,7 @@
 - [go-metrics](https://github.com/rcrowley/go-metrics) - Go port of Coda Hale's Metrics library
 - [delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [exp-httpclient](https://github.com/bradfitz/exp-httpclient) - experimental new HTTP client API for #golang (WIP)
-- [gorse](https://github.com/zhenghaoz/gorse) - An open source recommender system service written in Go
+- [gorse](https://github.com/gorse-io/gorse) - An open source recommender system service written in Go
 - [tunny](https://github.com/Jeffail/tunny) - A goroutine pool for Go
 - [go-queue](https://github.com/zeromicro/go-queue) - Kafka, Beanstalkd Pub/Sub framework.
 - [wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
