@@ -140,6 +140,7 @@
 
 ## Go 
 
+- [gin-api](https://github.com/why444216978/gin-api) - GoLang 微服务框架，封装各种常用组件，包括配置、日志、DB、RabbitMQ、Redis、缓存处理（解决缓存穿透、击穿、雪崩）、服务注册、服务发现、负载均衡、分布式锁、分布式链路追踪等，目的在于提高Go应用开发效率。
 - [go-demo](https://github.com/pibigstar/go-demo) - Go语言实例教程从入门到进阶，包括基础库使用、设计模式、面试易错点、工具类、对接第三方等
 - [kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.
 - [go-stash](https://github.com/kevwan/go-stash) - go-stash is a high performance, free and open source server-side data processing pipeline that ingests data from Kafka, processes it, and then sends it to ElasticSearch.
