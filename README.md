@@ -147,7 +147,6 @@
 - [kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
 - [naza](https://github.com/q191201771/naza) - 🔥 Go basic library. || Go语言基础库
 - [casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
-- [knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [go-tagexpr](https://github.com/bytedance/go-tagexpr) - An interesting go struct tag expression syntax for field validation, etc.
 - [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [sealos](https://github.com/fanux/sealos) - 以kubernetes为内核的云操作系统发行版，3min 一键高可用安装自定义kubernetes，500M，100年证书，版本不要太全，生产环境稳如老狗🔥 ⎈ 🐳
@@ -560,6 +559,7 @@
 
 - [spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
 - [yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
+- [knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
 - [cnpmjs.org](https://github.com/cnpm/cnpmjs.org) - ‼️ ‼️ ‼️ ‼️  DEPRECATED, please use https://github.com/cnpm/cnpmcore ‼️ ‼️ ‼️ ‼️
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
