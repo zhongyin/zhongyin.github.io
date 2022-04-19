@@ -140,6 +140,8 @@
 
 ## Go 
 
+- [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+- [gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [bytebase](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams. Public demo: https://demo.bytebase.com
 - [goleveldb](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go.
 - [goka](https://github.com/lovoo/goka) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
@@ -264,7 +266,6 @@
 - [fate](https://github.com/babyname/fate) - Fate is a modern science chinese name create tool.
 - [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
-- [gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
 - [go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语言定制指南》(原名：Go语法树入门/开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/凹语言)
 - [str](https://github.com/mgutz/str) - Package str is a string library to build more Go awesomeness
@@ -301,7 +302,6 @@
 - [kcp-go](https://github.com/xtaci/kcp-go) - A Crypto-Secure, Production-Grade Reliable-UDP Library for golang with FEC
 - [over-golang](https://github.com/overnote/over-golang) - Golang相关：[审稿进度80%]Go语法、Go并发思想、Go与web开发、Go微服务设施等
 - [mosn](https://github.com/mosn/mosn) - The Cloud-Native Network Proxy Platform.
-- [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [stack-rpc-tutorials](https://github.com/printfcoder/stack-rpc-tutorials) - Stack-RPC 中文示例、教程、资料，源码解读
 - [chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [learning_tools](https://github.com/hwholiday/learning_tools) - Go 学习、Go 进阶、Go 实用工具类、Go DDD 项目落地、Go-kit 、Go-Micro 、Go 推送平台、微服务实践
@@ -824,6 +824,7 @@
 
 ## Rust 
 
+- [meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
 - [rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.
 - [tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
