@@ -825,6 +825,7 @@
 
 ## Rust 
 
+- [utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
 - [meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
 - [rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.
 - [tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
