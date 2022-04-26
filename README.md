@@ -439,7 +439,7 @@
 - [bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go.
 - [go-flutter](https://github.com/go-flutter-desktop/go-flutter) - Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.
 - [goalert](https://github.com/target/goalert) - Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert
-- [geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
+- [geziyor](https://github.com/geziyor/geziyor) - Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [objx](https://github.com/stretchr/objx) - Go package for dealing with maps, slices, JSON and other data.
 - [websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
