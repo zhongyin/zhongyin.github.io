@@ -566,7 +566,6 @@
 - [knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
 - [cnpmjs.org](https://github.com/cnpm/cnpmjs.org) - ‼️ ‼️ ‼️ ‼️  DEPRECATED, please use https://github.com/cnpm/cnpmcore ‼️ ‼️ ‼️ ‼️
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [gpgsync](https://github.com/syumai/gpgsync) - The Go Playground with coedit mode.
 - [etcdkeeper](https://github.com/evildecay/etcdkeeper) - web ui client for etcd
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -939,6 +938,7 @@
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
 - [superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [midway](https://github.com/midwayjs/midway) - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
 - [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [code-server](https://github.com/coder/code-server) - VS Code in the browser
