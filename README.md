@@ -302,7 +302,7 @@
 - [nightingale](https://github.com/didi/nightingale) - An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and management.
 - [kcp-go](https://github.com/xtaci/kcp-go) - A Crypto-Secure, Production-Grade Reliable-UDP Library for golang with FEC
 - [over-golang](https://github.com/overnote/over-golang) - Golang相关：[审稿进度80%]Go语法、Go并发思想、Go与web开发、Go微服务设施等
-- [mosn](https://github.com/mosn/mosn) - The Cloud-Native Network Proxy Platform.
+- [mosn](https://github.com/mosn/mosn) - The Cloud-Native Network Proxy Platform
 - [stack-rpc-tutorials](https://github.com/printfcoder/stack-rpc-tutorials) - Stack-RPC 中文示例、教程、资料，源码解读
 - [chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [learning_tools](https://github.com/hwholiday/learning_tools) - Go 学习、Go 进阶、Go 实用工具类、Go DDD 项目落地、Go-kit 、Go-Micro 、Go 推送平台、微服务实践
