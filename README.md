@@ -341,7 +341,7 @@
 - [go-internals](https://github.com/go-internals-cn/go-internals) - Chinese Translation of https://github.com/teh-cmc/go-internals
 - [httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
 - [ingress-nginx](https://github.com/kubernetes/ingress-nginx) - NGINX Ingress Controller for Kubernetes
-- [minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
+- [minio](https://github.com/minio/minio) - Multi-Cloud Object Storage
 - [redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
 - [under-the-hood](https://github.com/golang-design/under-the-hood) - 📚 Go: Under The Hood | Go 语言原本 | https://golang.design/under-the-hood
 - [kubernetes-ingress](https://github.com/nginxinc/kubernetes-ingress) - NGINX and  NGINX Plus Ingress Controllers for Kubernetes
@@ -630,6 +630,7 @@
 
 ## Lua 
 
+- [openresty-best-practices](https://github.com/moonbingbing/openresty-best-practices) - 
 - [apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 - [oresty](https://github.com/bilibili/oresty) - 
 - [lsofgraph](https://github.com/zevv/lsofgraph) - lsof to graphviz
@@ -644,7 +645,6 @@
 - [VeryNginx](https://github.com/alexazhou/VeryNginx) - A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
 - [anonymous](https://github.com/aifeiasdf/anonymous) - 基于OpenResty搭建的 API SERVER 框架
 - [kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
-- [openresty-best-practices](https://github.com/moonbingbing/openresty-best-practices) - 
 
 ## Markdown 
 
