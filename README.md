@@ -475,7 +475,7 @@
 - [istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [pipe](https://github.com/b3log/pipe) - 🎷 一款小而美的博客平台，专为程序员设计。
-- [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. A wonderful alternative to expressjs. Supports AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |
+- [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. A true successor of expressjs and laravel. Supports AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. Thank you/谢谢 https://github.com/kataras/iris/issues/1329 |
 - [naftis](https://github.com/XiaoMi/naftis) - An awesome dashboard for Istio built with love.
 - [skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [TarsGo](https://github.com/TarsCloud/TarsGo) - A  high performance microservice  framework  in golang. A linux foundation project.
