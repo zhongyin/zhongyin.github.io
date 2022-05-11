@@ -220,7 +220,7 @@
 - [photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [dingtalk-sender](https://github.com/n9e/dingtalk-sender) - 夜莺的钉钉群告警发送器
-- [go-zero](https://github.com/zeromicro/go-zero) - A web and RPC framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
+- [go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
 - [code2img](https://github.com/golang-design/code2img) - 🖨️ A carbon-now API wrapper and iOS Shortcut
 - [logr](https://github.com/go-logr/logr) - A simple logging interface for Go
