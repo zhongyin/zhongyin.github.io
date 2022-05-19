@@ -45,7 +45,6 @@
 
 ## Assembly 
 
-- [sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 
 ## C 
@@ -166,6 +165,7 @@
 - [filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
 - [netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
+- [sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [go-metrics](https://github.com/rcrowley/go-metrics) - Go port of Coda Hale's Metrics library
 - [delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [exp-httpclient](https://github.com/bradfitz/exp-httpclient) - experimental new HTTP client API for #golang (WIP)
