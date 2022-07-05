@@ -656,6 +656,7 @@
 
 ## Makefile 
 
+- [booknotes](https://github.com/PegasusWang/booknotes) - PegasusWang 的读书笔记
 - [project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 
 ## Markdown 
