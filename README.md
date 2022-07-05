@@ -838,6 +838,7 @@
 
 ## Rust 
 
+- [code](https://github.com/rust-in-action/code) - Source code for the book Rust in Action
 - [libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit
 - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
@@ -900,7 +901,6 @@
 - [book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [dtool](https://github.com/guoxbin/dtool) - A command-line tool collection to assist development written in RUST
 - [free](https://github.com/adam-mcdaniel/free) - An esoteric programming language with an unusual compiler backend
-- [code](https://github.com/rust-in-action/code) - Source code for the book Rust in Action
 - [ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
 
 ## SCSS 
