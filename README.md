@@ -920,6 +920,7 @@
 
 ## Shell 
 
+- [apisix-build-tools](https://github.com/api7/apisix-build-tools) - Build tools to package and release
 - [pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [GCTT](https://github.com/studygolang/GCTT) - GCTT Go中文网翻译组。
 - [easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
