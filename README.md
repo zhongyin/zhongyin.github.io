@@ -167,7 +167,7 @@
 - [kite](https://github.com/koding/kite) - Micro-service framework in Go
 - [gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times
 - [authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
-- [goutil](https://github.com/gookit/goutil) - 💪 Helper Utils For Go: int, string, array/slice, map, dump, convert/format, error, web/http, cli, OS/ENV, filesystem, system, test, time and more. Go 常用的一些工具函数，数字，字符串，数组，Map，文件，错误，时间日期，特殊处理，格式化，常用信息获取等等
+- [goutil](https://github.com/gookit/goutil) - 💪 Helper Utils For Go: int, string, array/slice, map, struct, dump, convert/format, error, web/http, cli, OS/ENV, filesystem, system, test/assert, time and more. Go 常用的一些工具函数，数字，字符串，数组，Map，文件，错误，时间日期，特殊处理，格式化，常用信息获取等等
 - [glog](https://github.com/golang/glog) - Leveled execution logs for Go
 - [filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
