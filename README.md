@@ -925,6 +925,7 @@
 
 ## Shell 
 
+- [TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [apisix-build-tools](https://github.com/api7/apisix-build-tools) - Build tools to package and release
 - [pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [GCTT](https://github.com/studygolang/GCTT) - GCTT Go中文网翻译组。
@@ -934,7 +935,6 @@
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [docker-pg-replication](https://github.com/2hamed/docker-pg-replication) - Example Dockerfiles for setting up PostgreSQL HA replication inside of Docker
-- [TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 - [htrace.sh](https://github.com/trimstray/htrace.sh) - My simple Swiss Army knife for http/https troubleshooting and profiling.
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
