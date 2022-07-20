@@ -79,7 +79,7 @@
 
 ## C++ 
 
-- [carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon language specification and documentation.
+- [carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [NanoLog](https://github.com/PlatformLab/NanoLog) - Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API.
 - [watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
