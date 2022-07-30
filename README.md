@@ -611,7 +611,6 @@
 - [wp-calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com
 - [react-demos](https://github.com/ruanyf/react-demos) - a collection of simple demos of React.js
 - [nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
-- [chartist-js](https://github.com/gionkunz/chartist-js) - Simple responsive charts
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [winjs](https://github.com/winjs/winjs) - A UI toolkit for modern browsers
 - [lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
@@ -970,6 +969,7 @@
 - [grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
+- [chartist-js](https://github.com/gionkunz/chartist-js) - Simple responsive charts
 
 ## Vim script 
 
