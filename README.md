@@ -141,6 +141,7 @@
 
 ## Go 
 
+- [clickvisual](https://github.com/clickvisual/clickvisual) - A light weight log and data visual analytic platform  for clickhouse.
 - [casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
 - [gorm-adapter](https://github.com/casbin/gorm-adapter) - Gorm adapter for Casbin
 - [rockscache](https://github.com/dtm-labs/rockscache) - The First Redis Cache Library To Ensure Eventual Consistency And Strong Consistency With DB.
