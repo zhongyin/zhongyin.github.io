@@ -956,7 +956,7 @@
 ## TypeScript 
 
 - [adx](https://github.com/bluesky-social/adx) - Experiment in self-authenticating data structures for a federated social network
-- [kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web GUI for Apache Kafka Management
+- [kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management
 - [tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
