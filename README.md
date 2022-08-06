@@ -975,7 +975,7 @@
 - [grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
-- [chartist-js](https://github.com/gionkunz/chartist-js) - Simple responsive charts
+- [chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
 
 ## Vim script 
 
