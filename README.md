@@ -142,6 +142,7 @@
 
 ## Go 
 
+- [Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
 - [lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [clickvisual](https://github.com/clickvisual/clickvisual) - A light weight log and data visual analytic platform  for clickhouse.
 - [casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
