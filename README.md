@@ -499,7 +499,7 @@
 - [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [rpcx](https://github.com/smallnest/rpcx) - Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱! build for cloud!
 - [github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
-- [teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
+- [teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure.
 - [teleconsole](https://github.com/gravitational/teleconsole) - Command line tool to share your UNIX terminal and forward local TCP ports to people you trust.
 - [rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
