@@ -253,7 +253,6 @@
 - [wechat-sender](https://github.com/n9e/wechat-sender) - 夜莺的微信告警发送器
 - [kcli](https://github.com/cswank/kcli) - A kafka command line browser
 - [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
-- [server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [gnomock](https://github.com/orlangure/gnomock) - Test your code without writing mocks with ephemeral Docker containers 📦 Setup popular services with just a couple lines of code ⏱️ No bash, no yaml, only code 💻
 - [google-cloud-go](https://github.com/googleapis/google-cloud-go) - Google Cloud Client Libraries for Go.
 - [xlsx](https://github.com/tealeg/xlsx) - Go (golang) library for reading and writing XLSX files.
@@ -968,6 +967,7 @@
 - [superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [midway](https://github.com/midwayjs/midway) - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
 - [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [code-server](https://github.com/coder/code-server) - VS Code in the browser
