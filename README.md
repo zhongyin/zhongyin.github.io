@@ -143,6 +143,7 @@
 
 ## Go 
 
+- [lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
 - [lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [clickvisual](https://github.com/clickvisual/clickvisual) - A light weight log and data visual analytic platform  for clickhouse.
@@ -196,7 +197,6 @@
 - [rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [bee](https://github.com/ethersphere/bee) - Bee is a Swarm client implemented in Go. It’s the basic building block for the Swarm network: a private; decentralized; and self-sustaining network for permissionless publishing and access to your (application) data.
-- [lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [bytebufferpool](https://github.com/valyala/bytebufferpool) - Anti-memory-waste byte buffer pool
 - [sniper](https://github.com/go-kiss/sniper) - 轻量级 go 业务框架
 - [kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
