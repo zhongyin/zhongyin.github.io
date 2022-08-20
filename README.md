@@ -143,6 +143,11 @@
 
 ## Go 
 
+- [fuzzy](https://github.com/sahilm/fuzzy) - Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al.
+- [litter](https://github.com/sanity-io/litter) - Litter is a pretty printer library for Go data structures to aid in debugging and testing.
+- [go-runewidth](https://github.com/mattn/go-runewidth) - wcwidth for golang
+- [str](https://github.com/mgutz/str) - Package str is a string library to build more Go awesomeness
+- [errors](https://github.com/go-errors/errors) - errors with stacktraces for go
 - [lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
 - [lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
@@ -280,7 +285,6 @@
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
 - [go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语言定制指南》(原名：Go语法树入门/开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST)
-- [str](https://github.com/mgutz/str) - Package str is a string library to build more Go awesomeness
 - [sentinel-golang](https://github.com/alibaba/sentinel-golang) - Sentinel Go version (Reliability & Resilience)
 - [hystrix-go](https://github.com/afex/hystrix-go) - Netflix's Hystrix latency and fault tolerance library, for Go
 - [gcache](https://github.com/bluele/gcache) - An in-memory cache library for golang. It supports multiple eviction policies: LRU, LFU, ARC
