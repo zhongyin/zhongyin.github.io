@@ -401,7 +401,7 @@
 - [brook](https://github.com/txthinking/brook) - A cross-platform network tool designed for developers. 一个为开发者设计的跨平台网络工具.
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [helm](https://github.com/helm/helm) - The Kubernetes Package Manager
-- [protobuf](https://github.com/gogo/protobuf) - [Looking for new ownership] Protocol Buffers for Go with Gadgets
+- [protobuf](https://github.com/gogo/protobuf) - [Deprecated] Protocol Buffers for Go with Gadgets
 - [short](https://github.com/short-d/short) - URL shortening service written in Go and React
 - [vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs.
 - [martian](https://github.com/google/martian) - Martian is a library for building custom HTTP/S proxies
