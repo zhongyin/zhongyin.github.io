@@ -806,7 +806,7 @@
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
