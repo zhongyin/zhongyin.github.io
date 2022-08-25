@@ -176,7 +176,7 @@
 - [naza](https://github.com/q191201771/naza) - 🍀 Go basic library. || Go语言基础库
 - [go-tagexpr](https://github.com/bytedance/go-tagexpr) - An interesting go struct tag expression syntax for field validation, etc.
 - [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
-- [sealos](https://github.com/labring/sealos) - sealos is a kubernetes distribution. Let's sealos run kubernetes:v1.24.0 in 3 minutes!
+- [sealos](https://github.com/labring/sealos) - sealos is a kubernetes distribution. Let's sealos run kubernetes:v1.25.0 in 3 minutes!
 - [gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science.
 - [kite](https://github.com/koding/kite) - Micro-service framework in Go
 - [gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times
