@@ -143,6 +143,7 @@
 
 ## Go 
 
+- [go-hashids](https://github.com/speps/go-hashids) - Go (golang) implementation of http://www.hashids.org
 - [hertz](https://github.com/cloudwego/hertz) - A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
 - [kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Go RPC framework that helps developers build microservices.
 - [fuzzy](https://github.com/sahilm/fuzzy) - Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al.
