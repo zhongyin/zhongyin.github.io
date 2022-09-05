@@ -42,7 +42,7 @@
   - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
-  - [Vim script](#vim-script)
+  - [Vim Script](#vim-script)
   - [Vue](#vue)
 
 ## Assembly 
@@ -982,7 +982,7 @@
 - [upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
 
-## Vim script 
+## Vim Script 
 
 - [vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 
