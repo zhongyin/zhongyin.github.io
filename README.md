@@ -146,6 +146,7 @@
 
 ## Go 
 
+- [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) - The official Go client for Elasticsearch
 - [luk4z7/go-concurrency-guide](https://github.com/luk4z7/go-concurrency-guide) - Practical concurrency guide in Go, communication by channels, patterns
 - [piupuer/gin-web](https://github.com/piupuer/gin-web) - 由gin + gorm + jwt + casbin组合实现的RBAC权限管理脚手架Golang版, 搭建完成即可快速、高效投入业务开发
 - [gin-contrib/authz](https://github.com/gin-contrib/authz) - gin-authz is an authorization middleware for Gin
