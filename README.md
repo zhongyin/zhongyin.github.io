@@ -146,9 +146,9 @@
 
 ## Go 
 
+- [qingconglaixueit/wechatbot](https://github.com/qingconglaixueit/wechatbot) - 为个人微信接入ChatGPT
 - [eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat) - golang微信SDK
 - [skip2/go-qrcode](https://github.com/skip2/go-qrcode) - :sparkles: QR Code encoder (Go)
-- [ZYallers/chatgpt_wechat_robot](https://github.com/ZYallers/chatgpt_wechat_robot) - 个人微信接入ChatGPT，实现和GPT机器人互动聊天。支持私聊回复和群聊艾特回复。
 - [Leizhenpeng/feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt) - 🎒飞书  ×（GPT-3.5 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 - [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) - The official Go client for Elasticsearch
 - [luk4z7/go-concurrency-guide](https://github.com/luk4z7/go-concurrency-guide) - Practical concurrency guide in Go, communication by channels, patterns
