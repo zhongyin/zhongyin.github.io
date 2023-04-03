@@ -27,6 +27,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nim](#nim)
+- [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
@@ -56,7 +57,7 @@
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [guanzhi/GmSSL](https://github.com/guanzhi/GmSSL) - 支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱
 - [Wind4/vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
-- [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter, and the most universal WASM runtime
+- [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
 - [OpenAtomFoundation/TencentOS-tiny](https://github.com/OpenAtomFoundation/TencentOS-tiny) - 腾讯物联网终端操作系统
 - [emweb/wt](https://github.com/emweb/wt) - Wt, C++ Web Toolkit
 - [mozilla-services/hindsight](https://github.com/mozilla-services/hindsight) - Hindsight - light weight data processing skeleton
@@ -146,6 +147,7 @@
 
 ## Go 
 
+- [beinan/fastid](https://github.com/beinan/fastid) - Snowflake ID generating in Go
 - [qingconglaixueit/wechatbot](https://github.com/qingconglaixueit/wechatbot) - 为个人微信接入ChatGPT
 - [eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat) - golang微信SDK
 - [skip2/go-qrcode](https://github.com/skip2/go-qrcode) - :sparkles: QR Code encoder (Go)
@@ -212,7 +214,7 @@
 - [bytedance/gopkg](https://github.com/bytedance/gopkg) - Universal Utilities for Go
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [valyala/fasttemplate](https://github.com/valyala/fasttemplate) - Simple and fast template engine for Go
-- [zu1k/proxypool](https://github.com/zu1k/proxypool) - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重测试可用性后提供节点列表
+- [zu1k/proxypool](https://github.com/zu1k/proxypool) - 
 - [micro/micro](https://github.com/micro/micro) - API first development platform
 - [AliyunContainerService/minikube](https://github.com/AliyunContainerService/minikube) - 普大喜奔，官方Minikube提供了完整对国内用户支持，完美支持Addon组件。 建议参考 https://yq.aliyun.com/articles/221687 或 https://github.com/AliyunContainerService/minikube/wiki 最新支持minikube v1.24.0
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
@@ -247,7 +249,7 @@
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 - [Harry-027/go-notify](https://github.com/Harry-027/go-notify) - An email automation solution, written in Golang.
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
-- [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。
+- [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器,chatGPT自动查表等开发必备功能。
 - [hantmac/Mastering_Go_Second_Edition_Zh_CN](https://github.com/hantmac/Mastering_Go_Second_Edition_Zh_CN) - Mastering Go 第二版中文版来袭！
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [n9e/dingtalk-sender](https://github.com/n9e/dingtalk-sender) - 夜莺的钉钉群告警发送器
@@ -685,6 +687,7 @@
 - [PegasusWang/booknotes](https://github.com/PegasusWang/booknotes) - PegasusWang 的读书笔记
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
 
 ## Markdown 
 
@@ -694,6 +697,10 @@
 ## Nim 
 
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
+
+## OCaml 
+
+- [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 
 ## Objective-C 
 
@@ -783,7 +790,6 @@
 - [bungle/awesome-resty](https://github.com/bungle/awesome-resty) - A List of Quality OpenResty Libraries, and Resources.
 - [XiaoMi/open-falcon](https://github.com/XiaoMi/open-falcon) - A Distributed and High-Performance Monitoring System
 - [fouber/blog](https://github.com/fouber/blog) - 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
 - [Trinea/android-open-project](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects,  More powerful web version:
 - [pcqpcq/open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) - Open-Source Android Apps
 - [moklick/frontend-stuff](https://github.com/moklick/frontend-stuff) - 📝 A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly JavaScript.
@@ -826,7 +832,6 @@
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
-- [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
 - [lyhue1991/eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
@@ -944,11 +949,13 @@
 
 ## Scala 
 
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [scala/scala](https://github.com/scala/scala) - Scala 2 compiler and standard library. For bugs, see scala/bug
 - [linkerd/linkerd](https://github.com/linkerd/linkerd) - Old repo for Linkerd 1.x. See the linkerd2 repo for Linkerd   2.x.
 
 ## Shell 
 
+- [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) - 
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [api7/apisix-build-tools](https://github.com/api7/apisix-build-tools) - Build tools to package and release
