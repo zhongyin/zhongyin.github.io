@@ -146,6 +146,7 @@
 
 ## Go 
 
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps) - This repo contains all my learning related to DevOps
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 现代化、开源的 Linux 服务器运维管理面板。
 - [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) - A high performance memory-bound Go cache
@@ -196,20 +197,20 @@
 - [q191201771/naza](https://github.com/q191201771/naza) - 🍀 Golang basic library. || Go语言基础库
 - [bytedance/go-tagexpr](https://github.com/bytedance/go-tagexpr) - An interesting go struct tag expression syntax for field validation, etc.
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution, a general-purpose Cloud Operating System designed for managing cloud-native applications. Demo: https://cloud.sealos.io
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution, a Cloud Operating System designed for managing cloud-native applications. Demo: https://cloud.sealos.io
 - [goplus/gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science.
 - [koding/kite](https://github.com/koding/kite) - Micro-service framework in Go
 - [nytimes/gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
-- [gookit/goutil](https://github.com/gookit/goutil) - 💪 Helper Utils For Go: int, byte, string, array/slice, map, struct, dump, convert/format, error, web/http, cli/flag, OS/ENV, filesystem, system, test/assert, time and more. Go 常用的一些工具函数：数字，字符串，数组，Map，
+- [gookit/goutil](https://github.com/gookit/goutil) - 💪 Helper Utils(600+): int, byte, string, array/slice, map, struct, dump, convert/format, error, web/http, cli/flag, OS/ENV, filesystem, system, test/assert, time and more. Go 常用的一些工具函数：数字，字符串，数组，Map，结
 - [golang/glog](https://github.com/golang/glog) - Leveled execution logs for Go
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
-- [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
+- [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by CloudWeGo.
 - [rcrowley/go-metrics](https://github.com/rcrowley/go-metrics) - Go port of Coda Hale's Metrics library
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [bradfitz/exp-httpclient](https://github.com/bradfitz/exp-httpclient) - experimental new HTTP client API for #golang (WIP)
-- [gorse-io/gorse](https://github.com/gorse-io/gorse) - An open source recommender system service written in Go
+- [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine
 - [Jeffail/tunny](https://github.com/Jeffail/tunny) - A goroutine pool for Go
 - [zeromicro/go-queue](https://github.com/zeromicro/go-queue) - Kafka, Beanstalkd Pub/Sub framework.
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
@@ -259,7 +260,6 @@
 - [kkdai/youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
 - [golang-design/code2img](https://github.com/golang-design/code2img) - 🖨️ A carbon-now API wrapper and iOS Shortcut
 - [go-logr/logr](https://github.com/go-logr/logr) - A simple logging interface for Go
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [Terry-Mao/goim](https://github.com/Terry-Mao/goim) - goim
 - [guonaihong/gout](https://github.com/guonaihong/gout) - gout to become the Swiss Army Knife of the http client @^^@---&gt;  gout 是http client领域的瑞士军刀，小巧，强大，犀利。具体用法可看文档，如使用迷惑或者API用得不爽都可提issues
 - [imdario/mergo](https://github.com/imdario/mergo) - Mergo: merging Go structs and maps since 2013
@@ -296,7 +296,7 @@
 - [go-gomail/gomail](https://github.com/go-gomail/gomail) - The best way to send emails in Go.
 - [rwynn/monstache](https://github.com/rwynn/monstache) - a go daemon that syncs MongoDB to Elasticsearch in realtime. you know, for search.
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
-- [LyricTian/gin-admin](https://github.com/LyricTian/gin-admin) - RBAC scaffolding based on Gin + Gorm 2.0 + Casbin + Wire DI.
+- [LyricTian/gin-admin](https://github.com/LyricTian/gin-admin) - A lightweight, flexible, elegant and full-featured RBAC scaffolding based on GIN + GORM 2.0 + Casbin + Wire DI.
 - [babyname/fate](https://github.com/babyname/fate) - Fate is a modern science chinese name create tool.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -560,7 +560,6 @@
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
 - [Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management
-- [chefyuan/algorithm-base](https://github.com/chefyuan/algorithm-base) - 一位酷爱做饭的程序员，立志用动画将算法说的通俗易懂。我的面试网站 www.chengxuchu.com
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
 - [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
@@ -596,9 +595,10 @@
 
 ## JavaScript 
 
+- [Yimismi/tools](https://github.com/Yimismi/tools) - 常用工具集合
+- [mholt/json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.
-- [Yimismi/tools](https://github.com/Yimismi/tools) - 常用工具集合
 - [PegasusWang/collection_python](https://github.com/PegasusWang/collection_python) - 
 - [openspug/spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
 - [YMFE/yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
@@ -726,6 +726,7 @@
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
+- [chefyuan/algorithm-base](https://github.com/chefyuan/algorithm-base) - 一位酷爱做饭的程序员，立志用动画将算法说的通俗易懂。我的面试网站 www.chengxuchu.com
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
@@ -813,7 +814,7 @@
 - [z-song/laravel-admin](https://github.com/z-song/laravel-admin) - Build a full-featured administrative interface in ten minutes
 - [WordPress/Requests](https://github.com/WordPress/Requests) - Requests for PHP is a humble HTTP request library. It simplifies how you interact with other sites and takes away all your worries.
 - [lnnujxxy/api-framework](https://github.com/lnnujxxy/api-framework) - 基于yaf,openresty实现高效，简洁api框架
-- [parse-community/parse-php-sdk](https://github.com/parse-community/parse-php-sdk) - The Parse PHP SDK.
+- [parse-community/parse-php-sdk](https://github.com/parse-community/parse-php-sdk) - The PHP SDK for Parse Platform
 - [dodgepudding/wechat-php-sdk](https://github.com/dodgepudding/wechat-php-sdk) - 微信公众平台php开发包, weixin developer SDK.
 - [php/php-langspec](https://github.com/php/php-langspec) - PHP Language Specification
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension.
@@ -874,7 +875,7 @@
 ## Ruby 
 
 - [fluent/fluentd](https://github.com/fluent/fluentd) - Fluentd: Unified Logging Layer (project under CNCF)
-- [github/linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+- [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [square/maximum-awesome](https://github.com/square/maximum-awesome) - Config files for vim and tmux.
 - [SteveLTN/https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
@@ -1000,6 +1001,7 @@
 
 ## TypeScript 
 
+- [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - An unofficial Visual Studio Code - OpenAI ChatGPT integration
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
