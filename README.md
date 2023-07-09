@@ -48,7 +48,6 @@
 
 ## Assembly 
 
-- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 
 ## C 
@@ -107,7 +106,6 @@
 - [Tencent/phxsql](https://github.com/Tencent/phxsql) - A high availability MySQL cluster that guarantees data consistency between a master and slaves.
 - [Qihoo360/logkafka](https://github.com/Qihoo360/logkafka) - Collect logs and send lines to Apache Kafka
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
-- [fastly/pushpin](https://github.com/fastly/pushpin) - Proxy server for adding push to your API
 - [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
@@ -150,6 +148,8 @@
 
 ## Go 
 
+- [ZQCard/kbk-ai](https://github.com/ZQCard/kbk-ai) - 
+- [miguelmota/golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers) - Examples of Golang compared to Node.js for learning 🤓
 - [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic
 - [nntaoli-project/goex](https://github.com/nntaoli-project/goex) - Cryptocurrency Exchange Rest  API SDK For Golang  Wrapper Support okx,huobi,binance
@@ -196,7 +196,7 @@
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [cookieY/Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse.
-- [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
+- [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [casbin/gorm-adapter](https://github.com/casbin/gorm-adapter) - GORM adapter for Casbin, see extended version of GORM Adapter Ex at: https://github.com/casbin/gorm-adapter-ex
 - [dtm-labs/rockscache](https://github.com/dtm-labs/rockscache) - The First Redis Cache Library To Ensure Eventual Consistency And Strong Consistency With DB.
 - [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
@@ -228,6 +228,7 @@
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
 - [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework focusing on RPC scenarios.
+- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [rcrowley/go-metrics](https://github.com/rcrowley/go-metrics) - Go port of Coda Hale's Metrics library
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [bradfitz/exp-httpclient](https://github.com/bradfitz/exp-httpclient) - experimental new HTTP client API for #golang (WIP)
@@ -571,7 +572,7 @@
 
 ## Java 
 
-- [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
+- [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行、互动问答的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Dart, Zig 等语言。
 - [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C++、mysql、mongodb、golang、blockchain、markdown
 - [liyupi/sql-father-backend-public](https://github.com/liyupi/sql-father-backend-public) - 新项目：快速生成 SQL 和模拟数据的网站（Java 后端），大幅提高开发测试效率！by 程序员鱼皮
@@ -738,6 +739,7 @@
 
 ## Others 
 
+- [ZQCard/kratos-base-kit](https://github.com/ZQCard/kratos-base-kit) - 基于go-kratos框架开发的基础服务，以及快速启动layout
 - [shgopher/GOFamily](https://github.com/shgopher/GOFamily) - 🔥 go 后端程序员宝典：go基础语法，go底层原理，go runtime 实现原理，go 并发模式 ，go语言项目经验
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
 - [MystenLabs/awesome-move](https://github.com/MystenLabs/awesome-move) - Code and content from the Move community.
@@ -915,6 +917,9 @@
 
 ## Rust 
 
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
+- [FuelLabs/sway](https://github.com/FuelLabs/sway) - 🌴 Empowering everyone to build reliable and efficient smart contracts.
+- [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / B
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
 - [MystenLabs/sui](https://github.com/MystenLabs/sui) - Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
@@ -990,6 +995,7 @@
 - [guoxbin/dtool](https://github.com/guoxbin/dtool) - A command-line tool collection to assist development written in RUST
 - [adam-mcdaniel/free](https://github.com/adam-mcdaniel/free) - An esoteric programming language with an unusual compiler backend
 - [cjbassi/ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
+- [fastly/pushpin](https://github.com/fastly/pushpin) - Proxy server for adding push to your API
 
 ## SCSS 
 
