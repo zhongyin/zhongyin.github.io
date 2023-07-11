@@ -148,6 +148,8 @@
 
 ## Go 
 
+- [woodylan/go-websocket](https://github.com/woodylan/go-websocket) - 基于Golang实现的分布式WebSocket服务、IM服务，仅依赖Etcd，简单易部署，支持高并发、单发、群发、广播，其它项目可以通过http与本项目通信。
+- [hequan2017/go-admin](https://github.com/hequan2017/go-admin) - go web api，包含gin+gorm+jwt+rbac等。
 - [ZQCard/kbk-ai](https://github.com/ZQCard/kbk-ai) - 
 - [miguelmota/golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers) - Examples of Golang compared to Node.js for learning 🤓
 - [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API
@@ -490,7 +492,7 @@
 - [geziyor/geziyor](https://github.com/geziyor/geziyor) - Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [stretchr/objx](https://github.com/stretchr/objx) - Go package for dealing with maps, slices, JSON and other data.
-- [gorilla/websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
+- [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [xuperchain/xuperchain](https://github.com/xuperchain/xuperchain) - A highly flexible blockchain architecture with great transaction performance.
 - [smallnest/dive-to-gosync-workshop](https://github.com/smallnest/dive-to-gosync-workshop) - 深入Go并发编程研讨课
