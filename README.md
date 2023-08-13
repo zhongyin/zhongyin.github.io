@@ -155,6 +155,8 @@
 
 ## Go 
 
+- [0xsequence/ethkit](https://github.com/0xsequence/ethkit) - Ethereum dev toolkit for Go
+- [scroll-tech/go-ethereum](https://github.com/scroll-tech/go-ethereum) - Scroll's fork of the official Go implementation of the Ethereum protocol
 - [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯
 - [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
@@ -397,7 +399,7 @@
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [Shelnutt2/db2struct](https://github.com/Shelnutt2/db2struct) - Converts a mysql table into a golang struct
 - [nicksherron/bashhub-server](https://github.com/nicksherron/bashhub-server) - Private cloud shell history. Open source server for bashhub https://github.com/rcaloras/bashhub-client
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
@@ -973,7 +975,7 @@
 - [roogle-rs/roogle](https://github.com/roogle-rs/roogle) - A Rust API search engine
 - [BinChengZhao/delicate](https://github.com/BinChengZhao/delicate) - A lightweight and distributed task scheduling platform written in rust. （一个轻量的分布式的任务调度平台通过rust编写）
 - [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) - Educational blog posts for Rust beginners
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
