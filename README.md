@@ -156,6 +156,7 @@
 
 ## Go 
 
+- [thrasher-corp/gocryptotrader](https://github.com/thrasher-corp/gocryptotrader) - A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang.
 - [c9s/bbgo](https://github.com/c9s/bbgo) - The modern cryptocurrency trading bot framework written in Go.
 - [linweiyuan/go-chatgpt-api](https://github.com/linweiyuan/go-chatgpt-api) - 一个尝试绕过 Cloudflare 来使用 ChatGPT 接口的程序
 - [cyanly/gotrade](https://github.com/cyanly/gotrade) - A proof of concept of an electronic trading system written in Golang
@@ -167,7 +168,7 @@
 - [goware/cachestore](https://github.com/goware/cachestore) - Key-Value store for caching simple objects with pluggable backend and ttl expiry
 - [0xsequence/ethkit](https://github.com/0xsequence/ethkit) - Ethereum dev toolkit for Go
 - [scroll-tech/go-ethereum](https://github.com/scroll-tech/go-ethereum) - Scroll's fork of the official Go implementation of the Ethereum protocol
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM SDK chat
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat
 - [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 - [cloudflare/tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go
@@ -239,7 +240,7 @@
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [lovoo/goka](https://github.com/lovoo/goka) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database DevOps and CI/CD for Developer, DBA and Platform Engineering team.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering team.
 - [syndtr/goleveldb](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go.
 - [why444216978/gin-api](https://github.com/why444216978/gin-api) - Go 微服务框架，Router 基于 Gin，同时支持 gRPC 和 HTTP，封装各种常用组件，开箱即用，专注业务。
 - [pibigstar/go-demo](https://github.com/pibigstar/go-demo) - Go语言实例教程从入门到进阶，包括基础库使用、设计模式、面试易错点、工具类、对接第三方等
@@ -1091,13 +1092,13 @@
 
 ## TypeScript 
 
-- [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. demo:  https://demo.paisa.fyi
+- [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [MyCryptoHQ/eth-scan](https://github.com/MyCryptoHQ/eth-scan) - An efficient Ether and token balance scanner library
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
-- [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
+- [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - An unofficial Visual Studio Code - OpenAI ChatGPT integration
