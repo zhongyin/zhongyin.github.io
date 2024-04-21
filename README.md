@@ -175,6 +175,7 @@
 
 ## Go 
 
+- [cloudwego/fastpb](https://github.com/cloudwego/fastpb) - A faster Protobuf serializer & deserializer.
 - [cloudwego/dynamicgo](https://github.com/cloudwego/dynamicgo) - Dynamically and efficiently operate RPC data for Go
 - [cloudwego/configmanager](https://github.com/cloudwego/configmanager) - 
 - [gen2brain/beeep](https://github.com/gen2brain/beeep) - Go cross-platform library for sending desktop notifications, alerts and beeps
