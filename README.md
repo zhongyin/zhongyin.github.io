@@ -1094,6 +1094,7 @@
 
 ## Rust 
 
+- [cloudwego/shmipc-rs](https://github.com/cloudwego/shmipc-rs) - A high performance inter-process communication Rust library.
 - [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
