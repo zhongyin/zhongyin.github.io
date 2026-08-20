@@ -1200,7 +1200,7 @@
 
 ## Rust 
 
-- [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 80+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
+- [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn't need additional client-side software
@@ -1215,7 +1215,7 @@
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
